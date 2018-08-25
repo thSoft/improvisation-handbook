@@ -1,4 +1,4 @@
 main=Anyag.md
-tocDepth=4
-pandoc $main --toc --toc-depth=$tocDepth --pdf-engine=xelatex -V mainfont="FreeSerif" -o Nyomtatás.pdf
-pandoc $main --toc --toc-depth=$tocDepth -t html -s -o Web.html
+commonSettings="--toc --toc-depth=5 -V lang=hu"
+pandoc $main $commonSettings --pdf-engine=xelatex -V mainfont="FreeSerif"  -o Nyomtatás.pdf
+pandoc $main $commonSettings -t html -s -o Web.html

@@ -1,21 +1,21 @@
 % Szólalj meg bátran a zene nyelvén!
 
-## Előszó
+# Előszó
 
-### Előismeretek
+## Előismeretek
 * kottaolvasás
 * akkord
 
-### Általános szabályok
+## Általános szabályok
 Minden gyakorlatot minél többféle, minél különbözőbb variációban végezz el, legfőképp minél több hangnemben.
 
 Amikor ketten két különböző szerepben játszotok, megbeszélés szerint cserélgethettek.
 
-## Gyakorlatok
+# Gyakorlatok
 
-### Dallam
+## Dallam
 
-#### Pentaton improvizáció
+### Pentaton improvizáció
 * Hangszerelés
     * egy vagy több billentyűs hangszer vagy hárfa pentaton hangolással (c♯, d♯, e♭, f♯, g♯, a♯, b)
 * Szabályok
@@ -51,7 +51,7 @@ Amikor ketten két különböző szerepben játszotok, megbeszélés szerint cse
 * Figyeld meg!
     * A dallam jellegzetes ritmikától nyer karaktert.
 
-#### Népdalimprovizáció
+### Népdalimprovizáció
 * Hangszerelés
     * énekhang vagy bármilyen hangszer
 * Szabályok
@@ -89,7 +89,7 @@ Amikor ketten két különböző szerepben játszotok, megbeszélés szerint cse
     * Egy frázis visszatérhet, akár módosítva; így könnyű megjegyezni, és a hallgatónak is az ismerősség érzését nyújtja.
     * Rögtönzéskor bátran indulj ki meglevő anyagból.
 
-#### Dallam akkordinga fölé
+### Dallam akkordinga fölé
 * Hangszerelés
     * akkordikus hangszer
     * énekhang vagy bármilyen hangszer (opcionális)
@@ -124,7 +124,7 @@ Amikor ketten két különböző szerepben játszotok, megbeszélés szerint cse
 * Figyeld meg!
     * Egy dallam elsősorban az aktuális harmónia, másodsorban az aktuális hangsor hangjaiból építkezik.
 
-#### Dallam akkordsor fölé
+### Dallam akkordsor fölé
 * Hangszerelés
     * akkordikus hangszer
     * énekhang vagy bármilyen hangszer (opcionális)
@@ -141,7 +141,7 @@ Amikor ketten két különböző szerepben játszotok, megbeszélés szerint cse
         * Te: basszus + dallam
         * Te: basszus + harmóniák + dallam
 
-#### Dallam dalkíséret fölé
+### Dallam dalkíséret fölé
 * Hangszerelés
     * akkordikus hangszer
     * énekhang vagy bármilyen hangszer (opcionális)
@@ -157,7 +157,7 @@ Amikor ketten két különböző szerepben játszotok, megbeszélés szerint cse
 * Variációk
     * Partnered a kíséretet ne kottából, hanem harmóniai vázból játssza.
 
-#### Mashup
+### Egyveleg
 * Hangszerelés
     * akkordikus hangszer
     * énekhang vagy bármilyen hangszer (opcionális)
@@ -165,130 +165,132 @@ Amikor ketten két különböző szerepben játszotok, megbeszélés szerint cse
     * Válassz egy népszerű akkordsort, és gyűjts minél több komolyzenei művet vagy könnyűzenei számot, amely rá épül.
     * Partnered ismételgesse a harmóniasort, Te pedig játszd a művek dallamait egymás után.
 * Példák
-    * Pachelbel: Canon
-        * [https://www.youtube.com/watch?v=AfBOBmxVsvc](https://www.youtube.com/watch?v=AfBOBmxVsvc)
-    * La Folia
-        * [http://www.folias.nl/html4.html](http://www.folias.nl/html4.html)
-    * Romanesca
-        * [http://www.earlymusicsources.com/home/more/romanesca](http://www.earlymusicsources.com/home/more/romanesca)
-    * d-s-l-f
-        * [https://www.youtube.com/watch?v=oOlDewpCfZQ](https://www.youtube.com/watch?v=oOlDewpCfZQ)
-    * Blues-kör
-        * [https://www.youtube.com/watch?v=ZaO3CbsOsX0](https://www.youtube.com/watch?v=ZaO3CbsOsX0)
+    * [Pachelbel: Canon](https://www.youtube.com/watch?v=AfBOBmxVsvc)
+    * [La Folia](http://www.folias.nl/html4.html)
+    * [Romanesca](http://www.earlymusicsources.com/home/more/romanesca)
+    * [d-s-l-f](https://www.youtube.com/watch?v=oOlDewpCfZQ)
+    * [Blues-kör](https://www.youtube.com/watch?v=ZaO3CbsOsX0)
 
-### Variáció
+## Variáció
 
-#### Díszítés
-* Dallamdíszítés
-    * Hangszerelés
-        * akkordikus hangszer
-        * énekhang vagy bármilyen hangszer (opcionális)
-    * Szabályok
-        * Válassz egy népéneket (pl. az alábbi kötetekből) vagy egy dalt, melynek dallama egyenletes értékekben mozog.
-            * Bach: Négyszólamú korálfeldolgozások
-            * Szent vagy, Uram!
-            * Evangélikus Énekeskönyv
-        * Partnered játssza a kíséretét fele tempóban, Te pedig improvizálva díszítsd ki a dallamát barokkos motívumokkal.
-    * Variációk
-        * Szólamok eloszlása
-            * Partner: basszus, Te: harmóniák + dallam
-            * Te: basszus + dallam
-            * Te: basszus + harmóniák + dallam
-    * Példák
-        * Bach: Ich ruf zu Dir (folytatni a díszítést)
-        * Bach: O Mensch, bewein dein Sünde groß
-        * Bach: Schmücke dich BWV 654
-        * Bach: Komm, Heiliger Geist BWV 651
-* Basszusdíszítés
-    * Hangszerelés
-        * akkordikus hangszer
-    * Szabályok
-        * Válassz egy akkordsort.
-        * A basszusát díszítsd ki a stílusra jellemző motívumokkal.
-            * oktávugrás
-    * Példák
-        * Pachelbel: Canon -> Corelli: Karácsonyi concerto
+### Díszítés
 
-#### Figuráció
+#### Dallamdíszítés
+* Hangszerelés
+    * akkordikus hangszer
+    * énekhang vagy bármilyen hangszer (opcionális)
+* Szabályok
+    * Válassz egy népéneket (pl. az alábbi kötetekből) vagy egy dalt, melynek dallama egyenletes értékekben mozog.
+        * Bach: Négyszólamú korálfeldolgozások
+        * Szent vagy, Uram!
+        * Evangélikus Énekeskönyv
+    * Partnered játssza a kíséretét fele tempóban, Te pedig improvizálva díszítsd ki a dallamát barokkos motívumokkal.
+* Variációk
+    * Szólamok eloszlása
+        * Partner: basszus, Te: harmóniák + dallam
+        * Te: basszus + dallam
+        * Te: basszus + harmóniák + dallam
+* Példák
+    * Bach: Ich ruf zu Dir BWV 639 (folytatni a díszítést)
+    * Bach: O Mensch, bewein dein Sünde groß BWV 622
+    * Bach: Schmücke dich BWV 654
+    * Bach: Komm, Heiliger Geist BWV 651
+
+#### Basszusdíszítés
+* Hangszerelés
+    * akkordikus hangszer
+* Szabályok
+    * Válassz egy akkordsort.
+    * A basszusát díszítsd ki a stílusra jellemző motívumokkal.
+        * oktávugrás
+* Példák
+    * Pachelbel: Canon -> Corelli: Karácsonyi concerto
+    * d-l-r-s walking bass
+
+### Figuráció
 * Hangszerelés
     * akkordikus hangszer
 * Szabályok
     * Válassz egy akkordsort vagy egyszerű akkordkíséretes tételt.
     * Figuráld a kíséretét különféle módokon.
 
-#### Bővítés
-* Akkordok beszúrása
-    * meglévő akkordsorba akkordokat, disszonanciákat beszúrni
-* Echo
-* Álzárlatos coda
-
-#### Felrakás
+### Felrakás
 * Hangszerelés
     * orgona
 * Szabályok
 
-#### Az előbbi lépések kombinációja
 
-#### Metrum, ritmus
-* Proportio
-    * Szabályok
-        * Válassz egy páros metrumú táncot egy barokk szvitből.
-            * TODO
-        * Játszd le, majd utána rögtönözd a hármas metrumú változatát.
-    * Példák
-        * Speer: Tänze aus dem Musikalisch-Türkischen Eulen-Spiegel
-            * [https://www.dropbox.com/s/p3nn3yl87opgpwj/Speer%20-%20T%C3%A4nze%20aus%20dem%20Musikalisch-T%C3%BCrkischen%20Eulen-Spiegel.pdf?dl=0](https://www.dropbox.com/s/p3nn3yl87opgpwj/Speer%20-%20T%C3%A4nze%20aus%20dem%20Musikalisch-T%C3%BCrkischen%20Eulen-Spiegel.pdf?dl=0)
-* Partita
-    * tánctípusok
+### Bővítés
 
-#### Transzponálás, transzformálás
-* Minore-maggiore váltás
-    * Ötletek
-        * In the Mood
-        * Karácsonyi dalok
-        * Chopin: Gyászinduló
-        * Beethoven: Holdfény-szonáta 1. tétel
-    * Példák
-        * Oleg Berg
-            * [https://www.youtube.com/user/MajorVsMinor/videos](https://www.youtube.com/user/MajorVsMinor/videos)
-        * Mahler: 1. szimfónia - 3. tétel
-        * Tales of Monkey Island - LeChuck's Theme
-* Transzformálás bármilyen modális hangnembe
-* Ritornell
-    * Szabályok
-        * hallgató a témát olyan hangnemekben hozza, amilyenekbe a tanár közjátékokkal modulál
+#### Akkordok beszúrása
+* meglévő akkordsorba akkordokat, disszonanciákat beszúrni
 
-#### Átharmonizálás
+#### Echo
+
+#### Álzárlatos coda
+
+### Az előbbi lépések kombinációja
+
+### Metrum, ritmus
+
+#### Proportio
+* Szabályok
+    * Válassz egy páros metrumú tánctételt.
+    * Játszd le, majd utána rögtönözd a hármas metrumú változatát.
+* Példák
+    * [Speer: Musikalisch-Türkischer Eulen-Spiegel - táncok](https://www.youtube.com/playlist?list=PLDrg2ayMaZy7R_3sPdSmEU2vr9h7U3TQQ) - TODO kotta
+
+#### Partita
+  * tánctípusok
+
+### Transzponálás, transzformálás
+
+#### Minore-maggiore váltás
+* Ötletek
+    * Karácsonyi dalok
+    * In the Mood
+    * Chopin: Gyászinduló
+    * Beethoven: Holdfény-szonáta 1. tétel
+* Példák
+    * [Oleg Berg](https://www.youtube.com/user/MajorVsMinor/videos)
+    * [Mahler: 1. szimfónia - 3. tétel](https://www.youtube.com/watch?v=RQCHgnpCGf4)
+    * [Tales of Monkey Island - LeChuck's Theme](https://www.youtube.com/watch?v=pgYVTBC4Ptg)
+
+#### Transzformálás bármilyen modális hangnembe
+
+#### Ritornell
+  * Szabályok
+      * hallgató a témát olyan hangnemekben hozza, amilyenekbe a tanár közjátékokkal modulál
+
+### Újraharmonizálás
 * Előfeltétel
-    * Harmonizáció fejezet
+    * [Harmonizáció](#harmonizáció)
 * Szabályok
     * Válassz egy dallamot.
-    * Játszd különféle harmonizációkban.
+    * Játszd különféle harmonizációkkal.
 * Példák
-    * Publio Delgado
-        * [https://www.youtube.com/user/vendidou/videos](https://www.youtube.com/user/vendidou/videos)
-    * Harmath Dénes
-        * [https://www.youtube.com/playlist?list=PLDrg2ayMaZy7Eeri_OOc0MhT1kPg_HTAL](https://www.youtube.com/playlist?list=PLDrg2ayMaZy7Eeri_OOc0MhT1kPg_HTAL)
+    * [Publio Delgado](https://www.youtube.com/user/vendidou/videos)
+    * [Harmath Dénes](https://www.youtube.com/playlist?list=PLDrg2ayMaZy7Eeri_OOc0MhT1kPg_HTAL)
 
-#### Stílusjegyek felismerése és alkalmazása
+### Stílusjegyek felismerése és alkalmazása
 * Előfeltétel
-    * Stílusok fejezet
+    * [Stílusok](#stílusok)
 * Szabályok
     * Válassz egy dallamot.
     * Játszd különféle stílusokban.
 * Példák
-    * Richard Grayson
-        * [https://www.youtube.com/user/improvelectronic/videos](https://www.youtube.com/user/improvelectronic/videos)
-    * Harmath Dénes
-        * [https://thsoft.bandcamp.com/album/improviz-ci-k-n-pszer-t-m-k-k-l-nb-z-st-lusokban](https://thsoft.bandcamp.com/album/improviz-ci-k-n-pszer-t-m-k-k-l-nb-z-st-lusokban)
+    * [Richard Grayson](https://www.youtube.com/user/improvelectronic/videos)
+    * [Harmath Dénes](https://thsoft.bandcamp.com/album/improviz-ci-k-n-pszer-t-m-k-k-l-nb-z-st-lusokban)
 
-### Saját anyag
+## Saját anyag
 
 Előfeltétel:
+
 * [Dallam](#dallam)
 * [Variáció](#variáció)
 
 Lépések:
+
 * csak harmóniasor
 * +karakter
     * lüktetés
@@ -298,7 +300,7 @@ Lépések:
     * csak akkordhangok
     * díszítőhangok
 
-#### 4 ütem
+### 4 ütem
 * típusok
     * barokk
         * "standard kör"
@@ -318,10 +320,9 @@ Lépések:
             * II
             * III
             * VI
-            * (VII)
     * stílusok harmónianyelve
 
-#### 8 ütem
+### 8 ütem
 * szekvenciák
     * autentikus: l-r-s-d-f-t-m-l
     * plagális-autentikus: d-s-l-m-f-d-s-d
@@ -334,7 +335,7 @@ Lépések:
     * kvintváltás: A(2) A5(2) A5v(2) A(2)
     * kvintváltás: A(2) A5(2) b(1) bv(1) A(2)
 
-#### 12-16 ütem
+### 12-16 ütem
 * formák
     * strófikus: A(4) B(4) C(4) D(4)
     * háromtagú forma: A(4) B(4) A(4)
@@ -345,7 +346,7 @@ Lépések:
     * minore/maggiore
     * tercrokon
 
-#### Nagyobb forma
+### Nagyobb forma
 * kontrasztáló téma
 * nagy háromtagú forma
     * A
@@ -396,23 +397,23 @@ Lépések:
         * zárlat
     * bármilyen tánctétel
 
-### Harmonizáció
+## Harmonizáció
 
-#### Csak záróhang
+### Csak záróhang
 
-#### 1 ütem 1 akkord
+### 1 ütem 1 akkord
 * Happy Birthday
 * Pál, Kata, Péter
 * Boci, boci, tarka
 
-#### 1 hang 1 akkord
+### 1 hang 1 akkord
 * 2 dallamhang egymás után - tipikus fordulatok
 * Zárlatok mint idiómák
 * 3 hang
 * 4 hang
 * Korálsor - cél, zárlat
 
-#### 1 hang 2 akkord
+### 1 hang 2 akkord
 * 1 hang 1 akkordból kiindulva +
     * alap-szext
     * átmenő szekund
@@ -420,14 +421,14 @@ Lépések:
     * kromatikus basszus
     * basszus oktáv + késleltetés
 
-#### Változó harmóniaritmus
+### Változó harmóniaritmus
 
-## Stílusok
+# Stílusok
 
-## Építőelemek
+# Építőelemek
 
-### Akkordsorok
+## Akkordsorok
 
 ![](Képek/Akkordsorok-1.svg)
 
-### Táncok
+## Táncok
