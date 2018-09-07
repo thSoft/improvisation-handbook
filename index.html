@@ -19,6 +19,7 @@
 <body>
 <header>
 <h1 class="title">Szólalj meg bátran a zene nyelvén!</h1>
+<p class="subtitle">Játékos gyakorlatok az improvizációs készség fejlesztésére</p>
 </header>
 <nav id="TOC">
 <ul>
@@ -55,25 +56,49 @@
 <li><a href="#korálelőjáték">Korálelőjáték</a></li>
 <li><a href="#transzponálás-transzformálás">Transzponálás, transzformálás</a><ul>
 <li><a href="#minore-maggiore-váltás">Minore-maggiore váltás</a></li>
-<li><a href="#transzformálás">Transzformálás</a></li>
-<li><a href="#ritornell">Ritornell</a></li>
+<li><a href="#transzformálás-másik-skálahangra">Transzformálás másik skálahangra</a></li>
+<li><a href="#transzformálás-másik-hangsorba">Transzformálás másik hangsorba</a></li>
+<li><a href="#ritornell-kamarában">Ritornell kamarában</a></li>
 </ul></li>
 <li><a href="#stílusjegyek-felismerése-és-alkalmazása">Stílusjegyek felismerése és alkalmazása</a></li>
 </ul></li>
 <li><a href="#saját-anyag">Saját anyag</a><ul>
-<li><a href="#ütem">4 ütem</a></li>
-<li><a href="#ütem-1">8 ütem</a></li>
-<li><a href="#ütem-2">12-16 ütem</a></li>
+<li><a href="#frázis">Frázis</a><ul>
+<li><a href="#tipikus-tematikus-akkordsorok">Tipikus tematikus akkordsorok</a></li>
+<li><a href="#saját-akkordsor">Saját akkordsor</a></li>
+</ul></li>
+<li><a href="#szekvencia">Szekvencia</a></li>
+<li><a href="#téma">Téma</a><ul>
+<li><a href="#egyszerű-téma">Egyszerű téma</a></li>
+<li><a href="#moduláló-téma">Moduláló téma</a></li>
+</ul></li>
 <li><a href="#moduláció-szekvenciával">Moduláció szekvenciával</a></li>
-<li><a href="#nagyobb-forma">Nagyobb forma</a></li>
+<li><a href="#reális-szekvencia">Reális szekvencia</a></li>
+<li><a href="#tétel">Tétel</a><ul>
+<li><a href="#triósforma">Triósforma</a></li>
+<li><a href="#rondóforma">Rondóforma</a></li>
+<li><a href="#nyitányforma">Nyitányforma</a></li>
+<li><a href="#ritornell">Ritornell</a></li>
+<li><a href="#fantázia">Fantázia</a></li>
+<li><a href="#nagy-kéttagú-forma">Nagy kéttagú forma</a></li>
+<li><a href="#variációs-forma">Variációs forma</a></li>
+<li><a href="#hídforma">Hídforma</a></li>
+<li><a href="#szonátaforma">Szonátaforma</a></li>
+</ul></li>
 <li><a href="#fúga">Fúga</a></li>
 </ul></li>
 <li><a href="#harmonizáció">Harmonizáció</a><ul>
 <li><a href="#basszusharmonizáció">Basszusharmonizáció</a></li>
-<li><a href="#harmóniahelyettesítések">Harmóniahelyettesítések</a></li>
-<li><a href="#csak-záróhang">Csak záróhang</a></li>
+<li><a href="#zsoltártónus-harmonizáció">Zsoltártónus-harmonizáció</a></li>
+<li><a href="#mixtúra">Mixtúra</a></li>
 <li><a href="#ütem-1-akkord">1 ütem 1 akkord</a></li>
-<li><a href="#hang-1-akkord">1 hang 1 akkord</a></li>
+<li><a href="#hang-1-akkord">1 hang 1 akkord</a><ul>
+<li><a href="#dallamhang">2 dallamhang</a></li>
+<li><a href="#zárlatok">Zárlatok</a></li>
+<li><a href="#hang">3 hang</a></li>
+<li><a href="#hang-1">4 hang</a></li>
+<li><a href="#korálsor">Korálsor</a></li>
+</ul></li>
 <li><a href="#hang-2-akkord">1 hang 2 akkord</a></li>
 <li><a href="#változó-harmóniaritmus">Változó harmóniaritmus</a></li>
 <li><a href="#közjátékos-korálelőjáték">Közjátékos korálelőjáték</a></li>
@@ -84,19 +109,22 @@
 <li><a href="#akkordsorok">Akkordsorok</a></li>
 <li><a href="#táncok">Táncok</a></li>
 </ul></li>
+<li><a href="#irodalomjegyzék">Irodalomjegyzék</a></li>
 </ul>
 </nav>
 <h1 id="előszó">Előszó</h1>
+<p>Kedves muzsikus barátom!</p>
+<p>Ennek a tankönyvnek az a célja, hogy elindítson azon az úton, hogy a zene nyelvén ki tudd fejezni saját érzéseidet. Ez azért csodálatos dolog, mert egyrészt saját belső világodhoz jobban tudsz kapcsolódni, másrészt még mélyebb kapcsolatot tudsz teremteni a Téged hallgatókkal azáltal, hogy aktuális igényeikre reagálva zenei párbeszédet tudsz folytatni velük.</p>
+<p>Ha eddig még nem kóstoltál bele a rögtönzés világába, abban bízom, hogy ezek a gyakorlatok biztonságérzetet adnak és felszabadítanak. Ha pedig úgy érzed, hogy jön Belőled az improvizáció, reményeim szerint abban tudnak segíteni, hogy zenei gondolataidat még strukturáltabban tud megfogalmazni, és így a közönség azt gondolhassa, hogy rögtönzésed voltaképpen egy leírt kompozíció előadása.</p>
 <h2 id="előismeretek">Előismeretek</h2>
-<ul>
-<li>kottaolvasás</li>
-<li>akkord</li>
-</ul>
+<p>A gyakorlatok azt feltételezik, hogy már birtokában vagy olyan képességeknek, mint a kottaolvasás, a szolmizáció, valamint a fokszámok, hármashangzatok, négyeshangzatok és fordításaik ismerete.</p>
 <h2 id="általános-szabályok">Általános szabályok</h2>
+<p>A legfontosabb alapelv, hogy a játszott anyag fölött teljes kontrollt érezz, és előre tudj gondolkodni. Mindig olyan tempót válassz, amiben teljesen ritmikusan el tudod játszani, amit elképzeltél. (Ehhez nagyon hasznos segítség egy kamarapartner – sok gyakorlatban ketten vagy többen is részt vehetnek –, partner híján pedig egy metronóm.) Addig ne haladj tovább a következő gyakorlatra, amíg nincs meg a már említett kontroll érzete, mely egyfajta szabadságérzetet is ad.</p>
 <p>Minden gyakorlatot minél többféle, minél különbözőbb variációban végezz el, legfőképp minél több hangnemben.</p>
 <p>Amikor ketten két különböző szerepben játszotok, megbeszélés szerint cserélgethettek.</p>
 <h1 id="gyakorlatok">Gyakorlatok</h1>
 <h2 id="dallam">Dallam</h2>
+<p>Egy szép dallamra mindenki rezonál, így ez a hallgatóság megszólításának egyik kulcsa.</p>
 <h3 id="pentaton-improvizáció">Pentaton improvizáció</h3>
 <ul>
 <li>Hangszerelés
@@ -151,6 +179,8 @@
 <ul>
 <li>A dallam jellegzetes ritmikától nyer karaktert.</li>
 <li>A dallam csúcspontját érdemes előre eltervezni.</li>
+<li>A nagy hangközöktől kifejezőbb lesz a dallam.</li>
+<li>A motívumismétlődések koherensebbé teszik a dallamot.</li>
 </ul></li>
 </ul>
 <h3 id="népdalimprovizáció">Népdalimprovizáció</h3>
@@ -163,14 +193,35 @@
 <ul>
 <li>Válassz egy népdalt vagy népies műdalt (giusto ritmikájút).<br />
 <img src="Képek/Népdalimprovizáció/Példa-1.svg" /></li>
-<li>Írd le az alábbi jellemzőit:
+<li>Írd le az alábbi jellemzőit:</li>
+</ul>
+<table>
+<thead>
+<tr class="header">
+<th>Jellemző</th>
+<th>Példa</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>sorszerkezet (betűjelekkel, esetleg színekkel jelölve)</td>
+<td>A A5 A5v A</td>
+</tr>
+<tr class="even">
+<td>dallamsorok hullámzása (grafikusan ábrázolva)</td>
+<td>◠ ◠ ∿ ◠</td>
+</tr>
+<tr class="odd">
+<td>hangsor</td>
+<td>ión</td>
+</tr>
+<tr class="even">
+<td>egy sor hány ütem</td>
+<td>2</td>
+</tr>
+</tbody>
+</table>
 <ul>
-<li>sorszerkezet (betűjelekkel, esetleg színekkel jelölve)</li>
-<li>dallamsorok hullámzása (grafikusan ábrázolva)</li>
-<li>hangsor</li>
-<li>egy sor hány ütem</li>
-<li>TODO</li>
-</ul></li>
 <li>Ilyen vagy némileg módosított tulajdonságokkal rögtönözz egy népdalt, lehetőleg énekelve (pl. lalázva vagy szolmizálva).<br />
 <img src="Képek/Népdalimprovizáció/Saját-1.svg" /></li>
 </ul></li>
@@ -230,7 +281,7 @@
 </ul></li>
 <li>Variációk
 <ul>
-<li>Ha még nem ismered az akkordokat, partnered vagy másvalaki játsszon elő dallamokat, Te pedig ismételd őket.<br />
+<li>Ha még nem ismered az akkordokat, partnered vagy egy harmadik játékos játsszon elő dallamokat, Te pedig ismételd őket.<br />
 <img src="Képek/Dallam%20akkordinga%20fölé/Ismétlés-1.svg" /></li>
 <li>Fokozatosan vezess be díszítőhangokat.<br />
 <img src="Képek/Dallam%20akkordinga%20fölé/Díszítőhangok-1.svg" />
@@ -249,6 +300,7 @@
 <li>VI</li>
 <li>III</li>
 </ul></li>
+<li>A két akkord fordítva is váltakozhat.</li>
 <li>Próbálkozhattok modális hangsorokkal is.</li>
 </ul></li>
 <li>Figyeld meg!
@@ -302,6 +354,12 @@
 <li><a href="http://www.folias.nl/html4.html">La Folia</a></li>
 <li><a href="http://www.earlymusicsources.com/home/more/romanesca">Romanesca</a></li>
 <li><a href="https://www.youtube.com/watch?v=oOlDewpCfZQ">d-s-l-f</a></li>
+<li><a href="https://www.youtube.com/watch?v=B_Smt1VsoqQ">d-l-f-s</a></li>
+<li>Autentikus szekvencia
+<ul>
+<li><a href="https://www.youtube.com/watch?v=aadnLisADs4">1</a></li>
+<li><a href="https://www.youtube.com/watch?v=9l7ey3v5wT8">2</a></li>
+</ul></li>
 <li><a href="https://www.youtube.com/watch?v=ZaO3CbsOsX0">Blues-kör</a></li>
 </ul></li>
 </ul>
@@ -322,7 +380,7 @@
 <li>Bach: Das Wohltemperierte Klavier I. C-dúr prelúdium (Gounod: Ave Maria)</li>
 <li>Bach: Das Wohltemperierte Klavier I. c-moll prelúdium</li>
 <li>Bach: c-moll kis prelúdium</li>
-<li>Saint-Saëns: Hattyú</li>
+<li>Saint-Saëns: Az állatok farsangja - Hattyú</li>
 </ul></li>
 <li>Variációk
 <ul>
@@ -330,6 +388,7 @@
 </ul></li>
 </ul>
 <h2 id="variáció">Variáció</h2>
+<p>Hallgatóidat bevonhatod az alkotói folyamatba, ha kérsz tőlük egy témát, melyet különféle módosításoknak vetsz alá. Így ők is kíváncsian hallgatják az általuk kedvelt mű alakulását, Neked pedig már adott egy zenei anyag, mely sok mindent meghatároz.</p>
 <h3 id="díszítés">Díszítés</h3>
 <h4 id="dallamdíszítés">Dallamdíszítés</h4>
 <ul>
@@ -346,7 +405,7 @@
 <li>Szent vagy, Uram!</li>
 <li>Evangélikus Énekeskönyv</li>
 </ul></li>
-<li>Partnered játssza a kíséretét fele tempóban, Te pedig improvizálva díszítsd ki a dallamát barokkos motívumokkal.</li>
+<li>Partnered játssza a kíséretét fele tempóban, Te pedig improvizálva díszítsd ki a dallamát barokkos motívumokkal. - TODO motívumok</li>
 </ul></li>
 <li>Variációk
 <ul>
@@ -374,7 +433,7 @@
 <li>Szabályok
 <ul>
 <li>Válassz egy akkordsort.</li>
-<li>A basszusát díszítsd ki a stílusra jellemző motívumokkal.</li>
+<li>A basszusát díszítsd ki a stílusra jellemző motívumokkal. - TODO motívumok</li>
 </ul></li>
 <li>Példák
 <ul>
@@ -556,7 +615,7 @@
 </ul></li>
 <li>Szabályok
 <ul>
-<li>Válassz egy dallamot.</li>
+<li>Válassz egy dúr vagy moll dallamot.</li>
 <li>Ha dúrban van, mollban játszd el és fordítva.</li>
 </ul></li>
 <li>Ötletek
@@ -573,7 +632,7 @@
 <li><a href="https://www.youtube.com/watch?v=pgYVTBC4Ptg">Tales of Monkey Island - LeChuck’s Theme</a></li>
 </ul></li>
 </ul>
-<h4 id="transzformálás">Transzformálás</h4>
+<h4 id="transzformálás-másik-skálahangra">Transzformálás másik skálahangra</h4>
 <ul>
 <li>Hangszerelés
 <ul>
@@ -581,7 +640,7 @@
 </ul></li>
 <li>Szabályok
 <ul>
-<li>Válassz egy dallamot.</li>
+<li>Válassz egy dúr vagy moll dallamot.</li>
 <li>Játszd el a hangsorának összes hangjáról kezdve.</li>
 </ul></li>
 <li>Variációk
@@ -589,7 +648,25 @@
 <li><a href="#harmonizáció">Harmonizációs</a> képességek birtokában harmonizáld meg mindegyik hangról kezdődő változatot.</li>
 </ul></li>
 </ul>
-<h4 id="ritornell">Ritornell</h4>
+<h4 id="transzformálás-másik-hangsorba">Transzformálás másik hangsorba</h4>
+<ul>
+<li>Hangszerelés
+<ul>
+<li>énekhang vagy bármilyen hangszer</li>
+</ul></li>
+<li>Szabályok
+<ul>
+<li>Válassz egy dúr vagy moll dallamot.</li>
+<li>Játszd el egy minél egzotikusabb hangsorban.</li>
+</ul></li>
+<li>Ötletek
+<ul>
+<li>modális skálák</li>
+<li>modellskálák</li>
+<li>bő szekundos skálák</li>
+</ul></li>
+</ul>
+<h4 id="ritornell-kamarában">Ritornell kamarában</h4>
 <ul>
 <li>Hangszerelés
 <ul>
@@ -620,8 +697,8 @@
 <li>Szabályok
 <ul>
 <li>Válassz egy népszerű témát, mely elég rugalmasan feldolgozható (pl. gyerekdal vagy népdal).</li>
-<li>Válassz néhány zenei stílust, és írd össze pár stílusjegyüket, amiket alkalmazni fogsz a téma feldolgozása során.</li>
-<li>Játszd a témát különféle stílusokban.</li>
+<li>Válassz egy zenei stílust vagy egy zeneszerzőt, és műveinek elemzésével írj össze pár rá jellemző stílusjegyet.</li>
+<li>Variáld úgy a témát, hogy ezek a stílusjegyek jól felismerhetőek legyenek.</li>
 </ul></li>
 <li>Példák
 <ul>
@@ -635,192 +712,384 @@
 <li><a href="#dallam">Dallam</a></li>
 <li><a href="#variáció">Variáció</a></li>
 </ul>
-<p>Lépések:</p>
+<p>Eljutottál oda, hogy olyan zenei anyagot rögtönözz, melynek minden paraméterét Te határozod meg. Ez nem azt jelenti, hogy bármiféle támpont nélkül kéne a semmiből valami teljesen eredetit megalkotnod. Az alábbi módokon tudsz magadon segíteni:</p>
 <ul>
-<li>csak harmóniasor</li>
-<li>+karakter
+<li>Jegyezz le magadnak annyi információt, amennyiből valós időben már teljes zenei gondolatokat tudsz játszani. Ha egyelőre úgy érzed magad biztonságban, hogy szinte hangról hangra lekottázod, amit játszani fogsz, nyugodtan tegyél így. Az itt leírt technikákkal szép fokozatosan eljuthatsz oda, hogy teljes tételeket tudj rögtönözni mindössze pár grafikus szimbólum és betű előzetes lejegyzése alapján.</li>
+<li>Sokszor nem végtelen sok lehetőség közül kell választanod, hanem véges számú jól bevált séma közül. Az, hogy ezek jól beváltak, nem azt jelenti, hogy sablonosak lennének, épp ellenkezőleg: ezekkel még jobban meg tudod szólítani a közönséget, hiszen kedvenc szerzőiktől már hallották ezeket a megoldásokat, és így ismerősként fogják üdvözölni őket.</li>
+</ul>
+<p>Most pedig fokozatosan, építőelemenként felépítünk zenei struktúrákat, akár különféle épületeket. A gyakorlatok végrehajtása során mindig az alábbi lépéseket kövesd:</p>
 <ul>
-<li>lüktetés</li>
-<li>ritmusképlet</li>
-<li>figuráció</li>
+<li>Először írd fel a kompozíció harmóniai és formai vázát. Végy egy akkordsort, 1 ütemben 1 vagy legfeljebb 2 akkordot véve. Írd le vázlatos lejegyzésmóddal (fokszámok vagy kottázott/szolmizált számozott basszus), és játszd le, mintha continuóznál. (A formai vázról később esik szó.) Épületed ezennel szerkezetkész: szilárd alappal és stabil struktúrával rendelkezik.</li>
+<li>Adj hozzá karaktert. Végy egy tánctételt, mely meghatározza a metrumot és a jellemző ritmusképletet; válassz egy figurációt, és alkalmazd (ld. <a href="#variáció">Variáció</a>). Így berendezted és kifestetted az épületedet, már el tudja látni funkcióját, de még kissé sivár.</li>
+<li>Adj hozzá dallamot (ld. <a href="#dallam">Dallam</a>). A harmóniák expresszivitását növelheted késleltetések bevezetésével. Most már az épületed ki van díszítve képekkel, növényekkel.</li>
+</ul>
+<p>Összefoglalva:</p>
+<table>
+<colgroup>
+<col style="width: 72%" />
+<col style="width: 27%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Zene</th>
+<th>Architektúra</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>struktúra (akkordsor, lassú harmóniaritmus)</td>
+<td>szerkezet</td>
+</tr>
+<tr class="even">
+<td>karakter (lüktetés, ritmusképlet, figuráció, szünetek)</td>
+<td>berendezés, kifestés</td>
+</tr>
+<tr class="odd">
+<td>dallam (motívumok, késleltetések)</td>
+<td>díszítés</td>
+</tr>
+</tbody>
+</table>
+<h3 id="frázis">Frázis</h3>
+<p>A zene időbeli alapegysége a frázis (mint azt a népdaloknál már láttuk). Hossza lehet alapvetően:</p>
+<ul>
+<li>2 akkord: ld. <a href="#dallam-akkordinga-fölé">akkordinga</a></li>
+<li>4 vagy 8 akkord: ld. az alábbi gyakorlatok</li>
+</ul>
+<h4 id="tipikus-tematikus-akkordsorok">Tipikus tematikus akkordsorok</h4>
+<ul>
+<li>Hangszerelés
+<ul>
+<li>akkordikus hangszer</li>
 </ul></li>
-<li>+dallam
+<li>Szabályok
 <ul>
-<li>csak akkordhangok</li>
-<li>díszítőhangok</li>
+<li>Válassz egy akkordsort az alábbi gyakran előforduló típusok közül:
+<ul>
+<li>teljes zárlat: I-IV-V-I</li>
+<li>félzárlat: I-VI-IV-V</li>
+<li>ereszkedő: I-V<sup>6</sup>-IV<sup>6</sup>-V</li>
+<li>emelkedő: I-VII<sup>6</sup>-I<sup>6</sup>-V</li>
+</ul></li>
+<li>Variáld az <a href="#akkordok-beszúrása">akkordbeszúrás</a> és <a href="#akkordhelyettesítések">akkordhelyettesítés</a> módszerével.</li>
 </ul></li>
 </ul>
-<h3 id="ütem">4 ütem</h3>
+<h4 id="saját-akkordsor">Saját akkordsor</h4>
 <ul>
-<li>típusok
+<li>Hangszerelés
 <ul>
-<li>barokk
-<ul>
-<li>“standard kör”</li>
-<li>ereszkedő</li>
-<li>emelkedő</li>
-<li>inga</li>
+<li>akkordikus hangszer</li>
 </ul></li>
-<li>pop
+<li>Szabályok
 <ul>
-<li>d-s-l-f</li>
-<li>d-l-r-s</li>
-<li>l-d-s-r<sup>♯</sup></li>
-</ul></li>
-</ul></li>
-<li>saját harmóniasor
+<li>Alkoss 4, majd később 8 akkordból álló akkordsorokat.
 <ul>
-<li>harmóniák szerepe
-<ul>
-<li>fő
+<li>Elsősorban a főhármasokat alkalmazd:
 <ul>
 <li>I</li>
 <li>V</li>
 <li>IV</li>
 </ul></li>
-<li>mellék
+<li>Másodsorban a mellékhármasokat:
 <ul>
 <li>II</li>
 <li>III</li>
 <li>VI</li>
+<li>VII (alaphelyzetben csak négyeshangzatként vagy tá/szó basszussal)</li>
 </ul></li>
+<li>Fokozatosan vezess be fordításokat.</li>
+<li>Végül alterációkkal színezd az akkordokat.</li>
 </ul></li>
-<li>stílusok harmónianyelve</li>
 </ul></li>
 </ul>
-<h3 id="ütem-1">8 ütem</h3>
+<h3 id="szekvencia">Szekvencia</h3>
 <ul>
-<li>szekvenciák
+<li>Hangszerelés
 <ul>
-<li>autentikus: l-r-s-d-f-t-m-l</li>
-<li>plagális-autentikus: d-s-l-m-f-d-s-d</li>
-<li>autentikus-plagális: d-f-r-s-m-l-f-d</li>
+<li>akkordikus hangszer</li>
+</ul></li>
+<li>Szabályok
+<ul>
+<li>Válassz egy szekvenciát:
+<ul>
+<li>autentikus: l-r-s-d-f-t<sup>7<sup>-m<sup>♯</sup>-l
+<ul>
+<li>hosszabb forma: d-r-s-d-f-t<sup>7<sup>-m-l-r-s-d-f-s-d</li>
+</ul></li>
+<li>plagális-autentikus: d-s-l-m-f-d-s-d
+<ul>
+<li>hosszabb forma: d-s-l-m-f-d-r-l-ta-f-s-r-m-t<sup>6</sup>-d</li>
+</ul></li>
+<li>autentikus-plagális: d-f-r<sup>(♯)</sup>-s-m<sup>(♯)</sup>-l-f-d
+<ul>
+<li>hosszabb forma: d-f-r<sup>(♯)</sup>-s-m<sup>(♯)</sup>-l-f-ta-s-d-l<sup>(♯)</sup>-r-t<sup>♯</sup>-m-d</li>
+</ul></li>
 <li>plagális: d-s-r-l-m-f-s-d</li>
 </ul></li>
-<li>formák
+<li>Játszd kívülről.</li>
+</ul></li>
+<li>Variációk
 <ul>
-<li>periódus: A(4) Av (4)</li>
-<li>zenei mondat: A(2) Av(2) B(4)</li>
-<li>kontrasztáló periódius: A(2) B(2) A(v)(2) C(2)</li>
-<li>kvintváltás: A(2) A5(2) A5v(2) A(2)</li>
-<li>kvintváltás: A(2) A5(2) b(1) bv(1) A(2)</li>
+<li>Fordításokban is játszd az akkordokat, például:
+<ul>
+<li>autentikus:
+<ul>
+<li>l<sup>7</sup>-r<sup>7</sup>…</li>
+<li>l-f<sup>5 6</sup>…</li>
+<li>d-d<sup>2</sup>-t<sup>5 6</sup>…</li>
+<li>d-r<sup>7</sup>-r<sup>3 4</sup>…</li>
+</ul></li>
+<li>plagális-autentikus: d-t<sup>6</sup>-l-s<sup>6</sup>…</li>
+<li>autentikus-plagális: m<sup>6</sup>-f-fi<sup>6</sup>…</li>
+<li>plagális: d-m<sup>6</sup>-s-t<sup>6</sup>…</li>
+</ul></li>
+<li>Válassz egy motívumot, amely akkordonként váltakozzon a szólamok között:
+<ul>
+<li>szoprán-basszus</li>
+<li>szoprán-alt (háromszólamú felrakásban)</li>
+</ul></li>
 </ul></li>
 </ul>
-<h3 id="ütem-2">12-16 ütem</h3>
+<h3 id="téma">Téma</h3>
+<h4 id="egyszerű-téma">Egyszerű téma</h4>
+<p>Egy rövid téma 2-4 frázisból áll. Egy frázis lehet:</p>
 <ul>
-<li>formák
+<li>arzis/kérdés/félzárlat (jelölése: ?)</li>
+<li>tézis/felelet/teljes zárlat (jelölése: !)</li>
+</ul>
+<p>A rögtönzés előtt tervezd meg a téma formáját betűjelekkel. Tipikus formák:</p>
 <ul>
-<li>strófikus: A(4) B(4) C(4) D(4)</li>
-<li>háromtagú forma: A(4) B(4) A(4)</li>
-<li>szűkített háromtagú forma: A(4) Av(4) B(4) Av(4)</li>
+<li>kéttagú forma: A B<br />
+<img src="Képek/Téma/Kéttagú%20forma-1.svg" /></li>
+<li>periódus: A? Av!<br />
+<img src="Képek/Téma/Periódus-1.svg" />
+<ul>
+<li>kontrasztáló periódius: A(2) B(2)? A(2) C(2)!<br />
+<img src="Képek/Téma/Kontrasztáló%20periódus-1.svg" /></li>
 </ul></li>
-<li>hangnemtervek
+<li>zenei mondat: A(2) Av(2) B(4)<br />
+<img src="Képek/Téma/Zenei%20mondat-1.svg" /></li>
+</ul>
+<h4 id="moduláló-téma">Moduláló téma</h4>
+<p>Egy bonyolultabb téma 4-5 frázisból áll, melyek között van az alaphangnemtől eltérő. Tipikus hangnemek az alaphangnemhez képest:</p>
 <ul>
 <li>+/-1</li>
 <li>párhuzamos</li>
 <li>minore/maggiore</li>
 <li>tercrokon</li>
+</ul>
+<p>A formatervet bővítsd ki a hangnemtervvel. Tipikus formák:</p>
+<ul>
+<li>kvintváltós négytagú forma: A(4) A5(4) szekvencia(4) zárlat(4)</li>
+<li>népdal: A(2) A5(2) A5v(2) A(2)
+<ul>
+<li>3. sor kettéosztva: A(2) A5(2) b(1) bv(1) A(2)</li>
 </ul></li>
+<li>négytagú forma: A(4) B(4) C(4) D(4)</li>
+<li>szűkített háromtagú forma: A(4) Av(4) B(4) Av(4)</li>
 </ul>
 <h3 id="moduláció-szekvenciával">Moduláció szekvenciával</h3>
-<h3 id="nagyobb-forma">Nagyobb forma</h3>
 <ul>
-<li>kontrasztáló téma</li>
-<li>nagy háromtagú forma
+<li>Hangszerelés
+<ul>
+<li>akkordikus hangszer</li>
+</ul></li>
+<li>Szabályok
+<ul>
+<li>Válassz két hangnemet max. 4 kvint távolságra.</li>
+<li>A kiindulási hangnemben kezdd el az autentikus szekvenciát, és amikor az új hangnem V. fokának megfelelő basszushang jön, azt az akkordot alterálva játssz a záró hangnemben egy V-I-IV-V-I zárlatot.</li>
+</ul></li>
+</ul>
+<h3 id="reális-szekvencia">Reális szekvencia</h3>
+<ul>
+<li>Hangszerelés
+<ul>
+<li>akkordikus hangszer</li>
+</ul></li>
+<li>Szabályok
+<ul>
+<li>Válassz egy akkordkapcsolatot.</li>
+<li>Képezz belőle reális szekvenciát különböző hangközönként, amíg vissza nem érsz a kiindulási hangmagassághoz.</li>
+</ul></li>
+<li>Példa: V<sup>6</sup>-I kis tercenként felfelé</li>
+</ul>
+<h3 id="tétel">Tétel</h3>
+<p>Egy teljes zenei tétel több, egymással kontrasztáló témából áll, melyek közül egy vagy több visszatér. Ezenkívül átvezető zenei anyagokat is tartalmazhat (szekvencia). Minél több tulajdonsága különbözik a témáknak (a metrumot és tempót kivéve), annál jobb - ezeket a tulajdonságokat is írd le az egyes témákhoz.</p>
+<h4 id="triósforma">Triósforma</h4>
+<p>Tipikus műfaj: menüett</p>
+<ul>
+<li>Főrész</li>
+<li>Középrész</li>
+<li>Főrész</li>
+</ul>
+<h4 id="rondóforma">Rondóforma</h4>
+<p>Tipikus műfaj: gavotte</p>
+<ul>
+<li>Rondótéma</li>
+<li>1. epizód</li>
+<li>Rondótéma</li>
+<li>2. epizód</li>
+<li>Rondótéma</li>
+<li>(3. epizód</li>
+<li>Rondótéma)</li>
+</ul>
+<h4 id="nyitányforma">Nyitányforma</h4>
+<p>Tipikus műfaj: ouverture</p>
+<ul>
+<li>Lassú rész</li>
+<li>Gyors rész</li>
+<li>Lassú rész</li>
+<li>(Gyors rész</li>
+<li>Lassú rész)</li>
+</ul>
+<h4 id="ritornell">Ritornell</h4>
+<p>Tipikus műfaj: concerto</p>
+<ul>
+<li>Ritornell</li>
+<li>1. közjáték</li>
+<li>Ritornell +1</li>
+<li>2. közjáték</li>
+<li>Ritornell parallel</li>
+<li>3. közjáték</li>
+<li>Ritornell</li>
+</ul>
+<h4 id="fantázia">Fantázia</h4>
+<p>Tipikus műfaj: prelúdium</p>
+<ul>
+<li>Téma</li>
+<li>Téma +1</li>
+<li>Szekvencia</li>
+<li>Orgonapont</li>
+<li>Zárlat</li>
+<li>Coda: Téma -1</li>
+</ul>
+<h4 id="nagy-kéttagú-forma">Nagy kéttagú forma</h4>
+<p>Tipikus műfaj: bármilyen tánctétel</p>
+<ul>
+<li>1. rész
+<ul>
+<li>Téma</li>
+<li>Szekvencia</li>
+<li>Zárlat +1</li>
+</ul></li>
+<li>2. rész
+<ul>
+<li>Téma +1</li>
+<li>Téma -1 parallel</li>
+<li>(Szekvencia)</li>
+<li>Zárlat</li>
+</ul></li>
+</ul>
+<h4 id="variációs-forma">Variációs forma</h4>
+<ul>
+<li>Téma</li>
+<li>1. variáció</li>
+<li>2. variáció</li>
+<li>stb.</li>
+</ul>
+<h4 id="hídforma">Hídforma</h4>
 <ul>
 <li>A</li>
 <li>B</li>
-<li>A</li>
-<li>mindegyik 4 soros</li>
-<li>menüett</li>
-</ul></li>
-<li>rondóforma
-<ul>
-<li>T</li>
-<li>E1</li>
-<li>T</li>
-<li>E2</li>
-<li>T</li>
-<li>mindegyik 4 soros</li>
-<li>gavotte</li>
-</ul></li>
-<li>nyitányforma
-<ul>
-<li>A</li>
+<li>C</li>
 <li>B</li>
-<li>Av</li>
-<li>Bv</li>
-<li>Av</li>
-<li>ouverture</li>
-</ul></li>
-<li>ritornell
+<li>A</li>
+</ul>
+<h4 id="szonátaforma">Szonátaforma</h4>
 <ul>
-<li>R</li>
-<li>S1</li>
-<li>Rv +1</li>
-<li>S2</li>
-<li>Rv parallel</li>
-<li>S3</li>
-<li>R</li>
-<li>concerto</li>
-</ul></li>
-<li>fantázia
+<li>Expozíció
 <ul>
-<li>T</li>
-<li>T +1</li>
-<li>szekvencia</li>
-<li>orgonapont</li>
-<li>zárlat (coda T -1)</li>
-<li>prelúdium</li>
+<li>Főtéma</li>
+<li>Melléktéma +1</li>
+<li>Zárlat +1</li>
 </ul></li>
-<li>nagy kéttagú forma
+<li>Feldolgozás
 <ul>
-<li><ol type="1">
-<li><ul>
-<li>T</li>
-<li>szekvencia</li>
-<li>zárlat +1</li>
+<li>Témák transzponálva, transzformálva</li>
 </ul></li>
-</ol></li>
-<li><ol start="2" type="1">
-<li><ul>
-<li>T +1</li>
-<li>T -1 parallel</li>
-<li>(szekvencia)</li>
-<li>zárlat</li>
-</ul></li>
-</ol></li>
-<li>bármilyen tánctétel</li>
+<li>Repríz
+<ul>
+<li>Főtéma</li>
+<li>Melléktéma</li>
+<li>Zárlat</li>
 </ul></li>
 </ul>
 <h3 id="fúga">Fúga</h3>
+<p>Előfeltétel: <a href="#harmonizáció">Harmonizáció</a></p>
 <h2 id="harmonizáció">Harmonizáció</h2>
+<p>Előfeltétel: <a href="#dallam">Dallam</a></p>
 <h3 id="basszusharmonizáció">Basszusharmonizáció</h3>
-<h3 id="harmóniahelyettesítések">Harmóniahelyettesítések</h3>
-<h3 id="csak-záróhang">Csak záróhang</h3>
+<ul>
+<li>Hangszerelés
+<ul>
+<li>akkordikus hangszer</li>
+</ul></li>
+<li>Szabályok
+<ul>
+<li>Válassz egy dallamot.</li>
+<li>A dallam mint basszus fölé játssz harmóniákat (főleg ütésekre). A leggyakoribb akkordok (bonyolultság szerint növekvő sorrendben):
+<ul>
+<li>alap</li>
+<li>6</li>
+<li>4-3 késleltetés</li>
+<li>7-6 késleltetés</li>
+<li>2 (késleltetés vagy átmenő)<br />
+<img src="Képek/Harmonizáció/Basszus-1.svg" /></li>
+</ul></li>
+</ul></li>
+</ul>
+<h3 id="zsoltártónus-harmonizáció">Zsoltártónus-harmonizáció</h3>
+<ul>
+<li>Hangszerelés
+<ul>
+<li>akkordikus hangszer</li>
+</ul></li>
+<li>Szabályok
+<ul>
+<li>Válassz egy római zsoltártónust.</li>
+<li>Harmonizáld meg konszonanciákkal egyre több hangját (a többi hangra maradhat az akkord tartva) az alábbi kottapélda szerinti sorrendben.<br />
+<img src="Képek/Harmonizáció/Zsoltártónus-1.svg" /></li>
+</ul></li>
+<li>Variációk
+<ul>
+<li>Később neomodális alterációkat (pl. mollbeli, félszűk, akusztikus színezetű akkordok) is bevezethetsz.</li>
+<li>Válassz egy zsoltárszöveget, amit a tónusra alkalmazol, és úgy harmonizáld meg, hogy a harmóniák, dallamvonalak minél inkább kifejezzék a szöveget.</li>
+</ul></li>
+</ul>
+<h3 id="mixtúra">Mixtúra</h3>
+<ul>
+<li>Hangszerelés
+<ul>
+<li>akkordikus hangszer</li>
+</ul></li>
+<li>Szabályok
+<ul>
+<li>Válassz egy dallamot és egy akkordot.</li>
+<li>A dallam alá vagy fölé játszd mixtúraszerűen az akkordot tonálisan (a dallam hangsora szerint) vagy reálisan.</li>
+</ul></li>
+</ul>
 <h3 id="ütem-1-akkord">1 ütem 1 akkord</h3>
 <ul>
 <li>Happy Birthday</li>
-<li>Pál, Kata, Péter</li>
 <li>Boci, boci, tarka</li>
+<li>Pál, Kata, Péter</li>
 </ul>
 <h3 id="hang-1-akkord">1 hang 1 akkord</h3>
-<ul>
-<li>2 dallamhang egymás után - tipikus fordulatok</li>
-<li>Zárlatok mint idiómák</li>
-<li>3 hang</li>
-<li>4 hang</li>
-<li>Korálsor - cél, zárlat</li>
-</ul>
+<h4 id="dallamhang">2 dallamhang</h4>
+<h4 id="zárlatok">Zárlatok</h4>
+<h4 id="hang">3 hang</h4>
+<h4 id="hang-1">4 hang</h4>
+<h4 id="korálsor">Korálsor</h4>
+<p>cél, zárlat</p>
 <h3 id="hang-2-akkord">1 hang 2 akkord</h3>
 <ul>
-<li>1 hang 1 akkordból kiindulva +
+<li>1 hang 1 akkordból kiindulva <a href="#akkordok%20beszúrása">akkordok beszúrása</a>
 <ul>
 <li>alap-szext</li>
 <li>átmenő szekund</li>
 <li>basszuskésleltetés</li>
 <li>kromatikus basszus</li>
-<li>basszus oktáv + késleltetés</li>
+<li>basszusban oktávugrás, felső szólamban késleltetés</li>
 </ul></li>
 </ul>
 <h3 id="változó-harmóniaritmus">Változó harmóniaritmus</h3>
@@ -828,7 +1097,7 @@
 <ul>
 <li>Előfeltételek
 <ul>
-<li><a href="#saját-anyag">Saját anyag</a></li>
+<li><a href="#ritornell">Ritornell</a></li>
 </ul></li>
 <li>Hangszerelés
 <ul>
@@ -839,6 +1108,11 @@
 <li>Válassz egy népénekdallamot, egy karaktert, felrakást és figurációt.</li>
 <li>Találj ki egy közjátékot, mely ritornello-szerűen a dallamsorok között fog különböző hangnemekben megjelenni, és írd le a harmóniai vázát.</li>
 <li>Írd fel a formai és hangnemtervet, vagyis hogy a ritornellók és korálsorok hogyan következnek egymás után, valamint milyen hangnemben kezdődnek és végződnek.</li>
+<li>A korálsorokra saját harmonizációt véve játszd el a korálelőjátékot.</li>
+</ul></li>
+<li>Példák
+<ul>
+<li><a href="https://thsoft.bandcamp.com/track/mint-a-sze-p-hi-ves-patakra-h-ndel-nyit-ny">Harmath Dénes: Mint a szép híves patakra - Händel-nyitány</a></li>
 </ul></li>
 </ul>
 <h1 id="stílusok">Stílusok</h1>
@@ -846,5 +1120,12 @@
 <h2 id="akkordsorok">Akkordsorok</h2>
 <p><img src="Képek/Akkordsorok-1.svg" /></p>
 <h2 id="táncok">Táncok</h2>
+<p>TODO motívumokkal</p>
+<h1 id="irodalomjegyzék">Irodalomjegyzék</h1>
+<ul>
+<li>Apagyi Mária: ZongorÁlom</li>
+<li>Grayson, Richard: <a href="http://faculty.oxy.edu/rgrayson//Richard%20Grayson%20improvisation%20handbook.pdf">Improvising at the Keyboard</a></li>
+<li><a href="http://www.organimprovisation.com">Organ Improvisation</a></li>
+</ul>
 </body>
 </html>
