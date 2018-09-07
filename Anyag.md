@@ -494,7 +494,7 @@ Egy rövid téma 2-4 frázisból áll. Egy frázis lehet:
 A rögtönzés előtt tervezd meg a téma formáját betűjelekkel. Tipikus formák:
 
 * kéttagú forma: A B  
-![](Képek/Téma/Kéttagú forma-1.svg)
+![](Képek/Téma/Kéttagú forma-1.svg)
 * periódus: A? Av!  
 ![](Képek/Téma/Periódus-1.svg)
     * kontrasztáló periódius: A(2) B(2)? A(2) C(2)!  
