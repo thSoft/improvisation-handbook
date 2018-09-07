@@ -14,15 +14,17 @@ Ha eddig még nem kóstoltál bele a rögtönzés világába, abban bízom, hogy
 
 ## Előismeretek
 
-A gyakorlatok azt feltételezik, hogy már birtokában vagy olyan képességeknek, mint a kottaolvasás, a szolmizáció, valamint a fokszámok, hármashangzatok, négyeshangzatok és fordításaik ismerete.
+A gyakorlatok azt feltételezik, hogy már birtokában vagy olyan képességeknek, mint a kottaolvasás, a szolmizáció, valamint a fokszámok, hármashangzatok, négyeshangzatok és fordításaik alapvető ismerete.
 
 ## Általános szabályok
 
 A legfontosabb alapelv, hogy a játszott anyag fölött teljes kontrollt érezz, és előre tudj gondolkodni. Mindig olyan tempót válassz, amiben teljesen ritmikusan el tudod játszani, amit elképzeltél. (Ehhez nagyon hasznos segítség egy kamarapartner – sok gyakorlatban ketten vagy többen is részt vehetnek –, partner híján pedig egy metronóm.) Addig ne haladj tovább a következő gyakorlatra, amíg nincs meg a már említett kontroll érzete, mely egyfajta szabadságérzetet is ad.
 
+Amikor ketten két különböző szerepben játszotok, megbeszélés szerint cserélgethettek.
+
 Minden gyakorlatot minél többféle, minél különbözőbb variációban végezz el, legfőképp minél több hangnemben.
 
-Amikor ketten két különböző szerepben játszotok, megbeszélés szerint cserélgethettek.
+A dúrban és mollban is értelmezhető harmóniasorok fokszámmal vannak jelölve, egyébként az akkordmenetek úgynevezett szolmizált számozott basszussal vannak lejegyezve: ilyenkor a szolmizáció a basszushangot jelzi, a felső indexben levő számok pedig a basszushoz képest számítandó hangközöket.
 
 # Gyakorlatok
 
@@ -35,20 +37,20 @@ Egy szép dallamra mindenki rezonál, így ez a hallgatóság megszólításána
     * egy vagy több billentyűs hangszer vagy hárfa pentaton hangolással (c♯, d♯, e♭, f♯, g♯, a♯, b)
 * Szabályok
     * Partnered játssza az alábbi kíséretet:  
-    ![](Képek/Pentaton improvizáció/Alap-1.svg)
+    ![](Képek/Pentaton improvizáció/Alap-1.svg)
     * Improvizálj dallamot egy kézzel a fekete billentyűkön az A résznél belépve. Ügyelj arra, hogy a dallam változatos és kifejező legyen.
     * Az A-B szakasz váltakozását tetszőleges mennyiségben ismételjétek.
     * Amikor be szeretnéd fejezni, a B rész alatt jelezz, hogy "jön a Coda", és ugorjatok a Codára.
 * Variációk
     * Kezdés lá-pentatonnal  
-    ![](Képek/Pentaton improvizáció/l-pentaton-1.svg)
+    ![](Képek/Pentaton improvizáció/l-pentaton-1.svg)
     * Karakter
         * Altató  
-        ![](Képek/Pentaton improvizáció/Altató-1.svg)
+        ![](Képek/Pentaton improvizáció/Altató-1.svg)
         * Keringő  
-        ![](Képek/Pentaton improvizáció/Keringő-1.svg)
+        ![](Képek/Pentaton improvizáció/Keringő-1.svg)
         * Szamba  
-        ![](Képek/Pentaton improvizáció/Szamba-1.svg)
+        ![](Képek/Pentaton improvizáció/Szamba-1.svg)
         * Bolgár ritmusok
             * 3+3+2/8
             * 3+2/8
@@ -74,7 +76,7 @@ Egy szép dallamra mindenki rezonál, így ez a hallgatóság megszólításána
     * énekhang vagy bármilyen hangszer
 * Szabályok
     * Válassz egy népdalt vagy népies műdalt (giusto ritmikájút).  
-    ![](Képek/Népdalimprovizáció/Példa-1.svg)
+    ![](Képek/Népdalimprovizáció/Példa-1.svg)
     * Írd le az alábbi jellemzőit:
 
     | Jellemző                                               | Példa      |
@@ -85,7 +87,7 @@ Egy szép dallamra mindenki rezonál, így ez a hallgatóság megszólításána
     | egy sor hány ütem                                      | 2          |
 
     * Ilyen vagy némileg módosított tulajdonságokkal rögtönözz egy népdalt, lehetőleg énekelve (pl. lalázva vagy szolmizálva).  
-    ![](Képek/Népdalimprovizáció/Saját-1.svg)
+    ![](Képek/Népdalimprovizáció/Saját-1.svg)
 * Ötletek (sorszerkezet szerint csoportosítva)
     * A A5 A5v A
         * Sárga vagyok, mint a nyárfa levele
@@ -116,14 +118,14 @@ Egy szép dallamra mindenki rezonál, így ez a hallgatóság megszólításána
     * énekhang vagy bármilyen hangszer (opcionális)
 * Szabályok
     * Partnered váltogasson két akkordot az alábbi séma szerint:  
-    ![](Képek/Dallam akkordinga fölé/Alap-1.svg)
+    ![](Képek/Dallam akkordinga fölé/Alap-1.svg)
     * Improvizálj fölé dallamot.
     * Az akkordinga addig ismétlődjön, amíg nem jelzel.
 * Variációk
     * Ha még nem ismered az akkordokat, partnered vagy egy harmadik játékos játsszon elő dallamokat, Te pedig ismételd őket.  
-    ![](Képek/Dallam akkordinga fölé/Ismétlés-1.svg)
+    ![](Képek/Dallam akkordinga fölé/Ismétlés-1.svg)
     * Fokozatosan vezess be díszítőhangokat.  
-    ![](Képek/Dallam akkordinga fölé/Díszítőhangok-1.svg)
+    ![](Képek/Dallam akkordinga fölé/Díszítőhangok-1.svg)
         * Csak akkordhangok
         * Akkordhangok + átmenő hangok
         * Akkordhangok + váltóhangok
@@ -198,16 +200,14 @@ Hallgatóidat bevonhatod az alkotói folyamatba, ha kérsz tőlük egy témát, 
 
 #### Dallamdíszítés
 * Hangszerelés
-    * akkordikus hangszer
-    * énekhang vagy bármilyen hangszer (opcionális)
+    * énekhang vagy bármilyen hangszer
+    * akkordikus hangszer (opcionális)
 * Szabályok
-    * Válassz egy népének-kíséretet (pl. az alábbi kötetekből) vagy egy dalt, melynek dallama egyenletes értékekben mozog.
-        * Bach: Négyszólamú korálfeldolgozások
-        * Szent vagy, Uram!
-        * Evangélikus Énekeskönyv
-    * Partnered játssza a kíséretét fele tempóban, Te pedig improvizálva díszítsd ki a dallamát barokkos motívumokkal. - TODO motívumok
+    * Válassz egy dallamot, pl. egy népéneket.
+    * Improvizálva díszítsd ki a dallamát barokkos motívumokkal. (Amennyiben a dallam kis értékekben mozog, fele tempóban játszd.)
 * Variációk
-    * Szólamok eloszlása
+    * Ha van kísérete a dallamnak, azzal együtt is lehet játszani a következő szólambeosztások szerint:
+        * Partner: kíséret, Te: dallam
         * Partner: basszus, Te: harmóniák + dallam
         * Te: basszus + dallam
         * Te: basszus + harmóniák + dallam
@@ -233,13 +233,16 @@ Hallgatóidat bevonhatod az alkotói folyamatba, ha kérsz tőlük egy témát, 
 * Szabályok
     * Válassz egy akkordsort vagy egyszerű akkordkíséretes tételt.
     * Figuráld a kíséretét különféle módokon. Pár ötlet:  
-    ![](Képek/Figuráció-1.svg)
+    ![](Képek/Figuráció-1.svg)
 
 ### Felrakás
 * Hangszerelés
     * orgona
 * Szabályok
-    * Válassz egy népének-kíséretet.
+    * Válassz egy népének-kíséretet (pl. az alábbi kötetekből) vagy egy dalt, melynek dallama egyenletes értékekben mozog.
+        * Bach: Négyszólamú korálfeldolgozások
+        * Szent vagy, Uram!
+        * Evangélikus Énekeskönyv
     * Játszd a következő felrakásokban, különféle regisztrációkban:
         * Pedál: basszus 16' regiszterrel, manuál: többi szólam
         * Pedál: basszus 16' regiszterrel, főmű: dallam, mellékmű: kíséret
@@ -491,13 +494,13 @@ Egy rövid téma 2-4 frázisból áll. Egy frázis lehet:
 A rögtönzés előtt tervezd meg a téma formáját betűjelekkel. Tipikus formák:
 
 * kéttagú forma: A B  
-![](Képek/Téma/Kéttagú forma-1.svg)
+![](Képek/Téma/Kéttagú forma-1.svg)
 * periódus: A? Av!  
-![](Képek/Téma/Periódus-1.svg)
+![](Képek/Téma/Periódus-1.svg)
     * kontrasztáló periódius: A(2) B(2)? A(2) C(2)!  
-    ![](Képek/Téma/Kontrasztáló periódus-1.svg)
+    ![](Képek/Téma/Kontrasztáló periódus-1.svg)
 * zenei mondat: A(2) Av(2) B(4)  
-![](Képek/Téma/Zenei mondat-1.svg)
+![](Képek/Téma/Zenei mondat-1.svg)
 
 #### Moduláló téma
 
@@ -643,7 +646,7 @@ Előfeltétel: [Dallam](#dallam)
         * 4-3 késleltetés
         * 7-6 késleltetés
         * 2 (késleltetés vagy átmenő)  
-        ![](Képek/Harmonizáció/Basszus-1.svg)
+        ![](Képek/Harmonizáció/Basszus-1.svg)
 
 ### Zsoltártónus-harmonizáció
 * Hangszerelés
@@ -651,7 +654,7 @@ Előfeltétel: [Dallam](#dallam)
 * Szabályok
     * Válassz egy római zsoltártónust.
     * Harmonizáld meg konszonanciákkal egyre több hangját (a többi hangra maradhat az akkord tartva) az alábbi kottapélda szerinti sorrendben.  
-    ![](Képek/Harmonizáció/Zsoltártónus-1.svg)
+    ![](Képek/Harmonizáció/Zsoltártónus-1.svg)
 * Variációk
     * Később neomodális alterációkat (pl. mollbeli, félszűk, akusztikus színezetű akkordok) is bevezethetsz.
     * Válassz egy zsoltárszöveget, amit a tónusra alkalmazol, és úgy harmonizáld meg, hogy a harmóniák, dallamvonalak minél inkább kifejezzék a szöveget.
