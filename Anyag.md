@@ -457,8 +457,8 @@ A zene időbeli alapegysége a frázis (mint azt a népdaloknál már láttuk). 
     * akkordikus hangszer
 * Szabályok
     * Válassz egy szekvenciát:
-        * autentikus: l-r-s-d-f-t<sup>7<sup>-m<sup>♯</sup>-l
-            * hosszabb forma: d-r-s-d-f-t<sup>7<sup>-m-l-r-s-d-f-s-d
+        * autentikus: l-r-s-d-f-t<sup>7</sup>-m<sup>♯</sup>-l
+            * hosszabb forma: d-r-s-d-f-t<sup>7</sup>-m-l-r-s-d-f-s-d
         * plagális-autentikus: d-s-l-m-f-d-s-d
             * hosszabb forma: d-s-l-m-f-d-r-l-ta-f-s-r-m-t<sup>6</sup>-d
         * autentikus-plagális: d-f-r<sup>(♯)</sup>-s-m<sup>(♯)</sup>-l-f-d
