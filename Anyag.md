@@ -160,7 +160,7 @@ Egy szép dallamra mindenki rezonál, így ez a hallgatóság megszólításána
     * Válassz egy érdekes akkordsort.
     * Partnered ismételgesse jelzésig, Te pedig improvizálj fölé dallamot. (Kezdetben minél egyszerűbb dallamokra törekedj.)
 * Ötletek
-    * ld. [Akkordsorok](#akkordsorok)
+    * ld. [Akkordsorok]
     * barokk chaconne-ok
     * könnyűzenei számok
 * Variációk
@@ -242,7 +242,10 @@ Hallgatóidat bevonhatod az alkotói folyamatba, ha kérsz tőlük egy témát, 
     * akkordikus hangszer
 * Szabályok
     * Válassz egy akkordsort.
-    * A basszusát díszítsd ki a stílusra jellemző motívumokkal. <!--- TODO motívumok -->
+    * A basszusát díszítsd ki a stílusra jellemző motívumokkal.
+
+[](TODO motívumok)
+
 * Példák
     * Pachelbel: Canon -> Corelli: Karácsonyi concerto
     * d-l-r-s walking bass
@@ -298,7 +301,9 @@ Hallgatóidat bevonhatod az alkotói folyamatba, ha kérsz tőlük egy témát, 
 * Variációk
     * Az echót tetszőlegesen variálhatod, pl. díszítheted.
 * Példák
-    * Sietze de Vries <!--- TODO -->
+    * Sietze de Vries
+
+[](TODO)
 
 \newpage
 
@@ -325,7 +330,9 @@ Hallgatóidat bevonhatod az alkotói folyamatba, ha kérsz tőlük egy témát, 
     * Válassz egy páros metrumú tánctételt.
     * Játszd le, majd utána rögtönözd a hármas metrumú változatát.
 * Példák
-    * [Speer: Musikalisch-Türkischer Eulen-Spiegel - táncok](https://www.youtube.com/playlist?list=PLDrg2ayMaZy7R_3sPdSmEU2vr9h7U3TQQ) <!--- TODO kotta -->
+    * [Speer: Musikalisch-Türkischer Eulen-Spiegel - táncok](https://www.youtube.com/playlist?list=PLDrg2ayMaZy7R_3sPdSmEU2vr9h7U3TQQ)
+
+[](TODO kotta)
 
 \newpage
 
@@ -334,9 +341,9 @@ Hallgatóidat bevonhatod az alkotói folyamatba, ha kérsz tőlük egy témát, 
     * énekhang vagy bármilyen hangszer
 * Szabályok
     * Válassz egy témát.
-    * Válassz 3-5 különböző lüktetésű [tánctípust](#táncok).
+    * Válassz 3-5 különböző lüktetésű [tánctípust].
     * Játszd a témát a tánctételek lüktetése és karaktere szerint, szükség szerint díszítve a dallamot.
-* Példa <!--- TODO -->
+* Példa [](TODO)
     * Ouverture
     * Allemande
     * Courante
@@ -349,7 +356,7 @@ Hallgatóidat bevonhatod az alkotói folyamatba, ha kérsz tőlük egy témát, 
 * Hangszerelés
     * akkordikus hangszer
 * Előfeltétel
-    * [Harmonizáció](#harmonizáció)
+    * [Harmonizáció]
 * Szabályok
     * Válassz egy dallamot.
     * Játszd különféle harmonizációkkal.
@@ -400,7 +407,7 @@ Hallgatóidat bevonhatod az alkotói folyamatba, ha kérsz tőlük egy témát, 
     * Válassz egy dúr vagy moll dallamot.
     * Játszd el a hangsorának összes hangjáról kezdve.
 * Variációk
-    * [Harmonizációs](#harmonizáció) képességek birtokában harmonizáld meg mindegyik hangról kezdődő változatot.
+    * [Harmonizációs] képességek birtokában harmonizáld meg mindegyik hangról kezdődő változatot.
 
 \newpage
 
@@ -434,7 +441,7 @@ Hallgatóidat bevonhatod az alkotói folyamatba, ha kérsz tőlük egy témát, 
 * Hangszerelés
     * akkordikus hangszer
 * Előfeltétel
-    * [Stílusok](#stílusok)
+    * [Stílusok]
 * Szabályok
     * Válassz egy népszerű témát, mely elég rugalmasan feldolgozható (pl. gyerekdal vagy népdal).
     * Válassz egy zenei stílust vagy egy zeneszerzőt, és műveinek elemzésével írj össze pár rá jellemző stílusjegyet.
@@ -449,8 +456,8 @@ Hallgatóidat bevonhatod az alkotói folyamatba, ha kérsz tőlük egy témát, 
 
 Előfeltétel:
 
-* [Dallam](#dallam)
-* [Variáció](#variáció)
+* [Dallam]
+* [Variáció]
 
 Eljutottál oda, hogy olyan zenei anyagot rögtönözz, melynek minden paraméterét Te határozod meg. Ez nem azt jelenti, hogy bármiféle támpont nélkül kéne a semmiből valami teljesen eredetit megalkotnod. Az alábbi módokon tudsz magadon segíteni:
 
@@ -460,8 +467,8 @@ Eljutottál oda, hogy olyan zenei anyagot rögtönözz, melynek minden paraméte
 Most pedig fokozatosan, építőelemenként felépítünk zenei struktúrákat, mintha épületek lennének. A gyakorlatok végrehajtása során mindig az alábbi lépéseket kövesd:
 
 * Először írd fel a kompozíció harmóniai és formai vázát. Végy egy akkordsort, 1 ütemben 1 vagy legfeljebb 2 akkordot véve. Írd le vázlatos lejegyzésmóddal (fokszámok vagy kottázott/szolmizált számozott basszus), és játszd le, mintha continuóznál. (A formai vázról később esik szó.) Épületed ezennel szerkezetkész: szilárd alappal és stabil struktúrával rendelkezik.
-* Adj hozzá karaktert. Végy egy tánctételt, mely meghatározza a metrumot és a jellemző ritmusképletet; válassz egy figurációt, és alkalmazd (ld. [Variáció](#variáció)). Így berendezted és kifestetted az épületedet, már el tudja látni funkcióját, de még kissé sivár.
-* Adj hozzá dallamot (ld. [Dallam](#dallam)). A harmóniák expresszivitását növelheted késleltetések bevezetésével. Épületed most már ki van díszítve képekkel, növényekkel stb.
+* Adj hozzá karaktert. Végy egy tánctételt, mely meghatározza a metrumot és a jellemző ritmusképletet; válassz egy figurációt, és alkalmazd (ld. [Variáció]). Így berendezted és kifestetted az épületedet, már el tudja látni funkcióját, de még kissé sivár.
+* Adj hozzá dallamot (ld. [Dallam]). A harmóniák expresszivitását növelheted késleltetések bevezetésével. Épületed most már ki van díszítve képekkel, növényekkel stb.
 
 Összefoglalva:
 
@@ -477,7 +484,7 @@ Most pedig fokozatosan, építőelemenként felépítünk zenei struktúrákat, 
 
 A zene időbeli alapegysége a frázis (mint azt a népdaloknál már láttuk). Hossza lehet alapvetően:
 
-* 2 akkord: ld. [akkordinga](#dallam-akkordinga-fölé)
+* 2 akkord: ld. [akkordinga]
 * 4 vagy 8 akkord: ld. az alábbi gyakorlatok
 
 #### Tipikus tematikus akkordsorok
@@ -489,7 +496,7 @@ A zene időbeli alapegysége a frázis (mint azt a népdaloknál már láttuk). 
         * félzárlat: I-VI-IV-V
         * ereszkedő: I-V<sup>6</sup>-IV<sup>6</sup>-V
         * emelkedő: I-VII<sup>6</sup>-I<sup>6</sup>-V
-    * Variáld úgy, hogy néhol [beszúrsz](#akkordok-beszúrása) akkordokat, vagy bizonyos akkordokat hasonló funkciójúakkal helyettesítesz (pl. IV. fok helyett váltódomináns).
+    * Variáld úgy, hogy néhol [beszúrsz] akkordokat, vagy bizonyos akkordokat hasonló funkciójúakkal helyettesítesz (pl. IV. fok helyett váltódomináns).
 
 \newpage
 
@@ -537,7 +544,7 @@ A zene időbeli alapegysége a frázis (mint azt a népdaloknál már láttuk). 
         * plagális: d-m<sup>**6**</sup>-s-t<sup>**6**</sup>...
     * Válassz egy motívumot, amely akkordonként váltakozzon a szólamok között:
         * szoprán-basszus
-        * szoprán-alt (háromszólamú felrakásban) <!--- TODO példák -->
+        * szoprán-alt (háromszólamú felrakásban) [](TODO példák)
 
 \newpage
 
@@ -565,7 +572,7 @@ A rögtönzés előtt tervezd meg a téma formáját betűjelekkel. Tipikus form
 
 #### Moduláló téma
 
-Előfeltétel: [Ritornell kamarában](#ritornell-kamarában)
+Előfeltétel: [Ritornell kamarában]
 
 Egy bonyolultabb téma 4-5 frázisból áll, melyek között van az alaphangnemtől eltérő. Tipikus hangnemek az alaphangnemhez képest:
 
@@ -728,15 +735,15 @@ Tipikus műfaj: bármilyen barokk tánctétel
 
 ### Fúga
 
-Előfeltétel: [Harmonizáció](#harmonizáció)
+Előfeltétel: [Harmonizáció]
 
-<!--- TODO -->
+[](TODO)
 
 \newpage
 
 ## Harmonizáció
 
-Előfeltétel: [Dallam](#dallam)
+Előfeltétel: [Dallam]
 
 A harmonizáció az egyik legösszetettebb zenei tevékenység, hiszen egy dallamhoz kell megtalálni a hozzá illő harmóniákat úgy, hogy azok egymás után is szervesen kapcsolódjanak. Nagyon fontos, hogy a dallamimprovizáció már készség szinten menjen, hogy elegendő élménnyel rendelkezz dallam és harmónia egymáshoz illesztéséről.
 
@@ -818,9 +825,9 @@ A harmonizáció az egyik legösszetettebb zenei tevékenység, hiszen egy dalla
 
 ### 1 hang 2 akkord
 * Előfeltétel
-    * [Korálharmonizálás](#korál)
-    * [Akkordbeszúrás](#akkordok beszúrása)
-    * [Szekvencia](#szekvencia)
+    * [Korálharmonizálás]
+    * [Akkordbeszúrás]
+    * [Szekvencia]
 * Hangszerelés
     * akkordikus hangszer
 * Szabályok
@@ -848,7 +855,7 @@ Amikor az egyenletes harmóniaritmus biztosan megy, ritkítsd a harmóniaritmust
 
 ### Közjátékos korálelőjáték
 * Előfeltételek
-    * [Ritornell](#ritornell)
+    * [Ritornell]
 * Hangszerelés
     * orgona
 * Szabályok
@@ -861,10 +868,7 @@ Amikor az egyenletes harmóniaritmus biztosan megy, ritkítsd a harmóniaritmust
 
 # Stílusok
 
-<!--- TODO
-Táncok motívumokkal
-Zenei nyelv
--->
+[](TODO: Táncok motívumokkal, Zenei nyelv)
 
 # Akkordsorok
 
