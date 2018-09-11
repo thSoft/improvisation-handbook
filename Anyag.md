@@ -341,7 +341,7 @@ Hallgatóidat bevonhatod az alkotói folyamatba, ha kérsz tőlük egy témát, 
     * énekhang vagy bármilyen hangszer
 * Szabályok
     * Válassz egy témát.
-    * Válassz 3-5 különböző lüktetésű [tánctípust].
+    * Válassz 3-5 különböző lüktetésű tánctípust. [](TODO link)
     * Játszd a témát a tánctételek lüktetése és karaktere szerint, szükség szerint díszítve a dallamot.
 * Példa [](TODO)
     * Ouverture
@@ -407,7 +407,7 @@ Hallgatóidat bevonhatod az alkotói folyamatba, ha kérsz tőlük egy témát, 
     * Válassz egy dúr vagy moll dallamot.
     * Játszd el a hangsorának összes hangjáról kezdve.
 * Variációk
-    * [Harmonizációs] képességek birtokában harmonizáld meg mindegyik hangról kezdődő változatot.
+    * [Harmonizációs][Harmonizáció] képességek birtokában harmonizáld meg mindegyik hangról kezdődő változatot.
 
 \newpage
 
@@ -484,7 +484,7 @@ Most pedig fokozatosan, építőelemenként felépítünk zenei struktúrákat, 
 
 A zene időbeli alapegysége a frázis (mint azt a népdaloknál már láttuk). Hossza lehet alapvetően:
 
-* 2 akkord: ld. [akkordinga]
+* 2 akkord: ld. [akkordinga][Dallam akkordinga fölé]
 * 4 vagy 8 akkord: ld. az alábbi gyakorlatok
 
 #### Tipikus tematikus akkordsorok
@@ -496,7 +496,7 @@ A zene időbeli alapegysége a frázis (mint azt a népdaloknál már láttuk). 
         * félzárlat: I-VI-IV-V
         * ereszkedő: I-V<sup>6</sup>-IV<sup>6</sup>-V
         * emelkedő: I-VII<sup>6</sup>-I<sup>6</sup>-V
-    * Variáld úgy, hogy néhol [beszúrsz] akkordokat, vagy bizonyos akkordokat hasonló funkciójúakkal helyettesítesz (pl. IV. fok helyett váltódomináns).
+    * Variáld úgy, hogy néhol [beszúrsz][Akkordok beszúrása] akkordokat, vagy bizonyos akkordokat hasonló funkciójúakkal helyettesítesz (pl. IV. fok helyett váltódomináns).
 
 \newpage
 
@@ -825,8 +825,8 @@ A harmonizáció az egyik legösszetettebb zenei tevékenység, hiszen egy dalla
 
 ### 1 hang 2 akkord
 * Előfeltétel
-    * [Korálharmonizálás]
-    * [Akkordbeszúrás]
+    * [Korálharmonizálás][Korál]
+    * [Akkordbeszúrás][Akkordok beszúrása]
     * [Szekvencia]
 * Hangszerelés
     * akkordikus hangszer
