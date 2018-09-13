@@ -8,7 +8,7 @@ documentclass: scrbook
 
 Kedves muzsikus barátom!
 
-Ennek a tankönyvnek az a célja, hogy elindítson azon az úton, hogy a zene nyelvén ki tudd fejezni saját gondolataidat és érzéseidet a pillanatnyi helzetnek megfelelően. Ez azért csodálatos dolog, mert egyrészt saját belső világodhoz jobban tudsz kapcsolódni, másrészt még mélyebb kapcsolatot tudsz teremteni a Téged hallgatókkal azáltal, hogy aktuális igényeikre reagálva zenei párbeszédet folytathatsz velük.
+Ennek a tankönyvnek az a célja, hogy elindítson azon az úton, hogy a zene nyelvén ki tudd fejezni saját gondolataidat és érzéseidet a pillanatnyi helyzetnek megfelelően. Ez azért csodálatos dolog, mert egyrészt saját belső világodhoz jobban tudsz kapcsolódni, másrészt még mélyebb kapcsolatot tudsz teremteni a Téged hallgatókkal azáltal, hogy aktuális igényeikre reagálva zenei párbeszédet folytathatsz velük.
 
 Ha eddig még nem kóstoltál bele a rögtönzés világába, abban bízom, hogy ezek a gyakorlatok biztonságérzetet adnak és felszabadítanak. Ha pedig úgy érzed, hogy jön Belőled az improvizáció, reményeim szerint abban tudnak segíteni, hogy zenei gondolataidat még strukturáltabban tud megfogalmazni, és így a közönség azt gondolhassa, hogy rögtönzésed voltaképpen egy leírt kompozíció előadása.
 
@@ -130,7 +130,7 @@ Egy szép dallamra mindenki rezonál, így ez a hallgatóság megszólításána
     * Improvizálj fölé dallamot.
     * Az akkordinga addig ismétlődjön, amíg nem jelzel.
 * Variációk
-    * Ha még nem ismered az akkordokat, partnered vagy egy harmadik játékos játsszon elő dallamokat, Te pedig ismételd őket.  
+    * Ha az akkordok hangjai még nem mennek gondolkodás nélkül, először partnered vagy egy harmadik játékos játsszon elő dallamokat, Te pedig ismételd őket.  
     ![](Képek/Dallam akkordinga fölé/Ismétlés-1.svg)
     * Fokozatosan vezess be díszítőhangokat.  
     ![](Képek/Dallam akkordinga fölé/Díszítőhangok-1.svg)
@@ -221,9 +221,10 @@ Hallgatóidat bevonhatod az alkotói folyamatba, ha kérsz tőlük egy témát, 
     * énekhang vagy bármilyen hangszer
     * akkordikus hangszer (opcionális)
 * Szabályok
-    * Válassz egy dallamot, pl. egy népéneket.
-    * Improvizálva díszítsd ki a dallamát a stílusra jellemző motívumokkal. (Amennyiben a dallam kis értékekben mozog, fele tempóban játszd.)
+    * Válassz egy dallamot, pl. egy népéneket, népdalt, dalt, áriát stb.
+    * Improvizálva díszítsd ki a stílusra jellemző motívumokkal.
 * Variációk
+    * A dallamot fele tempóban is játszhatod, így még több díszítéssel gazdagíthatod.
     * Ha van kísérete a dallamnak, azzal együtt is lehet játszani a következő szólambeosztások szerint:
         * Partner: kíséret, Te: dallam
         * Partner: basszus, Te: harmóniák + dallam
@@ -243,7 +244,6 @@ Hallgatóidat bevonhatod az alkotói folyamatba, ha kérsz tőlük egy témát, 
 * Szabályok
     * Válassz egy akkordsort.
     * A basszusát díszítsd ki a stílusra jellemző motívumokkal.
-
 * Példák
     * Pachelbel: Canon -> Corelli: Karácsonyi concerto
     * d-l-r-s walking bass
@@ -264,11 +264,11 @@ Hallgatóidat bevonhatod az alkotói folyamatba, ha kérsz tőlük egy témát, 
 * Hangszerelés
     * orgona
 * Szabályok
-    * Válassz egy népének-kíséretet (pl. az alábbi kötetekből).
+    * Válassz egy népének-kíséretet, pl. az alábbi kötetekből:
         * Bach: Négyszólamú korálfeldolgozások
         * Szent vagy, Uram!
         * Evangélikus Énekeskönyv
-    * Játszd a következő felrakásokban, különféle regisztrációkban:
+    * Játszd a következő felrakásokban, különféle regisztrációkkal:
         * Pedál: basszus 16' regiszterrel, manuál: többi szólam
         * Pedál: basszus 16' regiszterrel, főmű: dallam, másik manuál: kíséret
         * Pedál: basszus 16' regiszterrel, főmű: dallam oktávval lejjebb, másik manuál: kíséret
@@ -299,9 +299,8 @@ Hallgatóidat bevonhatod az alkotói folyamatba, ha kérsz tőlük egy témát, 
 * Variációk
     * Az echót tetszőlegesen variálhatod, pl. díszítheted.
 * Példák
-    * Sietze de Vries
-
-[](TODO)
+    * [Sietze de Vries: Wer nur den lieben Gott läßt walten](https://www.youtube.com/watch?v=DHdAR4aV9Aw)
+    * [Sietze de Vries: Ein feste Burg ist unser Gott](https://www.youtube.com/watch?v=Bk75PrwcTNU)
 
 \newpage
 
@@ -360,7 +359,10 @@ Hallgatóidat bevonhatod az alkotói folyamatba, ha kérsz tőlük egy témát, 
     * Játszd különféle harmonizációkkal.
 * Példák
     * [Publio Delgado](https://www.youtube.com/user/vendidou/videos)
-    * [Harmath Dénes](https://www.youtube.com/playlist?list=PLDrg2ayMaZy7Eeri_OOc0MhT1kPg_HTAL)
+    * Harmath Dénes
+        * [Boldogság, gyere haza](https://www.youtube.com/watch?v=QIptYgLIHj4)
+        * [Szerelem első vérig](https://vimeo.com/286490988)
+        * [Petróleumlámpa](https://www.youtube.com/watch?v=sZ13vNxKtg8)
 
 \newpage
 
@@ -442,7 +444,7 @@ Hallgatóidat bevonhatod az alkotói folyamatba, ha kérsz tőlük egy témát, 
     * [Stílusok]
 * Szabályok
     * Válassz egy népszerű témát, mely elég rugalmasan feldolgozható (pl. gyerekdal vagy népdal).
-    * Válassz egy zenei stílust vagy egy zeneszerzőt, és műveinek elemzésével írj össze pár rá jellemző stílusjegyet.
+    * Válassz egy zenei stílust vagy egy zeneszerzőt, és műveinek elemzésével írj össze pár rá jellemző stílusjegyet. Gyakorold ezen építőelemeket.
     * Variáld úgy a témát, hogy ezeket a stílusjegyeket jól felismerhetően alkalmazod rá.
 * Példák
     * [Richard Grayson](https://www.youtube.com/user/improvelectronic/videos)
@@ -464,7 +466,7 @@ Eljutottál oda, hogy olyan zenei anyagot rögtönözz, melynek minden paraméte
 
 Most pedig fokozatosan, építőelemenként felépítünk zenei struktúrákat, mintha épületek lennének. A gyakorlatok végrehajtása során mindig az alábbi lépéseket kövesd:
 
-* Először írd fel a kompozíció harmóniai és formai vázát. Végy egy akkordsort, 1 ütemben 1 vagy legfeljebb 2 akkordot véve. Írd le vázlatos lejegyzésmóddal (fokszámok vagy kottázott/szolmizált számozott basszus), és játszd le, mintha continuóznál. (A formai vázról később esik szó.) Épületed ezennel szerkezetkész: szilárd alappal és stabil struktúrával rendelkezik.
+* Először írd fel a kompozíció harmóniai és formai vázát. Végy egy akkordsort, 1 ütemben 1 vagy legfeljebb 2 akkordot véve. Írd le vázlatos lejegyzésmóddal (fokszámok vagy kottázott/szolmizált számozott basszus), és játszd le, mintha continuóznál – nem kell a négyszólamú szerkesztés szabályaival törődni. (A formai vázról később esik szó.) Épületed ezennel szerkezetkész: szilárd alappal és stabil struktúrával rendelkezik.
 * Adj hozzá karaktert. Végy egy tánctételt, mely meghatározza a metrumot és a jellemző ritmusképletet; válassz egy figurációt, és alkalmazd (ld. [Variáció]). Így berendezted és kifestetted az épületedet, már el tudja látni funkcióját, de még kissé sivár.
 * Adj hozzá dallamot (ld. [Dallam]). A harmóniák expresszivitását növelheted késleltetések bevezetésével. Épületed most már ki van díszítve képekkel, növényekkel stb.
 
@@ -679,6 +681,8 @@ Tipikus műfaj: ouverture
 
 Tipikus műfaj: concerto
 
+Példa: [Sietze de Vries: Concerto di segnor Vriescobaldi](https://www.youtube.com/watch?v=Vis97y1WFE8)
+
 #### Fantázia
 
 * Téma
@@ -800,6 +804,8 @@ A harmonizáció az egyik legösszetettebb zenei tevékenység, hiszen egy dalla
         * 7-6 késleltetés
         * 2 (késleltetés vagy átmenő)  
         ![](Képek/Harmonizáció/Basszus-1.svg)
+* Variációk
+    * A szoprán szólamban játssz szép, dallamos ellenszólamot egy adott karakter szerint.
 
 \newpage
 
@@ -1041,14 +1047,14 @@ Amikor a harmonizáció egyenletes harmóniaritmussal biztosan megy, ritkítsd a
 
 #### Táncok
 
-| Tánc               | Metrum     | Karakter |
-| ------------------ | ---------- | -------- |
-| Polonéz            | 3/4        | andante  |
-| Mazurka            | 3/4        | lassú    |
-| Siciliano/Berceuse | 6/8 v. 3/4 | lassú    |
-| Barcarola          | 6/8        | andante  |
-| Keringő            | 3/4        | gyors    |
-| Polka              | 2/4        | gyors    |
+| Tánc                         | Metrum     | Karakter |
+| ---------------------------- | ---------- | -------- |
+| Polonéz                      | 3/4        | andante  |
+| Mazurka                      | 3/4        | lassú    |
+| Pastorale/Siciliano/Berceuse | 6/8 v. 3/4 | lassú    |
+| Barcarola                    | 6/8        | andante  |
+| Keringő                      | 3/4        | gyors    |
+| Polka                        | 2/4        | gyors    |
 
 \newpage
 
