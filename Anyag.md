@@ -907,8 +907,6 @@ Amikor a harmonizáció egyenletes harmóniaritmussal biztosan megy, ritkítsd a
 
 # Stílusok
 
-[](TODO: Táncok motívumokkal, Zenei nyelv)
-
 ## Reneszánsz
 
 ### Zenei nyelv
@@ -921,14 +919,18 @@ Amikor a harmonizáció egyenletes harmóniaritmussal biztosan megy, ritkítsd a
 
 ### Műfajok
 * canzona
+* toccata/ricercar/prelúdium
 
 #### Táncok
 
-| Tánc           | Metrum | Karakter |
-| -------------- | ---------- | -------- |
-| Pavane         | 2/2        | lassú    |
-| Gagliarde      | 6/8        | gyors    |
-| Forlane/Trezza | 12/8       | gyors    |
+| Tánc               | Metrum | Karakter |
+| ------------------ | ------ | -------- |
+| Pavane             | 2/2    | lassú    |
+| Gagliarde/Tourdion | 6/8    | gyors    |
+| Forlane/Trezza     | 12/8   | gyors    |
+| Branle             | 4/4    | andante  |
+
+\newpage
 
 ## Barokk
 
@@ -943,6 +945,16 @@ Amikor a harmonizáció egyenletes harmóniaritmussal biztosan megy, ritkítsd a
     * II<sup>5 6</sup>
 
 ### Műfajok
+
+* szvit
+* concerto
+* orgona:
+    * korálelőjáték
+    * korálpartita
+    * prelúdium/toccata/fantázia és fúga
+    * elevációs toccata
+    * passacaglia/chaconne
+    * francia barokk szvit
 
 #### Táncok
 
@@ -961,6 +973,8 @@ Amikor a harmonizáció egyenletes harmóniaritmussal biztosan megy, ritkítsd a
 | Gigue                  | 6/8 v. 12/8 | gyors    | lüktetés: fél ütem                                                               | kéttagú v. rondó |
 | Chaconne               | 3/4         | andante  | maggiore/minore váltás                                                           | variációs     |
 
+\newpage
+
 ## Bécsi klasszika
 
 ### Zenei nyelv
@@ -977,6 +991,15 @@ Amikor a harmonizáció egyenletes harmóniaritmussal biztosan megy, ritkítsd a
 
 * szonáta
 * variációsorozat
+
+#### Táncok
+
+| Tánc    | Metrum | Karakter |
+| ------- | ------ | -------- |
+| Menuet  | 3/4    | andante  |
+| Ländler | 3/4    | andante  |
+
+\newpage
 
 ## Romantika
 
@@ -1008,7 +1031,26 @@ Amikor a harmonizáció egyenletes harmóniaritmussal biztosan megy, ritkítsd a
 
 ### Műfajok
 
+* dal
+* szimfonikus költemény
+* orgona:
+    * orgonaszonáta
+    * orgonaszimfónia
+    * toccata
+    * korálelőjáték
+
 #### Táncok
+
+| Tánc               | Metrum     | Karakter |
+| ------------------ | ---------- | -------- |
+| Polonéz            | 3/4        | andante  |
+| Mazurka            | 3/4        | lassú    |
+| Siciliano/Berceuse | 6/8 v. 3/4 | lassú    |
+| Barcarola          | 6/8        | andante  |
+| Keringő            | 3/4        | gyors    |
+| Polka              | 2/4        | gyors    |
+
+\newpage
 
 ## Századforduló és XX. század
 
@@ -1060,7 +1102,7 @@ Amikor a harmonizáció egyenletes harmóniaritmussal biztosan megy, ritkítsd a
 	* kvártszext-akkordok + orgonapont
 	* domináns szeptim-mixtúrák
 	* bő szextes akkordok/Kodály-domináns
-	* codában r<sup>**3 4**</sup> l<sup>**♯**</sup>
+	* codában r<sup>**3 4**</sup>-l<sup>**♯**</sup>
 	* tercrokonság
 	* versszak végén alaphang = váltódomináns szeptimje
 * figuráció
@@ -1081,6 +1123,23 @@ Amikor a harmonizáció egyenletes harmóniaritmussal biztosan megy, ritkítsd a
 	* gregorián
 	* korál
 	* népdal
+
+### Műfajok
+
+* népdalfeldolgozás
+* orgona:
+    * gregorián partita
+    * scherzo
+    * toccata
+    * méditation
+
+#### Táncok
+
+| Tánc    | Metrum    | Karakter |
+| ------- | --------- | -------- |
+| Bolero  | 3/4       | andante  |
+| Marche  | 4/4       | lassú    |
+| Bulería | 6/8 + 3/4 | gyors    |
 
 # Akkordsorok
 
