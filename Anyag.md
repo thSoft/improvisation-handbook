@@ -1,6 +1,6 @@
 ---
 title: Szólalj meg bátran a zene nyelvén!
-subtitle: Játékos gyakorlatok az improvizációs készség fejlesztésére
+subtitle: Játékos gyakorlatok a stílusimprovizációs készség fejlesztésére
 documentclass: scrbook
 ---
 
@@ -12,9 +12,13 @@ Ennek a tankönyvnek az a célja, hogy elindítson azon az úton, hogy a zene ny
 
 Ha eddig még nem kóstoltál bele a rögtönzés világába, abban bízom, hogy ezek a gyakorlatok biztonságérzetet adnak és felszabadítanak. Ha pedig úgy érzed, hogy jön Belőled az improvizáció, reményeim szerint abban tudnak segíteni, hogy zenei gondolataidat még strukturáltabban tud megfogalmazni, és így a közönség azt gondolhassa, hogy rögtönzésed voltaképpen egy leírt kompozíció előadása.
 
-## Előismeretek
+## Célközönség
+
+Ez a könyv Neked szól, ha zenei tanulmányaidban már legalább közép- vagy felsőfokon jársz, és szeretnéd elsajátítani a tonális stílusimprovizáció készségét, azaz az elmúlt századok európai komoly- és könnyűzenei nyelvén történő rögtönzést. (Ha a rögtönzést a zene alapjaitól szeretnéd kezdeni, ill. a jazz világában elmélyedni, melegen ajánlom Apagyi Mária *ZongorÁlom*, ill. Gonda János *A rögtönzés világa* c. tankönyveit.)
 
 A gyakorlatok azt feltételezik, hogy már birtokában vagy olyan képességeknek, mint a kottaolvasás, a szolmizáció, valamint a fokszámok, hármashangzatok, négyeshangzatok és fordításaik alapvető ismerete.
+
+Akármilyen hangszeren játszol, találni fogsz magadnak megfelelő gyakorlatokat. Ezek többsége az akkordikus hangszerekre, némelyike specifikusan az orgonára fókuszál, de hangszeredre jellemző technikákkal sikeresen alkalmazhatod őket dallamhangszerekre, ill. énekhangra is.
 
 ## Általános szabályok
 
@@ -74,6 +78,16 @@ Egy szép dallamra mindenki rezonál, így ez a hallgatóság megszólításána
     * A dallam *csúcspontját* érdemes előre eltervezni.
     * A *nagy hangközöktől* kifejezőbb lesz a dallam.
     * A *motívumismétlődések* koherensebbé teszik a dallamot.
+
+\newpage
+
+### Motívumtranszformáció
+* Hangszerelés
+    * énekhang vagy bármilyen hangszer
+* Szabályok
+    * Találj ki egy rövid, karakteres motívumot. Jellegzetességét adhatja egy ritmusképlet vagy egy nagyobb hangköz.
+    * Játszd el a hangsorának összes hangjáról kezdve sorban felfelé vagy lefelé.  
+    ![](Képek/Motívumtranszformáció-1.svg)
 
 \newpage
 
