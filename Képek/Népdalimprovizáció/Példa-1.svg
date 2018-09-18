@@ -214,8 +214,8 @@
 <polyline class="LyricsLineSegment" fill="none" stroke="#000000" stroke-width="0.62" stroke-linejoin="bevel" points="181.56,225.207 184.848,225.207"/>
 <polyline class="LyricsLineSegment" fill="none" stroke="#000000" stroke-width="0.62" stroke-linejoin="bevel" points="67.8407,225.207 71.1289,225.207"/>
 <polyline class="LyricsLineSegment" fill="none" stroke="#000000" stroke-width="0.62" stroke-linejoin="bevel" points="50.7519,225.207 54.0401,225.207"/>
-<polyline class="LyricsLineSegment" fill="none" stroke="#000000" stroke-width="0.62" stroke-linejoin="bevel" points="117.701,167.664 120.989,167.664"/>
 <polyline class="LyricsLineSegment" fill="none" stroke="#000000" stroke-width="0.62" stroke-linejoin="bevel" points="221.832,167.664 223.929,167.664"/>
+<polyline class="LyricsLineSegment" fill="none" stroke="#000000" stroke-width="0.62" stroke-linejoin="bevel" points="117.701,167.664 120.989,167.664"/>
 <polyline class="LyricsLineSegment" fill="none" stroke="#000000" stroke-width="0.62" stroke-linejoin="bevel" points="201.383,110.12 204.671,110.12"/>
 <polyline class="LyricsLineSegment" fill="none" stroke="#000000" stroke-width="0.62" stroke-linejoin="bevel" points="174.707,110.12 177.995,110.12"/>
 <polyline class="LyricsLineSegment" fill="none" stroke="#000000" stroke-width="0.62" stroke-linejoin="bevel" points="134.156,110.12 137.444,110.12"/>
@@ -224,10 +224,10 @@
 <polyline class="LyricsLineSegment" fill="none" stroke="#000000" stroke-width="0.62" stroke-linejoin="bevel" points="64.1443,110.12 67.4325,110.12"/>
 <polyline class="LyricsLineSegment" fill="none" stroke="#000000" stroke-width="0.62" stroke-linejoin="bevel" points="49.163,110.12 52.4511,110.12"/>
 <polyline class="LyricsLineSegment" fill="none" stroke="#000000" stroke-width="0.62" stroke-linejoin="bevel" points="30.4121,110.12 33.7003,110.12"/>
-<polyline class="LyricsLineSegment" fill="none" stroke="#000000" stroke-width="0.62" stroke-linejoin="bevel" points="47.6336,52.5772 50.9218,52.5772"/>
 <polyline class="LyricsLineSegment" fill="none" stroke="#000000" stroke-width="0.62" stroke-linejoin="bevel" points="212.081,52.5772 215.369,52.5772"/>
 <polyline class="LyricsLineSegment" fill="none" stroke="#000000" stroke-width="0.62" stroke-linejoin="bevel" points="190.948,52.5772 194.236,52.5772"/>
 <polyline class="LyricsLineSegment" fill="none" stroke="#000000" stroke-width="0.62" stroke-linejoin="bevel" points="153.261,52.5772 156.549,52.5772"/>
+<polyline class="LyricsLineSegment" fill="none" stroke="#000000" stroke-width="0.62" stroke-linejoin="bevel" points="47.6336,52.5772 50.9218,52.5772"/>
 <path class="NoteDot" transform="matrix(0.822047,0,0,0.822047,194.958,213.321)" d="M0.332031,0.800781 C0.110677,0.579427 0,0.3125 0,0 C0,-0.3125 0.110677,-0.579427 0.332031,-0.800781 C0.553385,-1.02214 0.820312,-1.13281 1.13281,-1.13281 C1.44531,-1.13281 1.71224,-1.02214 1.93359,-0.800781 C2.15495,-0.579427 2.26562,-0.3125 2.26562,0 C2.26562,0.3125 2.15495,0.579427 1.93359,0.800781 C1.71224,1.02214 1.44531,1.13281 1.13281,1.13281 C0.820312,1.13281 0.553385,1.02214 0.332031,0.800781"/>
 <path class="NoteDot" transform="matrix(0.822047,0,0,0.822047,150.282,209.211)" d="M0.332031,0.800781 C0.110677,0.579427 0,0.3125 0,0 C0,-0.3125 0.110677,-0.579427 0.332031,-0.800781 C0.553385,-1.02214 0.820312,-1.13281 1.13281,-1.13281 C1.44531,-1.13281 1.71224,-1.02214 1.93359,-0.800781 C2.15495,-0.579427 2.26562,-0.3125 2.26562,0 C2.26562,0.3125 2.15495,0.579427 1.93359,0.800781 C1.71224,1.02214 1.44531,1.13281 1.13281,1.13281 C0.820312,1.13281 0.553385,1.02214 0.332031,0.800781"/>
 <path class="NoteDot" transform="matrix(0.822047,0,0,0.822047,171.641,147.557)" d="M0.332031,0.800781 C0.110677,0.579427 0,0.3125 0,0 C0,-0.3125 0.110677,-0.579427 0.332031,-0.800781 C0.553385,-1.02214 0.820312,-1.13281 1.13281,-1.13281 C1.44531,-1.13281 1.71224,-1.02214 1.93359,-0.800781 C2.15495,-0.579427 2.26562,-0.3125 2.26562,0 C2.26562,0.3125 2.15495,0.579427 1.93359,0.800781 C1.71224,1.02214 1.44531,1.13281 1.13281,1.13281 C0.820312,1.13281 0.553385,1.02214 0.332031,0.800781"/>

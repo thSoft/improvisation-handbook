@@ -14,7 +14,7 @@ Ha eddig még nem kóstoltál bele a rögtönzés világába, abban bízom, hogy
 
 ## Célközönség
 
-Ez a könyv Neked szól, ha zenei tanulmányaidban már legalább közép- vagy felsőfokon jársz, és szeretnéd elsajátítani a tonális stílusimprovizáció készségét, azaz az elmúlt századok európai komoly- és könnyűzenei nyelvén történő rögtönzést. (Ha a rögtönzést a zene alapjaitól szeretnéd kezdeni, ill. a jazz világában elmélyedni, melegen ajánlom Apagyi Mária *ZongorÁlom*, ill. Gonda János *A rögtönzés világa* c. tankönyveit.)
+Ez a könyv Neked szól, ha zenei tanulmányaidban már legalább közép- vagy felsőfokon jársz, és szeretnéd elsajátítani a stílusimprovizáció készségét, azaz az elmúlt századok európai, tonális komoly- és könnyűzenei nyelvén történő rögtönzést. (Ha a rögtönzést a zene alapjaitól szeretnéd kezdeni, ill. a jazz világában kívánsz elmélyedni, melegen ajánlom Apagyi Mária *ZongorÁlom*, ill. Gonda János *A rögtönzés világa* c. tankönyveit.)
 
 A gyakorlatok azt feltételezik, hogy már birtokában vagy olyan képességeknek, mint a kottaolvasás, a szolmizáció, valamint a fokszámok, hármashangzatok, négyeshangzatok és fordításaik alapvető ismerete.
 
@@ -24,13 +24,13 @@ Akármilyen hangszeren játszol, találni fogsz magadnak megfelelő gyakorlatoka
 
 A legfontosabb alapelv, hogy a játszott anyag fölött *teljes kontrollt* érezz, és előre tudj gondolkodni. Mindig olyan tempót válassz, amiben teljesen ritmikusan el tudod játszani, amit elképzeltél. (Ehhez nagyon hasznos segítség egy kamarapartner – sok gyakorlatban ketten vagy többen is részt vehetnek –, partner híján pedig egy metronóm.) Addig ne haladj tovább a következő gyakorlatra, amíg nincs meg a már említett kontroll érzete, mely egyfajta szabadságérzetet is ad.
 
-Amikor ketten két különböző szerepben játszotok, megbeszélés szerint cserélgethettek.
-
 Minden gyakorlatot minél többféle, minél különbözőbb variációban végezz el, legfőképp minél több hangnemben.
+
+Amikor ketten két különböző szerepben játszotok, megbeszélés szerint cserélgethettek.
 
 A dúrban és mollban is értelmezhető harmóniasorok fokszámmal vannak jelölve, egyébként az akkordmenetek úgynevezett szolmizált számozott basszussal vannak lejegyezve: ilyenkor a szolmizáció a basszushangot jelzi, a felső indexben levő számok pedig a basszushoz képest számítandó hangközöket.
 
-A gyakorlatokat nem szükséges a könyv elejétől a végéig szigorúan a leírt sorrendben végezni. Az 1-2., valamint a 3-4. gyakorlatsort nagyjából párhuzamosan érdemes feldolgozni, egy fejezeten belül pedig általában nehézség szerint növekednek a feladatok, de a saját képességeid és a gyakorlatok előfeltételeinek figyelembevételével azt javaslom, hogy személyre szabott tanmenet szerint haladj, időnként visszatérve egy-egy gyakorlat nehezített változatára – legjobb, ha van egy tanárod, aki segít ebben.
+A gyakorlatokat nem szükséges a könyv elejétől a végéig szigorúan a leírt sorrendben végezni. Az 1-2., valamint a 3-4. gyakorlatsort nagyjából párhuzamosan érdemes feldolgozni, egy fejezeten belül pedig általában nehézség szerint növekednek, ill. egymásra épülnek a feladatok, de a saját képességeid és a gyakorlatok előfeltételeinek figyelembevételével azt javaslom, hogy személyre szabott tanmenet szerint haladj, időnként visszatérve egy-egy gyakorlat nehezített változatára – legjobb, ha van egy tanárod, aki segít ebben.
 
 # Gyakorlatok
 
@@ -71,8 +71,8 @@ Egy szép dallamra mindenki rezonál, így ez a hallgatóság megszólításána
         * 2+2 ütem
         * 1+1+2 ütem
     * Dallam formája
-        * periódus: A Av
-        * zenei mondat: A Av B
+        * periódus: A A~v~
+        * zenei mondat: a a~v~ B
 * Figyeld meg!
     * A dallam jellegzetes *ritmikától* nyer karaktert.
     * A dallam *csúcspontját* érdemes előre eltervezni.
@@ -101,7 +101,7 @@ Egy szép dallamra mindenki rezonál, így ez a hallgatóság megszólításána
 
     | Jellemző                                               | Példa      |
     | ------------------------------------------------------ | ---------- |
-    | sorszerkezet (betűjelekkel, esetleg színekkel jelölve) | A A5 A5v A |
+    | sorszerkezet (betűjelekkel, esetleg színekkel jelölve) | A A^5^ A^5^~v~ A |
     | dallamsorok hullámzása (grafikusan ábrázolva)          | ◠ ◠ ∿ ◠    |
     | hangsor                                                | ión        |
     | egy sor hány ütem                                      | 2          |
@@ -109,22 +109,22 @@ Egy szép dallamra mindenki rezonál, így ez a hallgatóság megszólításána
     * Ilyen vagy némileg módosított tulajdonságokkal rögtönözz egy népdalt, lehetőleg énekelve (pl. lalázva vagy szolmizálva).  
     ![](Képek/Népdalimprovizáció/Saját-1.svg)
 * Ötletek (sorszerkezet szerint csoportosítva)
-    * A A5 A5v A
+    * A A^5^ A^5^~v~ A
         * Sárga vagyok, mint a nyárfa levele
         * Száraz fából könnyű hidat csinálni
     * A B B A
         * Csillagok, csillagok
         * Szépen úszik a vadkácsa a vízen
-    * A B Bv A
+    * A B B~v~ A
         * Erdő, erdő, de magos a teteje
         * Túl a Tiszán faragnak az ácsok
     * A A B A
         * A csitári hegyek alatt
         * Általmennék én a Tiszán ladikon
         * Erdő, erdő, erdő, marosszéki kerek erdő
-    * A A B Bv
+    * A A B B~v~
         * Kis kece lányom
-    * A5 A5v A Av
+    * A^5^ A^5^~v~ A A~v~
         * Röpülj, páva, röpülj
         * Béreslegény
 * Figyeld meg!
@@ -146,6 +146,7 @@ Egy szép dallamra mindenki rezonál, így ez a hallgatóság megszólításána
 * Variációk
     * Ha az akkordok hangjai még nem mennek gondolkodás nélkül, először partnered vagy egy harmadik játékos játsszon elő dallamokat, Te pedig ismételd őket.  
     ![](Képek/Dallam akkordinga fölé/Ismétlés-1.svg)
+\newpage
     * Fokozatosan vezess be díszítőhangokat.  
     ![](Képek/Dallam akkordinga fölé/Díszítőhangok-1.svg)
         * Csak akkordhangok
@@ -161,8 +162,9 @@ Egy szép dallamra mindenki rezonál, így ez a hallgatóság megszólításána
         * III
     * A két akkord fordítva is váltakozhat.
     * Próbálkozhattok modális hangsorokkal is.
+    * Válassz egy-egy motívumot, és mindkét akkord fölé játszd a megfelelő skálahangról kezdve úgy, hogy illeszkedjen a harmóniához.
 * Figyeld meg!
-    * Egy dallam elsősorban az aktuális harmónia, másodsorban az aktuális hangsor hangjaiból építkezik.
+    * Egy dallam elsősorban (főleg súlyokra) az aktuális harmónia, másodsorban (főleg ütésekre) az aktuális hangsor hangjaiból építkezik.
 
 \newpage
 
@@ -236,7 +238,8 @@ Hallgatóidat bevonhatod az alkotói folyamatba, ha kérsz tőlük egy témát, 
     * akkordikus hangszer (opcionális)
 * Szabályok
     * Válassz egy dallamot, pl. egy népéneket, népdalt, dalt, áriát stb.
-    * Improvizálva díszítsd ki a stílusra jellemző motívumokkal.
+    * Improvizálva díszítsd ki a stílusra jellemző motívumokkal.  
+    ![](Képek/Díszítés-1.svg)
 * Variációk
     * A dallamot fele tempóban is játszhatod, így még több díszítéssel gazdagíthatod.
     * Ha van kísérete a dallamnak, azzal együtt is lehet játszani a következő szólambeosztások szerint:
@@ -245,10 +248,9 @@ Hallgatóidat bevonhatod az alkotói folyamatba, ha kérsz tőlük egy témát, 
         * Te: basszus + dallam
         * Te: basszus + harmóniák + dallam
 * Példák
-    * Bach: Ich ruf zu Dir BWV 639 (folytatni a díszítést)
-    * Bach: O Mensch, bewein dein Sünde groß BWV 622
-    * Bach: Schmücke dich BWV 654
-    * Bach: Komm, Heiliger Geist BWV 651
+    * [Bach: Ich ruf zu Dir BWV 639](https://imslp.org/wiki/Special:ImagefromIndex/129004/uhoh) (folytatni a díszítést)
+    * [Bach: O Mensch, bewein dein Sünde groß BWV 622](https://imslp.org/wiki/Special:ImagefromIndex/193359/uhoh)
+    * [Bach: Schmücke dich BWV 654](https://imslp.org/wiki/Special:ImagefromIndex/26115/uhoh)
 
 \newpage
 
@@ -259,7 +261,7 @@ Hallgatóidat bevonhatod az alkotói folyamatba, ha kérsz tőlük egy témát, 
     * Válassz egy akkordsort.
     * A basszusát díszítsd ki a stílusra jellemző motívumokkal.
 * Példák
-    * Pachelbel: Canon -> Corelli: Karácsonyi concerto
+    * Pachelbel: Canon → Corelli: Karácsonyi concerto
     * d-l-r-s walking bass
 
 \newpage
@@ -286,11 +288,11 @@ Hallgatóidat bevonhatod az alkotói folyamatba, ha kérsz tőlük egy témát, 
         * Pedál: basszus 16' regiszterrel, manuál: többi szólam
         * Pedál: basszus 16' regiszterrel, főmű: dallam, másik manuál: kíséret
         * Pedál: basszus 16' regiszterrel, főmű: dallam oktávval lejjebb, másik manuál: kíséret
-        * Pedál: dallam 4' regiszterrel, manuál: többi szólam
-        * Pedál: dallam 4' regiszterrel, főmű: basszus 16' regiszterrel, másik manuál: kíséret
+        * Pedál: dallam 4' vagy 8' regiszterrel, manuál: többi szólam
+        * Pedál: dallam 4' vagy 8' regiszterrel, főmű: basszus 16' regiszterrel, másik manuál: kíséret
+        * Pedál: basszus + dallam 8' vagy 16' regiszterrel, manuál: kíséret
 
 \newpage
-
 
 ### Bővítés
 
@@ -301,6 +303,8 @@ Hallgatóidat bevonhatod az alkotói folyamatba, ha kérsz tőlük egy témát, 
     * Válassz egy akkordsort.
     * A súlyos helyekre játssz késleltetéseket.
     * A súlytalan helyeken, ahol nem változik a harmónia, játssz új akkordokat.
+* Példa  
+![](Képek/Akkordok beszúrása-1.svg)
 
 \newpage
 
@@ -323,12 +327,14 @@ Hallgatóidat bevonhatod az alkotói folyamatba, ha kérsz tőlük egy témát, 
     * akkordikus hangszer
 * Szabályok
     * Válassz egy akkordsort.
-    * A záró I. fok helyett játszd az alábbi akkordok valamelyikét: VI, I<sup>7♭</sup>, I<sup>5♭ 6</sup>, I<sup>3♭ 4</sup> vagy I<sub>♭</sub><sup>2</sup>.
+    * A záró I. fok helyett játszd az alábbi akkordok valamelyikét: VI, I^7♭^, I^5♭\ 6^, I^3♭\ 4^ vagy I~♭~^2^.
     * Ezután játssz egy IV-I zárlatot.
 * Variációk
     * Az I. fokú mellékdomináns előtti V. fok lehet moll színezetű.
 * Példák
-    * Bach-korálelőjátékok (pl. BWV 599, BWV 605, BWV 616 stb.)
+    * [Bach: Nun komm' der Heiden Heiland BWV 599](https://imslp.org/wiki/Special:ImagefromIndex/128963/uhoh)
+    * [Bach: Der Tag, der ist so freudenreich BWV 605](https://imslp.org/wiki/Special:ImagefromIndex/128969/uhoh)
+    * [Bach: Mit Fried' und Freud' ich fahr dahin BWV 616](https://imslp.org/wiki/Special:ImagefromIndex/128981/uhoh)
 
 \newpage
 
@@ -351,15 +357,14 @@ Hallgatóidat bevonhatod az alkotói folyamatba, ha kérsz tőlük egy témát, 
 * Hangszerelés
     * énekhang vagy bármilyen hangszer
 * Szabályok
-    * Válassz egy témát.
-    * Válassz 3-5 különböző lüktetésű tánctípust. [](TODO link)
-    * Játszd a témát a tánctételek lüktetése és karaktere szerint, szükség szerint díszítve a dallamot.
-* Példa [](TODO)
-    * Ouverture
-    * Allemande
-    * Courante
-    * Sarabande
-    * Gigue
+    * Válassz egy témát:
+        * dallam
+        * akkordsor
+        * teljes téma
+    * Válassz 3-5 különböző lüktetésű tánctípust (ld. [Stílusok]).
+    * Játszd a témát a tánctételek lüktetése, ritmikája és karaktere szerint, szükség szerint díszítve a dallamot.
+* Példa: Kis kece lányom  
+![](Képek/Partita-1.svg)
 
 \newpage
 
@@ -390,7 +395,8 @@ Hallgatóidat bevonhatod az alkotói folyamatba, ha kérsz tőlük egy témát, 
 * Variációk
     * Ha a liturgiában kevés idő van, a népéneknek csak az első (vagy első kettő) és utolsó sorát vedd.
 * Példák  
-![](Képek/Korálelőjáték-1.svg)
+![](Képek/Korálelőjáték/SZVU 114-1.svg)  
+![](Képek/Korálelőjáték/SZVU 222-1.svg)
 
 \newpage
 
@@ -421,7 +427,7 @@ Hallgatóidat bevonhatod az alkotói folyamatba, ha kérsz tőlük egy témát, 
     * Válassz egy dúr vagy moll dallamot.
     * Játszd el a hangsorának összes hangjáról kezdve.
 * Variációk
-    * [Harmonizációs][Harmonizáció] képességek birtokában harmonizáld meg mindegyik hangról kezdődő változatot.
+    * [Harmonizációs][Harmonizáció] gyakorlat birtokában harmonizáld meg mindegyik hangról kezdődő változatot.
 
 \newpage
 
@@ -508,8 +514,8 @@ A zene időbeli alapegysége a frázis (mint azt a népdaloknál már láttuk). 
     * Válassz egy akkordsort az alábbi gyakran előforduló típusok közül:
         * teljes zárlat: I-IV-V-I
         * félzárlat: I-VI-IV-V
-        * ereszkedő: I-V<sup>6</sup>-IV<sup>6</sup>-V
-        * emelkedő: I-VII<sup>6</sup>-I<sup>6</sup>-V
+        * ereszkedő: I-V^6^-IV^6^-V
+        * emelkedő: I-VII^6^-I^6^-V
     * Variáld úgy, hogy néhol [beszúrsz][Akkordok beszúrása] akkordokat, vagy bizonyos akkordokat hasonló funkciójúakkal helyettesítesz (pl. IV. fok helyett váltódomináns).
 
 \newpage
@@ -538,24 +544,24 @@ A zene időbeli alapegysége a frázis (mint azt a népdaloknál már láttuk). 
     * akkordikus hangszer
 * Szabályok
     * Válassz egy szekvenciát:
-        * autentikus: l-r-s-d-f-t<sup>**7**</sup>-m<sup>♯</sup>-l
-            * hosszabb forma: d-r-s-d-f-t<sup>**7**</sup>-m-l-r-s-d-f-s<sup>**4**</sup>-s<sup>**3**</sup>-d
+        * autentikus: l-r-s-d-f-t^**7**^-m^♯^-l
+            * hosszabb forma: d-r-s-d-f-t^**7**^-m-l-r-s-d-f-s^**4**^-s^**3**^-d
         * plagális-autentikus: d-s-l-m-f-d-s-d
-            * hosszabb forma: d-s-l-m-f-d-r-l-ta-f-s-r-m-t<sup>**6**</sup>-d
-        * autentikus-plagális: d-f-r<sup>(♯)</sup>-s-m<sup>(♯)</sup>-l-f-d
-            * hosszabb forma: d-f-r<sup>(♯)</sup>-s-m<sup>(♯)</sup>-l-f-ta-s-d-l<sup>(♯)</sup>-r-t<sup>♯</sup>-m-d
+            * hosszabb forma: d-s-l-m-f-d-r-l-ta-f-s-r-m-t^**6**^-d
+        * autentikus-plagális: d-f-r^(♯)^-s-m^(♯)^-l-f-d
+            * hosszabb forma: d-f-r^(♯)^-s-m^(♯)^-l-f-ta-s-d-l^(♯)^-r-t^♯^-m-d
         * plagális: d-s-r-l-m-f-s-d
     * Játszd kívülről.
 * Variációk
     * Fordításokban is játszd az akkordokat, például:
         * autentikus:
-            * l<sup>**7**</sup>-r<sup>**7**</sup>...
-            * l-f<sup>**5 6**</sup>...
-            * d-d<sup>**2**</sup>-t<sup>**5 6**</sup>...
-            * d-r<sup>**7**</sup>-r<sup>**3 4**</sup>...
-        * plagális-autentikus: d-t<sup>**6**</sup>-l-s<sup>**6**</sup>...
-        * autentikus-plagális: m<sup>**6**</sup>-f-fi<sup>**6**</sup>...
-        * plagális: d-m<sup>**6**</sup>-s-t<sup>**6**</sup>...
+            * l^**7**^-r^**7**^...
+            * l-f^**5 6**^...
+            * d-d^**2**^-t^**5 6**^...
+            * d-r^**7**^-r^**3 4**^...
+        * plagális-autentikus: d-t^**6**^-l-s^**6**^...
+        * autentikus-plagális: m^**6**^-f-fi^**6**^...
+        * plagális: d-m^**6**^-s-t^**6**^...
     * Válassz egy motívumot, amely akkordonként váltakozzon a szólamok között:
         * szoprán-basszus
         * szoprán-alt (háromszólamú felrakásban)  
@@ -573,14 +579,18 @@ Egy rövid téma 2-4 frázisból áll. Egy frázis lehet:
 * tézis/felelet/teljes zárlat (jelölése: !)
 
 A rögtönzés előtt tervezd meg a téma formáját betűjelekkel. Tipikus formák:
+\newpage
 
 * kéttagú forma: A B  
 ![](Képek/Téma/Kéttagú forma-1.svg)
-* periódus: A? Av!  
+\newpage
+* periódus: A? A~v~!  
 ![](Képek/Téma/Periódus-1.svg)
-    * kontrasztáló periódius: A B? A C!  
+\newpage
+    * kontrasztáló periódius: a b? a c!  
     ![](Képek/Téma/Kontrasztáló periódus-1.svg)
-* zenei mondat: A Av B  
+\newpage
+* zenei mondat: a a~v~ B  
 ![](Képek/Téma/Zenei mondat-1.svg)
 
 \newpage
@@ -597,12 +607,18 @@ Egy bonyolultabb téma 4-5 frázisból áll, melyek között van az alaphangnemt
 * tercrokon
 
 A formatervet bővítsd ki a hangnemtervvel. Tipikus formák:
+\newpage
 
-* kvintváltós négytagú forma: A(4) A5(4) szekvencia(4) zárlat(4)
-* népdal: A(2) A5(2) A5v(2) A(2)
-    * 3\. sor kettéosztva: A(2) A5(2) b(1) bv(1) A(2)
-* négytagú forma: A(4) B(4) C(4) D(4)
-* szűkített háromtagú forma: A(4) Av(4) B(4) Av(4)
+* kvintváltós négytagú forma: A A^5^ B? C!  
+![](Képek/Téma/Kvintváltós négytagú forma-1.svg)
+\newpage
+* népdal: A A^5^ A^5^~v~ A
+\newpage
+    * 3\. sor kettéosztva: A A^5^ b b~v~ A
+\newpage
+* négytagú forma: A B C D
+\newpage
+* szűkített háromtagú forma: A A~v~ B A~v~
 
 [](TODO példák)
 
@@ -645,7 +661,7 @@ Példák:
 * Szabályok
     * Válassz egy akkordkapcsolatot és egy hangközt.
     * Képezz belőle reális szekvenciát a választott hangközönként lépkedve, amíg vissza nem érsz a kiindulási hangmagassághoz.
-* Példa: V<sup>6</sup>-I kis tercenként felfelé
+* Példa: V^6^-I kis tercenként felfelé
 
 \newpage
 
@@ -660,6 +676,14 @@ Egy teljes zenei tétel több, egymással kontrasztáló témából áll, melyek
 * Főrész
 
 Tipikus műfaj: menüett
+
+#### Könnyűzenei forma
+
+* Verse
+* Refrén
+* Verse
+* Refrén
+* Refrén (félhanggal feljebb)
 
 #### Rondóforma
 
@@ -736,6 +760,8 @@ Tipikus műfaj: bármilyen barokk tánctétel
 * C
 * B
 * A
+
+Tipikus stílus: XX. század
 
 #### Szonátaforma
 
@@ -850,11 +876,12 @@ A harmonizáció az egyik legösszetettebb zenei tevékenység, hiszen egy dalla
     * akkordikus hangszer
 * Szabályok
     * Válassz egy dallamot, melynek harmóniaritmusa egy vagy fél ütem akkordonként.
-    * Harmonizáld meg az alapján, hogy milyen akkordhangokat jár körbe egy-egy ütemnyi dallam. Ügyelj az esetleges díszítőhangokra, melyek akár súlyosak is lehetnek.
+    * Harmonizáld meg főhármasokkal az alapján, hogy milyen akkordhangokat jár körbe egy-egy ütemnyi dallam. Ügyelj az esetleges díszítőhangokra, melyek akár súlyosak is lehetnek.
 * Ötletek
     * Happy Birthday
     * Boci, boci, tarka
     * Pál, Kata, Péter
+    * Kis kece lányom
 
 \newpage
 
@@ -918,7 +945,7 @@ Amikor a harmonizáció egyenletes harmóniaritmussal biztosan megy, ritkítsd a
 * Hangszerelés
     * orgona
 * Szabályok
-    * Válassz egy népénekdallamot, egy karaktert, felrakást és figurációt.
+    * Válassz egy népénekdallamot, egy karaktert, [felrakást][Felrakás] és figurációt.
     * Találj ki egy közjátékot, mely ritornello-szerűen a dallamsorok között fog különböző hangnemekben megjelenni, és írd le a harmóniai vázát.
     * Írd fel a formai és hangnemtervet, vagyis hogy a ritornellók és korálsorok hogyan következnek egymás után, valamint milyen hangnemben kezdődnek és végződnek.
     * A korálsorokra saját harmonizációt véve játszd el a korálelőjátékot.
@@ -943,12 +970,7 @@ Amikor a harmonizáció egyenletes harmóniaritmussal biztosan megy, ritkítsd a
 
 #### Táncok
 
-| Tánc               | Metrum | Karakter |
-| ------------------ | ------ | -------- |
-| Pavane             | 2/2    | lassú    |
-| Gagliarde/Tourdion | 6/8    | gyors    |
-| Forlane/Trezza     | 12/8   | gyors    |
-| Branle             | 4/4    | andante  |
+![](Képek/Táncok/Reneszánsz-1.svg)
 
 \newpage
 
@@ -962,7 +984,7 @@ Amikor a harmonizáció egyenletes harmóniaritmussal biztosan megy, ritkítsd a
 * rejtett többszólamúság
 * akkordok
     * négyes-, ötöshangzatok
-    * II<sup>5 6</sup>
+    * II^5\ 6^
 
 ### Műfajok
 
@@ -978,20 +1000,7 @@ Amikor a harmonizáció egyenletes harmóniaritmussal biztosan megy, ritkítsd a
 
 #### Táncok
 
-| Tánc                   | Metrum  | Karakter | Jellemző                                                                         | Forma         |
-| ---------------------- | ----------- | -------- | -------------------------------------------------------------------------------- | ------------- |
-| Ouverture - lassú rész | 4/4         | lassú    | pontozott                                                                        | nyitány       |
-| Ouverture - gyors rész | 3/4         | gyors    | általában imitációs                                                              |
-| Allemande              | 4/4         | andante  | tizenhatodok felváltva különböző szólamokban; zárlat egész ütem, közben arpeggio | kéttagú       |
-| Courante        | 3/2 v. 6/4  | gyors    | hemiola                                                                          | kéttagú       |
-| Sarabande              | 3/4         | lassú    | súly 2-n                                                                         | kéttagú       |
-| Gavotte                | 2/2         | gyors    | fél felütés                                                                      | rondó v. kéttagú |
-| Bourrée                | 2/2         | gyors    | negyed felütés                                                                   | kéttagú       |
-| Hornpipe               | 3/4         | andante  | daktilus; súlyos                                                                 | kéttagú       |
-| Marche                 | 2/2         | gyors    | negyedek; súlyos                                                                 | kéttagú       |
-| Menuet/Amener          | 3/4         | andante  | elegáns, 1 rövid                                                                 | triós         |
-| Gigue                  | 6/8 v. 12/8 | gyors    | lüktetés: fél ütem                                                               | kéttagú v. rondó |
-| Chaconne               | 3/4         | andante  | maggiore/minore váltás                                                           | variációs     |
+![](Képek/Táncok/Barokk-1.svg)
 
 \newpage
 
@@ -1004,8 +1013,8 @@ Amikor a harmonizáció egyenletes harmóniaritmussal biztosan megy, ritkítsd a
 * unisono
 * kontraszt
 * akkordok
-    * II<sup>6</sup>
-    * I<sup>4 6</sup>
+    * II^6^
+    * I^4\ 6^
 
 ### Műfajok
 
@@ -1014,10 +1023,7 @@ Amikor a harmonizáció egyenletes harmóniaritmussal biztosan megy, ritkítsd a
 
 #### Táncok
 
-| Tánc    | Metrum | Karakter |
-| ------- | ------ | -------- |
-| Menuet  | 3/4    | andante  |
-| Ländler | 3/4    | andante  |
+![](Képek/Táncok/Bécsi klasszika-1.svg)
 
 \newpage
 
@@ -1031,16 +1037,16 @@ Amikor a harmonizáció egyenletes harmóniaritmussal biztosan megy, ritkítsd a
 * tercrokonság
 * akkordok
 	* félszűk szeptimek
-		* r<sup>**5♭ 7**</sup>
-		* l<sup>**5♭ 7**</sup> (-> szó-moll)
-		* fi<sup>**7**</sup> (-> mi-moll)
+		* r^**5♭ 7**^
+		* l^**5♭ 7**^ (→ szó-moll)
+		* fi^**7**^ (→ mi-moll)
 	* bő szextes
-		* lu/f<sup>**(5) 6♯/3 4 6♯**</sup>
+		* lu/f^**(5) 6♯/3 4 6♯**^
 	* bő kvintes
-		* d<sup>**5♯**</sup>
-		* s<sup>**5♯**</sup>
+		* d^**5♯**^
+		* s^**5♯**^
 	* mollbeli
-	* V<sup>7</sup> 6-5 késleltetéssel
+	* V^7^ 6-5 késleltetéssel
 
 #### Liszt
 * dallam-basszus komplementer
@@ -1061,14 +1067,7 @@ Amikor a harmonizáció egyenletes harmóniaritmussal biztosan megy, ritkítsd a
 
 #### Táncok
 
-| Tánc                         | Metrum     | Karakter |
-| ---------------------------- | ---------- | -------- |
-| Polonéz                      | 3/4        | andante  |
-| Mazurka                      | 3/4        | lassú    |
-| Pastorale/Siciliano/Berceuse | 6/8 v. 3/4 | lassú    |
-| Barcarola                    | 6/8        | andante  |
-| Keringő                      | 3/4        | gyors    |
-| Polka                        | 2/4        | gyors    |
+![](Képek/Táncok/Romantika-1.svg)
 
 \newpage
 
@@ -1122,7 +1121,7 @@ Amikor a harmonizáció egyenletes harmóniaritmussal biztosan megy, ritkítsd a
 	* kvártszext-akkordok + orgonapont
 	* domináns szeptim-mixtúrák
 	* bő szextes akkordok/Kodály-domináns
-	* codában r<sup>**3 4**</sup>-l<sup>**♯**</sup>
+	* codában r^**3 4**^-l^**♯**^
 	* tercrokonság
 	* versszak végén alaphang = váltódomináns szeptimje
 * figuráció
@@ -1155,11 +1154,7 @@ Amikor a harmonizáció egyenletes harmóniaritmussal biztosan megy, ritkítsd a
 
 #### Táncok
 
-| Tánc    | Metrum    | Karakter |
-| ------- | --------- | -------- |
-| Bolero  | 3/4       | andante  |
-| Marche  | 4/4       | lassú    |
-| Bulería | 6/8 + 3/4 | gyors    |
+![](Képek/Táncok/XX. század-1.svg)
 
 # Akkordsorok
 
