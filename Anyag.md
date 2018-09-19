@@ -57,12 +57,11 @@ Egy szép dallamra mindenki rezonál, így ez a hallgatóság megszólításána
         ![](Képek/Pentaton improvizáció/Altató-1.svg)
         * Keringő  
         ![](Képek/Pentaton improvizáció/Keringő-1.svg)
-        * Szamba  
-        ![](Képek/Pentaton improvizáció/Szamba-1.svg)
+        * Rumba  
+        ![](Képek/Pentaton improvizáció/Rumba-1.svg)
         * Bolgár ritmusok
-            * 3+3+2/8
-            * 3+2/8
-            * 2+2+3/8
+            * (3+2)/8
+            * (2+2+3)/8
     * Dallam felrakása
         * két kézzel oktávban
         * két kéz felváltva
@@ -81,13 +80,14 @@ Egy szép dallamra mindenki rezonál, így ez a hallgatóság megszólításána
 
 \newpage
 
-### Motívumtranszformáció
+### Motívumszekvencia
 * Hangszerelés
     * énekhang vagy bármilyen hangszer
 * Szabályok
     * Találj ki egy rövid, karakteres motívumot. Jellegzetességét adhatja egy ritmusképlet vagy egy nagyobb hangköz.
-    * Játszd el a hangsorának összes hangjáról kezdve sorban felfelé vagy lefelé.  
-    ![](Képek/Motívumtranszformáció-1.svg)
+    * Játszd el a hangsorának összes hangjáról kezdve sorban felfelé vagy lefelé.
+* Példák  
+![](Képek/Motívumszekvencia-1.svg)
 
 \newpage
 
@@ -110,7 +110,7 @@ Egy szép dallamra mindenki rezonál, így ez a hallgatóság megszólításána
     ![](Képek/Népdalimprovizáció/Saját-1.svg)
 * Ötletek (sorszerkezet szerint csoportosítva)
     * A A^5^ A^5^~v~ A
-        * Sárga vagyok, mint a nyárfa levele
+        * Gerencséri utca
         * Száraz fából könnyű hidat csinálni
     * A B B A
         * Csillagok, csillagok
@@ -327,10 +327,16 @@ Hallgatóidat bevonhatod az alkotói folyamatba, ha kérsz tőlük egy témát, 
     * akkordikus hangszer
 * Szabályok
     * Válassz egy akkordsort.
-    * A záró I. fok helyett játszd az alábbi akkordok valamelyikét: VI, I^7♭^, I^5♭\ 6^, I^3♭\ 4^ vagy I~♭~^2^.
+    * A záró I. fok helyett játszd az alábbi akkordok valamelyikét, vagy többet egymás után:
+      * VI
+      * I^7♭^
+      * I^5♭\ 6^
+      * I^3♭\ 4^
+      * I~♭~^2^
     * Ezután játssz egy IV-I zárlatot.
 * Variációk
     * Az I. fokú mellékdomináns előtti V. fok lehet moll színezetű.
+    * Dúrban a VI. fok lehet mollbeli.
 * Példák
     * [Bach: Nun komm' der Heiden Heiland BWV 599](https://imslp.org/wiki/Special:ImagefromIndex/128963/uhoh)
     * [Bach: Der Tag, der ist so freudenreich BWV 605](https://imslp.org/wiki/Special:ImagefromIndex/128969/uhoh)
@@ -348,8 +354,6 @@ Hallgatóidat bevonhatod az alkotói folyamatba, ha kérsz tőlük egy témát, 
     * Játszd le, majd utána rögtönözd a hármas metrumú változatát.
 * Példák
     * [Speer: Musikalisch-Türkischer Eulen-Spiegel - táncok](https://www.youtube.com/playlist?list=PLDrg2ayMaZy7R_3sPdSmEU2vr9h7U3TQQ)
-
-[](TODO kotta)
 
 \newpage
 
@@ -425,7 +429,11 @@ Hallgatóidat bevonhatod az alkotói folyamatba, ha kérsz tőlük egy témát, 
     * énekhang vagy bármilyen hangszer
 * Szabályok
     * Válassz egy dúr vagy moll dallamot.
-    * Játszd el a hangsorának összes hangjáról kezdve.
+    * Játszd el a hangsorának főbb hangjairól kezdve:
+        * V. fok
+        * IV. fok
+        * III. fok
+        * VI. fok
 * Variációk
     * [Harmonizációs][Harmonizáció] gyakorlat birtokában harmonizáld meg mindegyik hangról kezdődő változatot.
 
@@ -494,7 +502,7 @@ Most pedig fokozatosan, építőelemenként felépítünk zenei struktúrákat, 
 
 | Zene                                                   | Architektúra         |
 | ------------------------------------------------------ | -------------------- |
-| struktúra (akkordsor, *lassú harmóniaritmus*)            | szerkezet            |
+| struktúra (akkordsor, *lassú harmóniaritmus*)          | szerkezet            |
 | karakter (lüktetés, ritmusképlet, figuráció, szünetek) | berendezés, kifestés |
 | dallam (motívumok, késleltetések)                      | díszítés             |
 
@@ -612,15 +620,14 @@ A formatervet bővítsd ki a hangnemtervvel. Tipikus formák:
 * kvintváltós négytagú forma: A A^5^ B? C!  
 ![](Képek/Téma/Kvintváltós négytagú forma-1.svg)
 \newpage
-* népdal: A A^5^ A^5^~v~ A
+* kvintváltós népdalforma: A A^5^ A^5^~v~ A / A A^5^ b b~v~ A  
+![](Képek/Téma/Kvintváltós népdalforma-1.svg)
 \newpage
-    * 3\. sor kettéosztva: A A^5^ b b~v~ A
+* négytagú forma: A B C D  
+![](Képek/Téma/Négytagú forma-1.svg)
 \newpage
-* négytagú forma: A B C D
-\newpage
-* szűkített háromtagú forma: A A~v~ B A~v~
-
-[](TODO példák)
+* szűkített háromtagú forma: A A~v~ B A~v~  
+![](Képek/Téma/Szűkített háromtagú forma-1.svg)
 
 \newpage
 
@@ -752,6 +759,8 @@ Tipikus műfaj: bármilyen barokk tánctétel
 * 1\. variáció
 * 2\. variáció
 * stb.
+
+Tipikus technika: [Minore-maggiore váltás]
 
 #### Hídforma
 
@@ -935,7 +944,7 @@ A harmonizáció az egyik legösszetettebb zenei tevékenység, hiszen egy dalla
 \newpage
 
 ### Változó harmóniaritmus
-Amikor a harmonizáció egyenletes harmóniaritmussal biztosan megy, ritkítsd a harmóniaritmust, ahol felismered, hogy a dallam több hangig egy akkordot jár körbe, vagy sűrítsd, ahol jónak látod (pl. a dallam megáll).
+Amikor a harmonizáció egyenletes harmóniaritmussal biztosan megy, ritkítsd a harmóniaritmust, ahol felismered, hogy a dallam több hangig egy akkordot jár körbe, vagy sűrítsd, ahol jónak látod (pl. a dallam megáll), hogy minél dallamosabb basszust kapj.
 
 \newpage
 
@@ -953,6 +962,14 @@ Amikor a harmonizáció egyenletes harmóniaritmussal biztosan megy, ritkítsd a
     * [Harmath Dénes: Mint a szép híves patakra - Händel-nyitány](https://thsoft.bandcamp.com/track/mint-a-sze-p-hi-ves-patakra-h-ndel-nyit-ny)
 
 # Stílusok
+
+Az elsajátítani kívánt stílusból, ill. szerzőtől származó művek közül minél többet:
+
+* blattolj végig
+* találd meg és jelöld be bennük az alábbi jelenségeket
+* tanulj meg kívülről
+
+\newpage
 
 ## Reneszánsz
 
@@ -1075,7 +1092,10 @@ Amikor a harmonizáció egyenletes harmóniaritmussal biztosan megy, ritkítsd a
 
 ### Zenei nyelv
 
-* aszimmetrikus metrumok: 7/8, 5/8, 3+3+2/8
+* aszimmetrikus metrumok
+	* 7/8
+	* 5/8
+	* (3+3+2)/8
 * akkordok
 	* egészhangú
 	* pentaton
