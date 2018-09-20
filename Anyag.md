@@ -260,9 +260,9 @@ Hallgatóidat bevonhatod az alkotói folyamatba, ha kérsz tőlük egy témát, 
 * Szabályok
     * Válassz egy akkordsort.
     * A basszusát díszítsd ki a stílusra jellemző motívumokkal.
-* Példák
-    * Pachelbel: Canon → Corelli: Karácsonyi concerto
-    * d-l-r-s walking bass
+* Példák  
+![](Képek/Basszusdíszítés/Canon-1.svg)  
+![](Képek/Basszusdíszítés/Walking bass-1.svg)
 
 \newpage
 
@@ -436,6 +436,7 @@ Hallgatóidat bevonhatod az alkotói folyamatba, ha kérsz tőlük egy témát, 
         * VI. fok
 * Variációk
     * [Harmonizációs][Harmonizáció] gyakorlat birtokában harmonizáld meg mindegyik hangról kezdődő változatot.
+* Példa: [Liszt: Ad nos, ad salutarem undam](https://imslp.org/wiki/Special:ImagefromIndex/512323/uhoh)
 
 \newpage
 
@@ -449,6 +450,8 @@ Hallgatóidat bevonhatod az alkotói folyamatba, ha kérsz tőlük egy témát, 
     * modális skálák
     * modellskálák
     * bő szekundos skálák
+* Példa: Boci, boci, tarka - cigányskála  
+![](Képek/Transzformálás-1.svg)
 
 \newpage
 
@@ -462,6 +465,8 @@ Hallgatóidat bevonhatod az alkotói folyamatba, ha kérsz tőlük egy témát, 
 * Variációk
     * A hangnemtervet megbeszélhetitek előre, vagy hallás után lekövetheted.
     * Az átvezetések hosszát megbeszélhetitek előre, vagy erős zárlattal tegye őket egyértelművé a partnered.
+* Példa: [Vivaldi: A négy évszak - Ősz - 1. tétel](https://imslp.org/wiki/Special:ImagefromIndex/73457/uhoh)
+    * A ritornellók hangnemterve: F: - F: - g: - C: - F:
 
 \newpage
 
@@ -659,6 +664,8 @@ Példák:
 * Szabályok
     * Válassz két hangnemet max. 4 kvint távolságra.
     * A kiindulási hangnemben kezdd el az autentikus szekvenciát, és amikor az új hangnem V. fokának megfelelő basszushang jön, azt az akkordot alterálva játssz a záró hangnemben egy V-I-IV-V-I zárlatot.
+* Példa  
+![](Képek/Moduláció szekvenciával-1.svg)
 
 \newpage
 
@@ -668,13 +675,14 @@ Példák:
 * Szabályok
     * Válassz egy akkordkapcsolatot és egy hangközt.
     * Képezz belőle reális szekvenciát a választott hangközönként lépkedve, amíg vissza nem érsz a kiindulási hangmagassághoz.
-* Példa: V^6^-I kis tercenként felfelé
+* Példa: V^6^-I kis tercenként felfelé  
+![](Képek/Reális szekvencia-1.svg)
 
 \newpage
 
 ### Tétel
 
-Egy teljes zenei tétel több, egymással kontrasztáló témából áll, melyek közül egy vagy több *visszatér*. Ezenkívül átvezető zenei anyagokat is tartalmazhat (szekvencia). Minél több tulajdonsága különbözik a témáknak (a metrumot és tempót kivéve), annál jobb – ezeket a tulajdonságokat is írd le az egyes témákhoz.
+Egy teljes zenei tétel több, egymással kontrasztáló témából áll, melyek közül egy vagy több *visszatér*. Ezenkívül átvezető zenei anyagokat is tartalmazhat (ez lehet például [moduláló szekvencia][Moduláció szekvenciával]). Minél több tulajdonsága különbözik a témáknak (a metrumot és tempót kivéve), annál jobb – ezeket a tulajdonságokat is írd le az egyes témákhoz.
 
 #### Triósforma
 
@@ -958,8 +966,7 @@ Amikor a harmonizáció egyenletes harmóniaritmussal biztosan megy, ritkítsd a
     * Találj ki egy közjátékot, mely ritornello-szerűen a dallamsorok között fog különböző hangnemekben megjelenni, és írd le a harmóniai vázát.
     * Írd fel a formai és hangnemtervet, vagyis hogy a ritornellók és korálsorok hogyan következnek egymás után, valamint milyen hangnemben kezdődnek és végződnek.
     * A korálsorokra saját harmonizációt véve játszd el a korálelőjátékot.
-* Példák
-    * [Harmath Dénes: Mint a szép híves patakra - Händel-nyitány](https://thsoft.bandcamp.com/track/mint-a-sze-p-hi-ves-patakra-h-ndel-nyit-ny)
+* Példa: [Harmath Dénes: Mint a szép híves patakra - Händel-nyitány](https://thsoft.bandcamp.com/track/mint-a-sze-p-hi-ves-patakra-h-ndel-nyit-ny)
 
 # Stílusok
 
@@ -968,6 +975,7 @@ Az elsajátítani kívánt stílusból, ill. szerzőtől származó művek köz�
 * blattolj végig
 * találd meg és jelöld be bennük az alábbi jelenségeket
 * tanulj meg kívülről
+* válassz belőlük egy témát, és játszd el úgy, hogy egy jellemzőt megváltoztatsz
 
 \newpage
 
