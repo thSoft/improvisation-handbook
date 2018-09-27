@@ -16,7 +16,7 @@ Ha eddig még nem kóstoltál bele a rögtönzés világába, abban bízom, hogy
 
 Ez a könyv Neked szól, ha zenei tanulmányaidban már legalább közép- vagy felsőfokon jársz, és szeretnéd elsajátítani a stílusimprovizáció készségét, azaz az elmúlt századok európai, tonális komoly- és könnyűzenei nyelvén történő rögtönzést. (Ha a rögtönzést a zene alapjaitól szeretnéd kezdeni, ill. a jazz világában kívánsz elmélyedni, melegen ajánlom Apagyi Mária *ZongorÁlom*, ill. Gonda János *A rögtönzés világa* c. tankönyveit.)
 
-A gyakorlatok azt feltételezik, hogy már birtokában vagy olyan képességeknek, mint a kottaolvasás, a szolmizáció, valamint a fokszámok, hármashangzatok, négyeshangzatok és fordításaik alapvető ismerete.
+A gyakorlatok azt feltételezik, hogy már birtokában vagy olyan képességeknek, mint a kottaolvasás, a szolmizáció, valamint a fokszámok, hármashangzatok, négyeshangzatok és fordításaik alapvető ismerete. Előnyt jelent, de nem követelmény a basso continuo-gyakorlat.
 
 Akármilyen hangszeren játszol, találni fogsz magadnak megfelelő gyakorlatokat. Ezek többsége az akkordikus hangszerekre, némelyike specifikusan az orgonára fókuszál, de hangszeredre jellemző technikákkal sikeresen alkalmazhatod őket dallamhangszerekre, ill. énekhangra is.
 
@@ -176,7 +176,7 @@ Egy szép dallamra mindenki rezonál, így ez a hallgatóság megszólításána
     * Válassz egy érdekes akkordsort.
     * Partnered ismételgesse jelzésig, Te pedig improvizálj fölé dallamot. (Kezdetben minél egyszerűbb dallamokra törekedj.)
 * Ötletek
-    * ld. [Akkordsorok]
+    * [Akkordsorok]
     * barokk chaconne-ok
     * könnyűzenei számok
 * Variációk
@@ -230,6 +230,16 @@ Hallgatóidat bevonhatod az alkotói folyamatba, ha kérsz tőlük egy témát, 
 
 \newpage
 
+### Egy akkord – több karakter
+* Hangszerelés
+    * akkordikus hangszer
+* Szabályok
+    * Válassz egy akkordot.
+    * Játszd minél szélsőségesebben különböző felrakásokban, szólamszámmal, dinamikával, artikulációval; legalább háromféle változatban.  
+    ![](Képek/Egy akkord – több karakter-1.svg)
+
+\newpage
+
 ### Díszítés
 
 #### Dallamdíszítés
@@ -248,9 +258,9 @@ Hallgatóidat bevonhatod az alkotói folyamatba, ha kérsz tőlük egy témát, 
         * Te: basszus + dallam
         * Te: basszus + harmóniák + dallam
 * Példák
-    * [Bach: Ich ruf zu Dir BWV 639](https://imslp.org/wiki/Special:ImagefromIndex/129004/uhoh) (folytatni a díszítést)
+    * [Bach: Ich ruf zu Dir, Herr Jesu Christ BWV 639](https://imslp.org/wiki/Special:ImagefromIndex/129004/uhoh) (folytasd a díszítést!)
     * [Bach: O Mensch, bewein dein Sünde groß BWV 622](https://imslp.org/wiki/Special:ImagefromIndex/193359/uhoh)
-    * [Bach: Schmücke dich BWV 654](https://imslp.org/wiki/Special:ImagefromIndex/26115/uhoh)
+    * [Bach: Schmücke dich, o liebe Seele BWV 654](https://imslp.org/wiki/Special:ImagefromIndex/26115/uhoh)
 
 \newpage
 
@@ -259,7 +269,7 @@ Hallgatóidat bevonhatod az alkotói folyamatba, ha kérsz tőlük egy témát, 
     * akkordikus hangszer
 * Szabályok
     * Válassz egy akkordsort.
-    * A basszusát díszítsd ki a stílusra jellemző motívumokkal.
+    * A basszusát díszítsd ki a stílusra jellemző motívumokkal, egyre sűrűbb ritmusértékekkel gyakorolva.
 * Példák  
 ![](Képek/Basszusdíszítés/Canon-1.svg)  
 ![](Képek/Basszusdíszítés/Walking bass-1.svg)
@@ -352,6 +362,11 @@ Hallgatóidat bevonhatod az alkotói folyamatba, ha kérsz tőlük egy témát, 
 * Szabályok
     * Válassz egy páros metrumú tánctételt.
     * Játszd le, majd utána rögtönözd a hármas metrumú változatát.
+* [Ötletek](https://www.tankonyvtar.hu/hu/tartalom/tamop425/2011_0001_522_Magyar_zenetortenet/ch04s13.html)
+    * Lőcsei virginálkönyv
+    * Stark-féle virginálkönyv
+    * Kájoni-kódex
+    * Vietorisz-kódex
 * Példák
     * [Speer: Musikalisch-Türkischer Eulen-Spiegel - táncok](https://www.youtube.com/playlist?list=PLDrg2ayMaZy7R_3sPdSmEU2vr9h7U3TQQ)
 
@@ -465,8 +480,9 @@ Hallgatóidat bevonhatod az alkotói folyamatba, ha kérsz tőlük egy témát, 
 * Variációk
     * A hangnemtervet megbeszélhetitek előre, vagy hallás után lekövetheted.
     * Az átvezetések hosszát megbeszélhetitek előre, vagy erős zárlattal tegye őket egyértelművé a partnered.
-* Példa: [Vivaldi: A négy évszak - Ősz - 1. tétel](https://imslp.org/wiki/Special:ImagefromIndex/73457/uhoh)
-    * A ritornellók hangnemterve: F: - F: - g: - C: - F:
+* Példák:
+    * [Vivaldi: A négy évszak - Ősz - 1. tétel](https://imslp.org/wiki/Special:ImagefromIndex/73457/uhoh)
+    * [Sietze de Vries: Concerto di segnor Vriescobaldi](https://www.youtube.com/watch?v=Vis97y1WFE8)
 
 \newpage
 
@@ -510,6 +526,8 @@ Most pedig fokozatosan, építőelemenként felépítünk zenei struktúrákat, 
 | struktúra (akkordsor, *lassú harmóniaritmus*)          | szerkezet            |
 | karakter (lüktetés, ritmusképlet, figuráció, szünetek) | berendezés, kifestés |
 | dallam (motívumok, késleltetések)                      | díszítés             |
+
+A folyamatra példákat a [Téma] c. alfejezetben találsz.
 
 \newpage
 
@@ -575,10 +593,11 @@ A zene időbeli alapegysége a frázis (mint azt a népdaloknál már láttuk). 
         * plagális-autentikus: d-t^**6**^-l-s^**6**^...
         * autentikus-plagális: m^**6**^-f-fi^**6**^...
         * plagális: d-m^**6**^-s-t^**6**^...
-    * Válassz egy motívumot, amely akkordonként váltakozzon a szólamok között:
+    * Válassz egy motívumot, amely akkordonként váltakozzon a szólamok között:  
+    ![](Képek/Szekvencia-1.svg)
         * szoprán-basszus
-        * szoprán-alt (háromszólamú felrakásban)  
-        ![](Képek/Szekvencia-1.svg)
+        * szoprán-alt (háromszólamú felrakásban)
+            * Díszítsd a basszust.
 
 \newpage
 
@@ -614,7 +633,7 @@ Előfeltétel: [Ritornell kamarában]
 
 Egy bonyolultabb téma 4-5 frázisból áll, melyek között van az alaphangnemtől eltérő. Tipikus hangnemek az alaphangnemhez képest:
 
-* +/-1
+* +/-1 kvint
 * párhuzamos
 * minore/maggiore
 * tercrokon
@@ -638,7 +657,7 @@ A formatervet bővítsd ki a hangnemtervvel. Tipikus formák:
 
 #### Bővítés
 
-Amikor már stabilan érzed, hogyan kell szimmetrikus (tehát pl. 2-szer 4 vagy 4-szer 4 ütemes) zenei struktúrákat létrehozni, külső vagy belső bővítést alkalmazhatsz, ami plusz 1 vagy 2 frázist beszúrását jelenti (leggyakrabban periódusba). Ez jól alkalmazható arra, hogy plusz feszültségként később jussunk el a várva várt zárlatig, valamint hogy apró szabálytalansággal tegyük kevésbé kiszámíthatóvá a formát.
+Amikor már stabilan érzed, hogyan kell szimmetrikus (tehát pl. 2-szer 4 vagy 4-szer 4 ütemes) zenei struktúrákat létrehozni, külső vagy belső bővítést alkalmazhatsz, ami plusz 1 vagy 2 frázis beszúrását jelenti (leggyakrabban periódusba). Ez jól alkalmazható arra, hogy plusz feszültségként később jussunk el a várva várt zárlatig, valamint hogy apró szabálytalansággal tegyük kevésbé kiszámíthatóvá a formát.
 
 Először mindig játszd el a bővítés nélküli, szimmetrikus témát, majd pedig a bővített változatot.
 
@@ -653,8 +672,8 @@ Tipikus bővítési technikák:
 
 Példák:
 
-* Mozart: 1. szonáta (K279) - 3. tétel
-* Mozart: F-dúr Allegro (K15a)
+* [Mozart: 1. szonáta (K279) - 3. tétel](http://imslp.eu/files/imglnks/euimg/1/15/IMSLP456558-PMLP01830-Mozart,_Wofgang_Amadeus-NMA_09_25_1_01_KV_279_scan.pdf)
+* [Mozart: F-dúr Allegro (K15a)](https://imslp.org/wiki/Special:ImagefromIndex/107397/uhoh)
 
 \newpage
 
@@ -663,8 +682,12 @@ Példák:
     * akkordikus hangszer
 * Szabályok
     * Válassz két hangnemet max. 4 kvint távolságra.
-    * A kiindulási hangnemben kezdd el az autentikus szekvenciát, és amikor az új hangnem V. fokának megfelelő basszushang jön, azt az akkordot alterálva játssz a záró hangnemben egy V-I-IV-V-I zárlatot.
-* Példa  
+    * A kvintkörön lefelé:
+        * Játszd úgy az autentikus szekvenciát, hogy minden akkord dominánsszeptim legyen, így süllyedhet
+    * A kvintkörön felfelé:
+        * A kiindulási hangnemben kezdd el az autentikus vagy az autentikus-plagális szekvenciát, és amikor az új hangnem V. fokának megfelelő basszushang jön, azt az akkordot alterálva játszd.
+    * Végül játssz a záró hangnemben egy I-IV-V-I zárlatot.
+* Példák  
 ![](Képek/Moduláció szekvenciával-1.svg)
 
 \newpage
@@ -734,8 +757,6 @@ Tipikus műfaj: ouverture
 
 Tipikus műfaj: concerto
 
-Példa: [Sietze de Vries: Concerto di segnor Vriescobaldi](https://www.youtube.com/watch?v=Vis97y1WFE8)
-
 #### Fantázia
 
 * Téma
@@ -784,14 +805,25 @@ Tipikus stílus: XX. század
 
 * Expozíció
     * Főtéma
+    * Átvezetés, moduláció +1-be
     * Melléktéma +1
     * Zárlat +1
 * Feldolgozás
     * Témák, motívumok transzponálva, transzformálva
 * Repríz
     * Főtéma
+    * (Átvezetés)
     * Melléktéma
     * Zárlat
+
+Lépések:
+
+* Először csak az expozíciót gyakorold.
+* Ezután játszd az expozíciót és a reprízt egymás után, először úgy, hogy az átvezető rész teljesen elmarad.
+* Készíts egy olyan változatot az átvezető részből, mely az alaphangnemben marad. Játszd el az átvezető rész kétféle verzióját egymás után, tudatosítva a különbséget.
+* Játszd az expozíciót és a reprízt egymás után a kétféle átvezető résszel.
+* Tervezd meg a már megismert módon és játszd el a feldolgozási részt.
+* Játszd el a teljes szonátát.
 
 \newpage
 
@@ -802,42 +834,60 @@ Előfeltétel:
 * [Harmonizáció]
 * [Felrakás]
 
-A fúga alapja a harmonizáció: mindig a fúgatéma megharmonizálása kell, hogy a szemed előtt lebegjen.
-
-#### Fúgatéma
-
-* Alkoss egy témát a fejezetben megismert rendszer szerint. A téma dallama lesz a fúgatéma.
-* Harmonizáld meg a fúgatémát basszusként is.
-* Gyakorold a témát különböző szólamszámokkal, felrakásokban és hangnemekben.
-
-#### Közjátékok
-
-Gyakorolj imitációs szekvenciákat a fúgatéma motívumaiból.
-
-#### Augmentálás
-
-Harmonizáld meg a fúgatémát 1 hang 2 akkord harmóniaritmussal.
-
-#### Stretto
-
-A stretto (tématorlasztás) technikája feszegeti az improvizáció kereteit, de egy egyszerű trükkel megvalósítható: a fúgatémát úgy építsd fel, hogy 2 (vagy 4) ugyanolyan harmóniamenetű, de eltérő ritmikájú frázisból álljon. Így a fúgatéma részfrázisai egymással egyszerre játszva is jól szólnak. Gyakorold az így kialakított téma torlasztását először 2 szólamban, majd hozzájátszva a basszust.
-
-#### Teljes fúga
-
-Tervezd meg a fúga formáját az alábbi séma szerint, felírva minden témamegjelenéshez a hangnemet és a témát tartalmazó szólamot, majd játszd el a fúgát.
+A fúga alapja a harmonizáció: mindig a fúgatéma megharmonizálása kell, hogy a szemed előtt lebegjen. A fúgának nincs meghatározott formája, de egy tipikus formaterv a következő:
 
 * Expozíció
     * Téma
     * Téma +1
-    * Szekvencia
+    * (Szekvencia)
     * Téma
     * Téma +1 vagy szekvencia
     * Zárlat +1
 * Feldolgozás
     * Témák különböző hangnemekben, váltakozva szekvenciákkal
-* Fokozás
+* (Fokozás
     * Augmentálás/stretto
-    * Zárlat
+    * Zárlat)
+
+Kezdetben érdemes alla breve metrumú, szinkopált karaktert választani.
+
+#### Expozíció és feldolgozás
+
+##### Fúgatéma és tematikus részek
+
+* Alkoss egy témát a fejezetben megismert folyamathoz hasonlóan:
+    * Harmóniamenet
+    * Dallam - ez lesz a fúgatéma
+    * Basszusdíszítés - ez lesz a kontraszubjektum
+* Harmonizáld meg a fúgatémát basszusként is.
+* Gyakorold a témát a +1 kvintes és egyéb hangnemekben, különböző felrakásokban, csökkenő szólamszámmal.
+
+![](Képek/Fúga/Fúgatéma-1.svg)
+
+##### Közjátékok
+
+Gyakorolj imitációs szekvenciákat a fúgatéma és a kontraszubjektum motívumaiból.
+
+
+
+##### Teljes fúga
+
+* Külön-külön az expozícióra és feldolgozásra:
+    * Tervezd meg a rész felépítését, felírva az alábbi jellemzőket:
+        * Témabelépések: hangnem, témát tartalmazó szólam
+        * Közjátékok: kezdő, záró hangnem
+    * Játszd el az adott részt.
+* Játszd el a teljes fúgát.
+
+#### Fokozás
+
+##### Augmentálás
+
+Harmonizáld meg a fúgatémát 1 hang 2 akkord harmóniaritmussal.
+
+##### Stretto
+
+A stretto (tématorlasztás) technikája feszegeti az improvizáció kereteit, de egy egyszerű trükkel megvalósítható: a fúgatémát úgy építsd fel, hogy 2 (vagy 4) ugyanolyan harmóniamenetű, de eltérő ritmikájú frázisból álljon. Így a fúgatéma részfrázisai egymással egyszerre játszva is jól szólnak. Gyakorold az így kialakított téma torlasztását először 2 szólamban, majd hozzájátszva a basszust.
 
 \newpage
 
@@ -870,7 +920,7 @@ A harmonizáció az egyik legösszetettebb zenei tevékenység, hiszen egy dalla
 * Hangszerelés
     * akkordikus hangszer
 * Szabályok
-    * Válassz egy római zsoltártónust.
+    * Válassz egy [római zsoltártónust](https://www.villanyharfa.hu/misc/articles/zene-tar/zsoltarok/zsoltardallamok/Romai_tonusok_akkordokkal_K.pdf).
     * Harmonizáld meg konszonanciákkal egyre több hangját (a többi hangra maradhat az akkord tartva) az alábbi kottapélda szerinti sorrendben.  
     ![](Képek/Harmonizáció/Zsoltártónus-1.svg)
 * Variációk
@@ -917,10 +967,13 @@ A harmonizáció az egyik legösszetettebb zenei tevékenység, hiszen egy dalla
         * 4 hangos zárlat
         * 4 hang
 
+\newpage
+
 #### Korál
 * Hangszerelés
     * akkordikus hangszer
 * Szabályok
+    * Válassz egy koráldallamot.
     * Írd le előre minden korálsorról, hogy milyen hangnemben kezdődik és végződik, valamint hogy milyen zárlattal.
     * Korálsoronként játszd el először a dallamot, majd megharmonizálva.
 
@@ -934,7 +987,7 @@ A harmonizáció az egyik legösszetettebb zenei tevékenység, hiszen egy dalla
 * Hangszerelés
     * akkordikus hangszer
 * Szabályok
-    * Harmonizálj meg egy korált 1 hangra 1 akkordot véve.
+    * Harmonizálj meg egy korált egy hangra egy akkordot véve.
     * Szúrj be akkordokat, hogy minden hangra 2 akkord essen. Alkalmazd gyakran az alábbi technikákat, melyekkel elérhető, hogy a basszus dupla olyan gyorsan mozogjon, mint a dallam, a fokszám változása nélkül:
         * alap-szext
         * átmenő szekund
@@ -952,7 +1005,7 @@ A harmonizáció az egyik legösszetettebb zenei tevékenység, hiszen egy dalla
 \newpage
 
 ### Változó harmóniaritmus
-Amikor a harmonizáció egyenletes harmóniaritmussal biztosan megy, ritkítsd a harmóniaritmust, ahol felismered, hogy a dallam több hangig egy akkordot jár körbe, vagy sűrítsd, ahol jónak látod (pl. a dallam megáll), hogy minél dallamosabb basszust kapj.
+Amikor a harmonizáció egyenletes harmóniaritmussal biztosan megy, ritkítsd a harmóniaritmust, ahol felismered, hogy a dallam több hangig egy akkordot jár körbe; vagy sűrítsd, ahol jónak látod (pl. a dallam megáll). A cél, hogy minél dallamosabb basszust kapj.
 
 \newpage
 
