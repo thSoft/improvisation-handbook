@@ -235,8 +235,9 @@ Hallgatóidat bevonhatod az alkotói folyamatba, ha kérsz tőlük egy témát, 
     * akkordikus hangszer
 * Szabályok
     * Válassz egy akkordot.
-    * Játszd minél szélsőségesebben különböző felrakásokban, szólamszámmal, dinamikával, artikulációval; legalább háromféle változatban.  
-    ![](Képek/Egy akkord – több karakter-1.svg)
+    * Játszd minél szélsőségesebben különböző felrakásokban, szólamszámmal, dinamikával, artikulációval; legalább háromféle változatban.
+* Példa  
+![](Képek/Egy akkord – több karakter-1.svg)
 
 \newpage
 
@@ -248,7 +249,7 @@ Hallgatóidat bevonhatod az alkotói folyamatba, ha kérsz tőlük egy témát, 
     * akkordikus hangszer (opcionális)
 * Szabályok
     * Válassz egy dallamot, pl. egy népéneket, népdalt, dalt, áriát stb.
-    * Improvizálva díszítsd ki a stílusra jellemző motívumokkal.  
+    * Improvizálva díszítsd ki a stílusra jellemző motívumokkal. Pl. különböző hangközlépések kitöltése barokkosan:  
     ![](Képek/Díszítés-1.svg)
 * Variációk
     * A dallamot fele tempóban is játszhatod, így még több díszítéssel gazdagíthatod.
@@ -266,7 +267,7 @@ Hallgatóidat bevonhatod az alkotói folyamatba, ha kérsz tőlük egy témát, 
 
 #### Basszusdíszítés
 * Hangszerelés
-    * akkordikus hangszer
+    * basszushangszer vagy akkordikus hangszer
 * Szabályok
     * Válassz egy akkordsort.
     * A basszusát díszítsd ki a stílusra jellemző motívumokkal, egyre sűrűbb ritmusértékekkel gyakorolva.
@@ -288,18 +289,20 @@ Hallgatóidat bevonhatod az alkotói folyamatba, ha kérsz tőlük egy témát, 
 
 ### Felrakás
 * Hangszerelés
-    * orgona
+    * billentyűs hangszer, lehetőleg pedállal
 * Szabályok
     * Válassz egy népének-kíséretet, pl. az alábbi kötetekből:
         * Bach: Négyszólamú korálfeldolgozások
         * Szent vagy, Uram!
         * Evangélikus Énekeskönyv
     * Játszd a következő felrakásokban, különféle regisztrációkkal:
+        * Bal kéz: basszus, jobb kéz: többi szólam szűkfekvésben
+        * Bal kéz: basszus, jobb kéz: dallam oktávval lejjebb (1. ujjal, zongorán kiemelve) + kíséret fölötte szűkfekvésben
         * Pedál: basszus 16' regiszterrel, manuál: többi szólam
-        * Pedál: basszus 16' regiszterrel, főmű: dallam, másik manuál: kíséret
-        * Pedál: basszus 16' regiszterrel, főmű: dallam oktávval lejjebb, másik manuál: kíséret
+        * Pedál: basszus 16' regiszterrel, főmű jobb kéz: dallam, másik manuál bal kéz: kíséret
+        * Pedál: basszus 16' regiszterrel, főmű bal kéz: dallam oktávval lejjebb, másik manuál jobb kéz: kíséret
         * Pedál: dallam 4' vagy 8' regiszterrel, manuál: többi szólam
-        * Pedál: dallam 4' vagy 8' regiszterrel, főmű: basszus 16' regiszterrel, másik manuál: kíséret
+        * Pedál: dallam 4' vagy 8' regiszterrel, főmű bal kéz: basszus 16' regiszterrel, másik manuál jobb kéz: kíséret
         * Pedál: basszus + dallam 8' vagy 16' regiszterrel, manuál: kíséret
 
 \newpage
@@ -323,7 +326,7 @@ Hallgatóidat bevonhatod az alkotói folyamatba, ha kérsz tőlük egy témát, 
     * énekhang vagy bármilyen hangszer
 * Szabályok
     * Válassz egy témát, mely jól elkülöníthető frázisokból áll.
-    * Minden frázis után játszd visszhangszerűen a frázis utolsó felét.
+    * Minden frázis után játszd visszhangszerűen a frázis utolsó felét vagy negyedét.
 * Variációk
     * Az echót tetszőlegesen variálhatod, pl. díszítheted.
 * Példák
@@ -351,6 +354,7 @@ Hallgatóidat bevonhatod az alkotói folyamatba, ha kérsz tőlük egy témát, 
     * [Bach: Nun komm' der Heiden Heiland BWV 599](https://imslp.org/wiki/Special:ImagefromIndex/128963/uhoh)
     * [Bach: Der Tag, der ist so freudenreich BWV 605](https://imslp.org/wiki/Special:ImagefromIndex/128969/uhoh)
     * [Bach: Mit Fried' und Freud' ich fahr dahin BWV 616](https://imslp.org/wiki/Special:ImagefromIndex/128981/uhoh)
+    * [Bach: d-moll toccata és fúga BWV 565](https://imslp.org/wiki/Special:ImagefromIndex/01335/uhoh)
 
 \newpage
 
@@ -377,9 +381,9 @@ Hallgatóidat bevonhatod az alkotói folyamatba, ha kérsz tőlük egy témát, 
     * énekhang vagy bármilyen hangszer
 * Szabályok
     * Válassz egy témát:
-        * dallam
-        * akkordsor
-        * teljes téma
+        * először csak egy dallamot,
+        * azután egy akkordsort,
+        * végül tetszőleges témát.
     * Válassz 3-5 különböző lüktetésű tánctípust (ld. [Stílusok]).
     * Játszd a témát a tánctételek lüktetése, ritmikája és karaktere szerint, szükség szerint díszítve a dallamot.
 * Példa: Kis kece lányom  
@@ -480,7 +484,7 @@ Hallgatóidat bevonhatod az alkotói folyamatba, ha kérsz tőlük egy témát, 
 * Variációk
     * A hangnemtervet megbeszélhetitek előre, vagy hallás után lekövetheted.
     * Az átvezetések hosszát megbeszélhetitek előre, vagy erős zárlattal tegye őket egyértelművé a partnered.
-* Példák:
+* Példák
     * [Vivaldi: A négy évszak - Ősz - 1. tétel](https://imslp.org/wiki/Special:ImagefromIndex/73457/uhoh)
     * [Sietze de Vries: Concerto di segnor Vriescobaldi](https://www.youtube.com/watch?v=Vis97y1WFE8)
 
@@ -490,11 +494,17 @@ Hallgatóidat bevonhatod az alkotói folyamatba, ha kérsz tőlük egy témát, 
 * Hangszerelés
     * akkordikus hangszer
 * Előfeltétel
+    * [Harmonizáció]
     * [Stílusok]
 * Szabályok
     * Válassz egy népszerű témát, mely elég rugalmasan feldolgozható (pl. gyerekdal vagy népdal).
-    * Válassz egy zenei stílust vagy egy zeneszerzőt, és műveinek elemzésével írj össze pár rá jellemző stílusjegyet. Gyakorold ezen építőelemeket.
-    * Variáld úgy a témát, hogy ezeket a stílusjegyeket jól felismerhetően alkalmazod rá.
+    * Válassz egy zenei stílust vagy egy zeneszerzőt.
+    * Válaszd ki egy népszerű művét, tanuld meg kívülről, majd játszd el a témát úgy, hogy ennek a műnek a legjellemzőbb vonásait (karakter, felrakás, figuráció) alkalmazod rá.
+* Variációk
+    * Blattold végig minél több művét, írj össze minél több stílusjegyet, és variáld úgy a témát, hogy ezeket a stílusjegyeket jól felismerhetően alkalmazod rá.
+* Ötletek
+    * Beethoven: Holdfény-szonáta - 1. tétel + Happy Birthday
+    * Schubert: Ave Maria + Boci, boci, tarka
 * Példák
     * [Richard Grayson](https://www.youtube.com/user/improvelectronic/videos)
     * [Harmath Dénes](https://thsoft.bandcamp.com/album/improviz-ci-k-n-pszer-t-m-k-k-l-nb-z-st-lusokban)
@@ -657,7 +667,7 @@ A formatervet bővítsd ki a hangnemtervvel. Tipikus formák:
 
 #### Bővítés
 
-Amikor már stabilan érzed, hogyan kell szimmetrikus (tehát pl. 2-szer 4 vagy 4-szer 4 ütemes) zenei struktúrákat létrehozni, külső vagy belső bővítést alkalmazhatsz, ami plusz 1 vagy 2 frázis beszúrását jelenti (leggyakrabban periódusba). Ez jól alkalmazható arra, hogy plusz feszültségként később jussunk el a várva várt zárlatig, valamint hogy apró szabálytalansággal tegyük kevésbé kiszámíthatóvá a formát.
+Amikor már stabilan érzed, hogyan kell szimmetrikus (tehát pl. 2-szer vagy 4-szer 4 ütemes) zenei struktúrákat létrehozni, külső vagy belső bővítést alkalmazhatsz, ami plusz 1 vagy 2 frázis beszúrását jelenti (leggyakrabban periódusba). Ez jól alkalmazható arra, hogy plusz feszültségként később jussunk el a várva várt zárlatig, valamint hogy apró szabálytalansággal tegyük kevésbé kiszámíthatóvá a formát.
 
 Először mindig játszd el a bővítés nélküli, szimmetrikus témát, majd pedig a bővített változatot.
 
@@ -683,7 +693,7 @@ Példák:
 * Szabályok
     * Válassz két hangnemet max. 4 kvint távolságra.
     * A kvintkörön lefelé:
-        * Játszd úgy az autentikus szekvenciát, hogy minden akkord dominánsszeptim legyen, így süllyedhet
+        * Játszd úgy az autentikus szekvenciát, hogy minden akkord dominánsszeptim legyen, amíg a kvintkörön süllyedve el nem jutsz az új hangnem V. fokához.
     * A kvintkörön felfelé:
         * A kiindulási hangnemben kezdd el az autentikus vagy az autentikus-plagális szekvenciát, és amikor az új hangnem V. fokának megfelelő basszushang jön, azt az akkordot alterálva játszd.
     * Végül játssz a záró hangnemben egy I-IV-V-I zárlatot.
@@ -857,18 +867,18 @@ Kezdetben érdemes alla breve metrumú, szinkopált karaktert választani.
 
 * Alkoss egy témát a fejezetben megismert folyamathoz hasonlóan:
     * Harmóniamenet
-    * Dallam - ez lesz a fúgatéma
-    * Basszusdíszítés - ez lesz a kontraszubjektum
+    * Dallam: ez lesz a fúgatéma
+    * Basszusdíszítés: ez lesz a kontraszubjektum
 * Harmonizáld meg a fúgatémát basszusként is.
-* Gyakorold a témát a +1 kvintes és egyéb hangnemekben, különböző felrakásokban, csökkenő szólamszámmal.
+* Gyakorold a témát a +1 kvintes és egyéb hangnemekben, különböző felrakásokban, csökkenő szólamszámmal. Két szólamban is ügyelj arra, hogy egy basso continuo-szekció és egy dallamhangszer együtteseként fogd fel a két szólamot.
 
 ![](Képek/Fúga/Fúgatéma-1.svg)
 
 ##### Közjátékok
 
-Gyakorolj imitációs szekvenciákat a fúgatéma és a kontraszubjektum motívumaiból.
+Gyakorolj imitációs szekvenciákat, illetve felelgetős imitációkat a fúgatéma és a kontraszubjektum motívumaiból.
 
-
+![](Képek/Fúga/Közjátékok-1.svg)
 
 ##### Teljes fúga
 
@@ -934,7 +944,8 @@ A harmonizáció az egyik legösszetettebb zenei tevékenység, hiszen egy dalla
     * akkordikus hangszer
 * Szabályok
     * Válassz egy dallamot és egy akkordot.
-    * A dallam alá vagy fölé játszd mixtúraszerűen az akkordot tonálisan (a dallam hangsora szerint) vagy reálisan.
+    * A dallam alá vagy fölé játszd mixtúraszerűen az akkordot tonálisan (a dallam hangsora szerint) vagy reálisan.  
+    ![](Képek/Harmonizáció/Mixtúra-1.svg)
 
 \newpage
 
@@ -966,6 +977,8 @@ A harmonizáció az egyik legösszetettebb zenei tevékenység, hiszen egy dalla
         * 3 hang
         * 4 hangos zárlat
         * 4 hang
+* Példa  
+![](Képek/Harmonizáció/Dallamtöredék-1.svg)
 
 \newpage
 
@@ -976,6 +989,10 @@ A harmonizáció az egyik legösszetettebb zenei tevékenység, hiszen egy dalla
     * Válassz egy koráldallamot.
     * Írd le előre minden korálsorról, hogy milyen hangnemben kezdődik és végződik, valamint hogy milyen zárlattal.
     * Korálsoronként játszd el először a dallamot, majd megharmonizálva.
+* Ötletek
+    * A Bach által feldolgozott koráldallamok itt vannak különböző szempontok, pl. nehézség szerint csoportosítva: [Koráldallamok jellemzői](https://drive.google.com/open?id=16wm_QPeZJxzdiLJUhlsdJak4qhjpZSwyZ0MHDr7cv3k)
+* Példa  
+![](Képek/Harmonizáció/Korál-1.svg)
 
 \newpage
 
@@ -1001,11 +1018,15 @@ A harmonizáció az egyik legösszetettebb zenei tevékenység, hiszen egy dalla
         * felfelé:
             * autentikus-plagális
             * plagális
+* Példa  
+![](Képek/Harmonizáció/1 hang 2 akkord-1.svg)
 
 \newpage
 
 ### Változó harmóniaritmus
 Amikor a harmonizáció egyenletes harmóniaritmussal biztosan megy, ritkítsd a harmóniaritmust, ahol felismered, hogy a dallam több hangig egy akkordot jár körbe; vagy sűrítsd, ahol jónak látod (pl. a dallam megáll). A cél, hogy minél dallamosabb basszust kapj.
+
+Példák: Bach: Négyszólamú korálfeldolgozások
 
 \newpage
 
@@ -1023,15 +1044,6 @@ Amikor a harmonizáció egyenletes harmóniaritmussal biztosan megy, ritkítsd a
 
 # Stílusok
 
-Az elsajátítani kívánt stílusból, ill. szerzőtől származó művek közül minél többet:
-
-* blattolj végig
-* találd meg és jelöld be bennük az alábbi jelenségeket
-* tanulj meg kívülről
-* válassz belőlük egy témát, és játszd el úgy, hogy egy jellemzőt megváltoztatsz
-
-\newpage
-
 ## Reneszánsz
 
 ### Zenei nyelv
@@ -1039,8 +1051,13 @@ Az elsajátítani kívánt stílusból, ill. szerzőtől származó művek köz�
 * akkordok
     * alap- vagy szextakkordok
     * leszállított VII
+* plagális kapcsolatok
 * tétel végén plagális zárlat
 * imitációs és homofón szakaszok váltakozása
+
+#### Motívumok
+
+![](Képek/Motívumok/Reneszánsz-1.svg)
 
 ### Műfajok
 * canzona
@@ -1063,6 +1080,14 @@ Az elsajátítani kívánt stílusból, ill. szerzőtől származó művek köz�
 * akkordok
     * négyes-, ötöshangzatok
     * II^5\ 6^
+    * nápolyi szext
+    * szűk szeptimek
+
+#### Motívumok
+
+![](Képek/Motívumok/Barokk-1.svg)
+
+![](Képek/Motívumok/Barokk-2.svg)
 
 ### Műfajok
 
@@ -1093,6 +1118,10 @@ Az elsajátítani kívánt stílusból, ill. szerzőtől származó művek köz�
 * akkordok
     * II^6^
     * I^4\ 6^
+
+#### Motívumok
+
+![](Képek/Motívumok/Bécsi klasszika-1.svg)
 
 ### Műfajok
 
