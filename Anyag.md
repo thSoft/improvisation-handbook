@@ -1062,6 +1062,10 @@ Példák: [Bach: Négyszólamú korálfeldolgozások](https://imslp.org/wiki/389
 
 # Stílusok
 
+Az alábbiakban címszavakban összegyűjtöttem a különböző zenetörténeti korszakok, szerzők főbb stílusjegyeit. Ezek a listák csak emlékeztetésre, illetve inspirálásra szolgálnak; a Te feladatod ezekre a jelenségekre példákat gyűjteni és gyakorolni őket.
+
+\newpage
+
 ## Reneszánsz
 
 ### Zenei nyelv
