@@ -292,7 +292,7 @@ Hallgatóidat bevonhatod az alkotói folyamatba, ha kérsz tőlük egy témát, 
     * billentyűs hangszer, lehetőleg pedállal
 * Szabályok
     * Válassz egy népének-kíséretet, pl. az alábbi kötetekből:
-        * Bach: Négyszólamú korálfeldolgozások
+        * [Bach: Négyszólamú korálfeldolgozások](https://imslp.org/wiki/389_Choralges%C3%A4nge_(Bach%2C_Johann_Sebastian))
         * Szent vagy, Uram!
         * Evangélikus Énekeskönyv
     * Játszd a következő felrakásokban, különféle regisztrációkkal:
@@ -719,111 +719,111 @@ Egy teljes zenei tétel több, egymással kontrasztáló témából áll, melyek
 
 #### Triósforma
 
-* Főrész
-* Középrész
-* Főrész
+* [Főrész]{style="color: red" latex-color="red"}
+* [Középrész]{style="color: blue" latex-color="blue"}
+* [Főrész]{style="color: red" latex-color="red"}
 
 Tipikus műfaj: menüett
 
 #### Könnyűzenei forma
 
-* Verse
-* Refrén
-* Verse
-* Refrén
-* Refrén (félhanggal feljebb)
+* [Verse]{style="color: blue" latex-color="blue"}
+* [Refrén]{style="color: red" latex-color="red"}
+* [Verse]{style="color: blue" latex-color="blue"}
+* [Refrén]{style="color: red" latex-color="red"}
+* [Refrén]{style="color: red" latex-color="red"} (félhanggal feljebb)
 
 #### Rondóforma
 
-* Rondótéma
-* 1\. epizód
-* Rondótéma
-* 2\. epizód
-* Rondótéma
-* (3\. epizód
-* Rondótéma)
+* [Rondótéma]{style="color: red" latex-color="red"}
+* [1\. epizód]{style="color: blue" latex-color="blue"}
+* [Rondótéma]{style="color: red" latex-color="red"}
+* [2\. epizód]{style="color: teal" latex-color="teal"}
+* [Rondótéma]{style="color: red" latex-color="red"}
+* ([3\. epizód]{style="color: brown" latex-color="brown"}
+* [Rondótéma]{style="color: red" latex-color="red"})
 
 Tipikus műfaj: gavotte
 
 #### Nyitányforma
 
-* Lassú rész
-* Gyors rész
-* Lassú rész
-* (Gyors rész
-* Lassú rész)
+* [Lassú rész]{style="color: red" latex-color="red"}
+* [Gyors rész]{style="color: blue" latex-color="blue"}
+* [Lassú rész]{style="color: red" latex-color="red"}
+* ([Gyors rész]{style="color: blue" latex-color="blue"}
+* [Lassú rész]{style="color: red" latex-color="red"})
 
 Tipikus műfaj: ouverture
 
 #### Ritornell
 
-* Ritornell
-* 1\. közjáték
-* Ritornell +1
-* 2\. közjáték
-* Ritornell parallel
-* 3\. közjáték
-* Ritornell
+* [Ritornell]{style="color: red" latex-color="red"}
+* [1\. közjáték]{style="color: blue" latex-color="blue"}
+* [Ritornell]{style="color: red" latex-color="red"} +1
+* [2\. közjáték]{style="color: teal" latex-color="teal"}
+* [Ritornell]{style="color: red" latex-color="red"} parallel
+* [3\. közjáték]{style="color: brown" latex-color="brown"}
+* [Ritornell]{style="color: red" latex-color="red"}
 
 Tipikus műfaj: concerto
 
 #### Fantázia
 
-* Téma
-* Téma +1
-* Szekvencia
-* Orgonapont
+* [Téma]{style="color: red" latex-color="red"}
+* [Téma]{style="color: red" latex-color="red"} +1
+* [Szekvencia]{style="color: gray" latex-color="gray"}
+* [Orgonapont]{style="color: darkgray" latex-color="darkgray"}
 * Zárlat
-* Coda: Téma -1
+* [Coda: Téma]{style="color: red" latex-color="red"} -1
 
 Tipikus műfaj: prelúdium
 
 #### Nagy kéttagú forma
 
 * 1\. rész
-    * Téma
-    * Szekvencia
+    * [Téma]{style="color: red" latex-color="red"}
+    * [Szekvencia]{style="color: gray" latex-color="gray"}
     * Zárlat +1
 * 2\. rész
-    * Téma +1
-    * Téma -1 parallel
-    * (Szekvencia)
+    * [Téma]{style="color: red" latex-color="red"} +1
+    * [Téma]{style="color: red" latex-color="red"} -1 parallel
+    * [(Szekvencia)]{style="color: gray" latex-color="gray"}
     * Zárlat
 
 Tipikus műfaj: bármilyen barokk tánctétel
 
 #### Variációs forma
 
-* Téma
-* 1\. variáció
-* 2\. variáció
+* [Téma]{style="color: red" latex-color="red"}
+* [1\. variáció]{style="color: orange" latex-color="orange"}
+* [2\. variáció]{style="color: purple" latex-color="purple"}
 * stb.
 
 Tipikus technika: [Minore-maggiore váltás]
 
 #### Hídforma
 
-* A
-* B
-* C
-* B
-* A
+* [A]{style="color: red" latex-color="red"}
+* [B]{style="color: blue" latex-color="blue"}
+* [C]{style="color: teal" latex-color="teal"}
+* [B]{style="color: blue" latex-color="blue"}
+* [A]{style="color: red" latex-color="red"}
 
 Tipikus stílus: XX. század
 
 #### Szonátaforma
 
 * Expozíció
-    * Főtéma
-    * Átvezetés, moduláció +1-be
-    * Melléktéma +1
+    * [Főtéma]{style="color: red" latex-color="red"}
+    * [Átvezetés]{style="color: gray" latex-color="gray"}, moduláció +1-be
+    * [Melléktéma]{style="color: blue" latex-color="blue"} +1
     * Zárlat +1
 * Feldolgozás
     * Témák, motívumok transzponálva, transzformálva
 * Repríz
-    * Főtéma
-    * (Átvezetés)
-    * Melléktéma
+    * [Főtéma]{style="color: red" latex-color="red"}
+    * [(Átvezetés)]{style="color: gray" latex-color="gray"}
+    * [Melléktéma]{style="color: blue" latex-color="blue"}
     * Zárlat
 
 Lépések:
@@ -847,16 +847,16 @@ Előfeltétel:
 A fúga alapja a harmonizáció: mindig a fúgatéma megharmonizálása kell, hogy a szemed előtt lebegjen. A fúgának nincs meghatározott formája, de egy tipikus formaterv a következő:
 
 * Expozíció
-    * Téma
-    * Téma +1
-    * (Szekvencia)
-    * Téma
-    * Téma +1 vagy szekvencia
+    * [Téma]{style="color: red" latex-color="red"}
+    * [Téma]{style="color: red" latex-color="red"} +1
+    * [(Szekvencia)]{style="color: gray" latex-color="gray"}
+    * [Téma]{style="color: red" latex-color="red"}
+    * [Téma]{style="color: red" latex-color="red"} +1 / [Szekvencia]{style="color: gray" latex-color="gray"}
     * Zárlat +1
 * Feldolgozás
     * Témák különböző hangnemekben, váltakozva szekvenciákkal
 * (Fokozás
-    * Augmentálás/stretto
+    * [Augmentálás / Stretto]{style="color: orange" latex-color="orange"}
     * Zárlat)
 
 Kezdetben érdemes alla breve metrumú, szinkopált karaktert választani.
@@ -944,8 +944,9 @@ A harmonizáció az egyik legösszetettebb zenei tevékenység, hiszen egy dalla
     * akkordikus hangszer
 * Szabályok
     * Válassz egy dallamot és egy akkordot.
-    * A dallam alá vagy fölé játszd mixtúraszerűen az akkordot tonálisan (a dallam hangsora szerint) vagy reálisan.  
-    ![](Képek/Harmonizáció/Mixtúra-1.svg)
+    * A dallam alá vagy fölé játszd mixtúraszerűen az akkordot tonálisan (a dallam hangsora szerint) vagy reálisan.
+* Példa  
+![](Képek/Harmonizáció/Mixtúra-1.svg)
 
 \newpage
 
@@ -1026,7 +1027,7 @@ A harmonizáció az egyik legösszetettebb zenei tevékenység, hiszen egy dalla
 ### Változó harmóniaritmus
 Amikor a harmonizáció egyenletes harmóniaritmussal biztosan megy, ritkítsd a harmóniaritmust, ahol felismered, hogy a dallam több hangig egy akkordot jár körbe; vagy sűrítsd, ahol jónak látod (pl. a dallam megáll). A cél, hogy minél dallamosabb basszust kapj.
 
-Példák: Bach: Négyszólamú korálfeldolgozások
+Példák: [Bach: Négyszólamú korálfeldolgozások](https://imslp.org/wiki/389_Choralges%C3%A4nge_(Bach%2C_Johann_Sebastian))
 
 \newpage
 
@@ -1041,6 +1042,23 @@ Példák: Bach: Négyszólamú korálfeldolgozások
     * Írd fel a formai és hangnemtervet, vagyis hogy a ritornellók és korálsorok hogyan következnek egymás után, valamint milyen hangnemben kezdődnek és végződnek.
     * A korálsorokra saját harmonizációt véve játszd el a korálelőjátékot.
 * Példa: [Harmath Dénes: Mint a szép híves patakra - Händel-nyitány](https://thsoft.bandcamp.com/track/mint-a-sze-p-hi-ves-patakra-h-ndel-nyit-ny)
+
+| Formarész   | Kezdő hangnem | Záró hangnem |
+|:----------- |:------------- | ------------ |
+| Ritornello  | F:            | C:           |
+| I. korálsor | F:            |              |
+| II.         | F:            |              |
+| R.          | B:            |              |
+| I.          | F:            |              |
+| II.         | F:            | d:           |
+| R.          | d:            |              |
+| III.        | a:            | d: félzárlat |
+| Szekvencia  | d:            | a:           |
+| IV.         | a:            | g:           |
+| R.          | C:            |              |
+| V.          | F:            | d: félzárlat |
+| VI.         | d:            | F:           |
+| Coda: R.    | B:            | F:           |
 
 # Stílusok
 
@@ -1076,7 +1094,7 @@ Példák: Bach: Négyszólamú korálfeldolgozások
 * plagális hangnemterv
 * melodikus figuráció
 * motivikus imitáció
-* rejtett többszólamúság
+* virtuális kétszólamúság
 * akkordok
     * négyes-, ötöshangzatok
     * II^5\ 6^
