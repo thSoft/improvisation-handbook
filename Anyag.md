@@ -500,11 +500,11 @@ Hallgatóidat bevonhatod az alkotói folyamatba, ha kérsz tőlük egy témát, 
     * Válassz egy népszerű témát, mely elég rugalmasan feldolgozható (pl. gyerekdal vagy népdal).
     * Válassz egy zenei stílust vagy egy zeneszerzőt.
     * Válaszd ki egy népszerű művét, tanuld meg kívülről, majd játszd el a témát úgy, hogy ennek a műnek a legjellemzőbb vonásait (karakter, felrakás, figuráció) alkalmazod rá.
-* Variációk
-    * Blattold végig minél több művét, írj össze minél több stílusjegyet, és variáld úgy a témát, hogy ezeket a stílusjegyeket jól felismerhetően alkalmazod rá.
 * Ötletek
     * Beethoven: Holdfény-szonáta - 1. tétel + Happy Birthday
     * Schubert: Ave Maria + Boci, boci, tarka
+* Variációk
+    * Blattold végig a szerző minél több művét, írj össze minél több stílusjegyet, és variáld úgy a témát, hogy ezeket a stílusjegyeket jól felismerhetően alkalmazod rá.
 * Példák
     * [Richard Grayson](https://www.youtube.com/user/improvelectronic/videos)
     * [Harmath Dénes](https://thsoft.bandcamp.com/album/improviz-ci-k-n-pszer-t-m-k-k-l-nb-z-st-lusokban)
@@ -1294,7 +1294,26 @@ Az alábbiakban címszavakban összegyűjtöttem a különböző zenetörténeti
 
 # Irodalomjegyzék
 
+## Felvételek
+
+* [Richard Grayson improvizációi](https://www.youtube.com/user/improvelectronic/videos)
+* Sietze de Vries improvizációi
+    * [genfi zsoltárokra](https://www.youtube.com/playlist?list=PLDrg2ayMaZy64-DLQz8MIkZvOfJrR3msE)
+    * [korálokra és egyéb témákra](https://www.youtube.com/playlist?list=PLDrg2ayMaZy7gO7q4u3YL1GzetRf2OfAk)
+    * [megadott téma nélkül](https://www.youtube.com/playlist?list=PLDrg2ayMaZy4d2NoB3UouiERGgrfgYPhk)
+* Harmath Dénes improvizációi
+    * [korálokra](https://thsoft.bandcamp.com/album/improviz-ci-k-kor-lpartit-k)
+    * [kivonulási énekekre](https://thsoft.bandcamp.com/album/improviz-ci-k-kivonul-s)
+    * [áldozási énekekre](https://thsoft.bandcamp.com/album/improviz-ci-k-ldoz-s)
+    * [miseénekekre](https://thsoft.bandcamp.com/album/improviz-ci-k-mise-nekek)
+
+## Könyvek
+
 * Apagyi Mária: ZongorÁlom
 * Gonda János: A rögtönzés világa
 * Grayson, Richard: [Improvising at the Keyboard](http://faculty.oxy.edu/rgrayson//Richard%20Grayson%20improvisation%20handbook.pdf)
+
+## Honlapok
+
+* [John Mortensen](http://johnmortensen.com)
 * [Organ Improvisation](http://www.organimprovisation.com)
