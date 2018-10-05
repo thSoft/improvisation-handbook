@@ -1043,22 +1043,22 @@ Példák: [Bach: Négyszólamú korálfeldolgozások](https://imslp.org/wiki/389
     * A korálsorokra saját harmonizációt véve játszd el a korálelőjátékot.
 * Példa: [Harmath Dénes: Mint a szép híves patakra - Händel-nyitány](https://thsoft.bandcamp.com/track/mint-a-sze-p-hi-ves-patakra-h-ndel-nyit-ny)
 
-| Formarész   | Kezdő hangnem | Záró hangnem |
-|:----------- |:------------- | ------------ |
-| Ritornello  | F:            | C:           |
-| I. korálsor | F:            |              |
-| II.         | F:            |              |
-| R.          | B:            |              |
-| I.          | F:            |              |
-| II.         | F:            | d:           |
-| R.          | d:            |              |
-| III.        | a:            | d: félzárlat |
-| Szekvencia  | d:            | a:           |
-| IV.         | a:            | g:           |
-| R.          | C:            |              |
-| V.          | F:            | d: félzárlat |
-| VI.         | d:            | F:           |
-| Coda: R.    | B:            | F:           |
+| Formarész                                                                                          | Kezdő hangnem | Záró hangnem |
+|:-------------------------------------------------------------------------------------------------- |:------------- | ------------ |
+| [Ritornello]{style="color: red" latex-color="red"}                                                 | F:            | C:           |
+| [I. korálsor]{style="color: blue" latex-color="blue"}                                              | F:            |              |
+| [II.]{style="color: teal" latex-color="teal"}                                                      | F:            |              |
+| [R.]{style="color: red" latex-color="red"}                                                         | B:            |              |
+| [I.]{style="color: blue" latex-color="blue"}                                                       | F:            |              |
+| [II.]{style="color: teal" latex-color="teal"}                                                      | F:            | d:           |
+| [R.]{style="color: red" latex-color="red"}                                                         | d:            |              |
+| [III.]{style="color: brown" latex-color="brown"}                                                   | a:            | d: félzárlat |
+| [Szekvencia]{style="color: gray" latex-color="gray"}                                               | d:            | a:           |
+| [IV.]{style="color: olive" latex-color="olive"}                                                  | a:            | g:           |
+| [R.]{style="color: red" latex-color="red"}                                                         | C:            |              |
+| [V.]{style="color: violet" latex-color="violet"}                                                   | F:            | d: félzárlat |
+| [VI.]{style="color: magenta" latex-color="magenta"}                                                | d:            | F:           |
+| [Coda:]{style="color: darkgray" latex-color="darkgray"} [R.]{style="color: red" latex-color="red"} | B:            | F:           |
 
 # Stílusok
 
@@ -1099,6 +1099,7 @@ Az alábbiakban címszavakban összegyűjtöttem a különböző zenetörténeti
 * melodikus figuráció
 * motivikus imitáció
 * virtuális kétszólamúság
+* kromatika
 * akkordok
     * négyes-, ötöshangzatok
     * II^5\ 6^
