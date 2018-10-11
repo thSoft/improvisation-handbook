@@ -249,7 +249,7 @@ Hallgatóidat bevonhatod az alkotói folyamatba, ha kérsz tőlük egy témát, 
     * akkordikus hangszer (opcionális)
 * Szabályok
     * Válassz egy dallamot, pl. egy népéneket, népdalt, dalt, áriát stb.
-    * Improvizálva díszítsd ki a stílusra jellemző motívumokkal. Pl. különböző hangközlépések kitöltése barokkosan:  
+    * Improvizálva díszítsd ki egy adott stílusra jellemző motívumokkal. Pl. különböző hangközlépések kitöltése barokkosan:  
     ![](Képek/Díszítés-1.svg)
 * Variációk
     * A dallamot fele tempóban is játszhatod, így még több díszítéssel gazdagíthatod.
@@ -565,7 +565,7 @@ A zene időbeli alapegysége a frázis (mint azt a népdaloknál már láttuk). 
 * Hangszerelés
     * akkordikus hangszer
 * Szabályok
-    * Alkoss 4, majd később 8 akkordból álló akkordsorokat.
+    * Alkoss 4, majd később 8 akkordból álló akkordsorokat. Az első akkord I., az utolsó I. vagy V. fok legyen.
       * Elsősorban a főhármasokat alkalmazd:
           * I
           * V
@@ -765,6 +765,8 @@ Tipikus műfaj: ouverture
 * [3\. közjáték]{style="color: brown" latex-color="brown"}
 * [Ritornell]{style="color: red" latex-color="red"}
 
+A ritornell jöhet más hangnemekben, ill. visszatérhet csak egy frázisa.
+
 Tipikus műfaj: concerto
 
 #### Fantázia
@@ -772,9 +774,9 @@ Tipikus műfaj: concerto
 * [Téma]{style="color: red" latex-color="red"}
 * [Téma]{style="color: red" latex-color="red"} +1
 * [Szekvencia]{style="color: gray" latex-color="gray"}
-* [Orgonapont]{style="color: darkgray" latex-color="darkgray"}
+* [V. fokú orgonapont]{style="color: darkgray" latex-color="darkgray"}
 * Zárlat
-* [Coda: Téma]{style="color: red" latex-color="red"} -1
+* [Coda: Téma I. fokú orgonapont fölött]{style="color: red" latex-color="red"} -1
 
 Tipikus műfaj: prelúdium
 
@@ -1037,7 +1039,7 @@ Példák: [Bach: Négyszólamú korálfeldolgozások](https://imslp.org/wiki/389
 * Hangszerelés
     * orgona
 * Szabályok
-    * Válassz egy népénekdallamot, egy karaktert, [felrakást][Felrakás] és figurációt.
+    * Válassz egy népénekdallamot, egy karaktert, [felrakást][Felrakás] és figurációt, valamint határozd meg, hogy mi lesz a korál harmóniaritmusa.
     * Találj ki egy közjátékot, mely ritornello-szerűen a dallamsorok között fog különböző hangnemekben megjelenni, és írd le a harmóniai vázát.
     * Írd fel a formai és hangnemtervet, vagyis hogy a ritornellók és korálsorok hogyan következnek egymás után, valamint milyen hangnemben kezdődnek és végződnek.
     * A korálsorokra saját harmonizációt véve játszd el a korálelőjátékot.
@@ -1137,6 +1139,7 @@ Az alábbiakban címszavakban összegyűjtöttem a különböző zenetörténeti
 * Alberti-basszus
 * repetíció
 * unisono
+* tercelés
 * kontraszt
 * akkordok
     * II^6^
@@ -1293,7 +1296,7 @@ Az alábbiakban címszavakban összegyűjtöttem a különböző zenetörténeti
 
 ![](Képek/Akkordsorok-1.svg)
 
-# Irodalomjegyzék
+# Ajánlott irodalom
 
 ## Felvételek
 
