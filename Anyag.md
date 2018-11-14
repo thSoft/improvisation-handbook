@@ -1,7 +1,9 @@
 ---
+author: Harmath Dénes
 title: Szólalj meg bátran a zene nyelvén!
 subtitle: Játékos gyakorlatok a stílusimprovizációs készség fejlesztésére
 documentclass: scrbook
+rights: Creative Commons Attribution 4.0 International
 ---
 
 # Előszó
@@ -31,6 +33,10 @@ Amikor ketten két különböző szerepben játszotok, megbeszélés szerint cse
 A dúrban és mollban is értelmezhető harmóniasorok fokszámmal vannak jelölve, egyébként az akkordmenetek úgynevezett szolmizált számozott basszussal vannak lejegyezve: ilyenkor a szolmizáció a basszushangot jelzi, a felső indexben levő számok pedig a basszushoz képest számítandó hangközöket.
 
 A gyakorlatokat nem szükséges a könyv elejétől a végéig szigorúan a leírt sorrendben végezni. Az 1-2., valamint a 3-4. gyakorlatsort nagyjából párhuzamosan érdemes feldolgozni, egy fejezeten belül pedig általában nehézség szerint növekednek, ill. egymásra épülnek a feladatok, de a saját képességeid és a gyakorlatok előfeltételeinek figyelembevételével azt javaslom, hogy személyre szabott tanmenet szerint haladj, időnként visszatérve egy-egy gyakorlat nehezített változatára – legjobb, ha van egy tanárod, aki segít ebben.
+
+## Licenc
+
+Ez a Mű a [Creative Commons Nevezd meg! 4.0 Nemzetközi Licenc](https://creativecommons.org/licenses/by/4.0/deed.hu) feltételeinek megfelelően felhasználható.
 
 # Gyakorlatok
 
@@ -503,6 +509,7 @@ Hallgatóidat bevonhatod az alkotói folyamatba, ha kérsz tőlük egy témát, 
 * Ötletek
     * Beethoven: Holdfény-szonáta - 1. tétel + Happy Birthday
     * Schubert: Ave Maria + Boci, boci, tarka
+    * Bach: BWV 564 - Adagio + Kiskarácsony, nagykarácsony
 * Variációk
     * Blattold végig a szerző minél több művét, írj össze minél több stílusjegyet, és variáld úgy a témát, hogy ezeket a stílusjegyeket jól felismerhetően alkalmazod rá.
 * Példák
@@ -717,6 +724,15 @@ Példák:
 
 Egy teljes zenei tétel több, egymással kontrasztáló témából áll, melyek közül egy vagy több *visszatér*. Ezenkívül átvezető zenei anyagokat is tartalmazhat (ez lehet például [moduláló szekvencia][Moduláció szekvenciával]). Minél több tulajdonsága különbözik a témáknak (a metrumot és tempót kivéve), annál jobb – ezeket a tulajdonságokat is írd le az egyes témákhoz.
 
+#### Variációs forma
+
+* [Téma]{style="color: red" latex-color="red"}
+* [1\. variáció]{style="color: orange" latex-color="orange"}
+* [2\. variáció]{style="color: purple" latex-color="purple"}
+* stb.
+
+Tipikus technika: [Minore-maggiore váltás]
+
 #### Triósforma
 
 * [Főrész]{style="color: red" latex-color="red"}
@@ -793,15 +809,6 @@ Tipikus műfaj: prelúdium
     * Zárlat
 
 Tipikus műfaj: bármilyen barokk tánctétel
-
-#### Variációs forma
-
-* [Téma]{style="color: red" latex-color="red"}
-* [1\. variáció]{style="color: orange" latex-color="orange"}
-* [2\. variáció]{style="color: purple" latex-color="purple"}
-* stb.
-
-Tipikus technika: [Minore-maggiore váltás]
 
 #### Hídforma
 
@@ -963,6 +970,8 @@ A harmonizáció az egyik legösszetettebb zenei tevékenység, hiszen egy dalla
     * Boci, boci, tarka
     * Pál, Kata, Péter
     * Kis kece lányom
+    * Csipkefa bimbója
+    * Kiskarácsony, nagykarácsony
 
 \newpage
 

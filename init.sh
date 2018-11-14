@@ -1,3 +1,5 @@
 brew install pandoc
 brew install librsvg
-pip install pandoc-latex-color
+brew install python
+sudo /usr/bin/easy_install pip
+sudo pip install pandoc-latex-color

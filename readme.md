@@ -6,6 +6,7 @@
 
 * macOS
 * MuseScore
+* Homebrew
 * Run `init.sh`
 
 ### Building
