@@ -38,6 +38,13 @@ A gyakorlatokat nem szükséges a könyv elejétől a végéig szigorúan a leí
 
 Ez a Mű a [Creative Commons Nevezd meg! 4.0 Nemzetközi Licenc](https://creativecommons.org/licenses/by/4.0/deed.hu) feltételeinek megfelelően felhasználható.
 
+## Online elérhetőség
+
+A könyv legfrissebb verziója online elérhető a következő formátumokban:
+
+* [HTML](https://thsoft.github.io/improvisation-handbook/)
+* [PDF](https://thsoft.github.io/improvisation-handbook/Nyomtat%C3%A1s.pdf)
+
 # Gyakorlatok
 
 ## Dallam
@@ -1042,6 +1049,21 @@ Példák: [Bach: Négyszólamú korálfeldolgozások](https://imslp.org/wiki/389
 
 \newpage
 
+### Ellenszólam
+* Hangszerelés
+    * egy vagy több akkordikus hangszer
+* Szabályok
+    * Partnereddel játsszatok el egy korálharmonizációt lassú értékekben, a harmóniáknak megfelelő szép, dallamos ellenszólammal, a következő felrakásokban:
+        * Partnered: harmóniák + koráldallam, Te: ellenszólam
+        * Partnered: harmóniák, Te: koráldallam + ellenszólam
+        * Partnered: koráldallam, Te: harmóniák + ellenszólam
+        * Te: harmóniák + koráldallam + ellenszólam
+* Példák
+    * Bach: Wachet auf BWV 645
+    * [Sietze de Vries: Sagt an, wer ist doch diese](https://www.youtube.com/watch?v=V9nMrzDj9oE&t=3m4s)
+
+\newpage
+
 ### Közjátékos korálelőjáték
 * Előfeltétel
     * [Ritornell]
@@ -1325,6 +1347,7 @@ Az alábbiakban címszavakban összegyűjtöttem a különböző zenetörténeti
 * Apagyi Mária: ZongorÁlom
 * Gonda János: A rögtönzés világa
 * Grayson, Richard: [Improvising at the Keyboard](http://faculty.oxy.edu/rgrayson//Richard%20Grayson%20improvisation%20handbook.pdf)
+* Callahan, Michael: [Teaching Baroque Counterpoint Through Improvisation: An Introductory Curriculum in Stylistic Fluency](https://drive.google.com/file/d/0B0ZI8di-pEDvdDBDTllObGtNZmM/view)
 
 ## Honlapok
 
