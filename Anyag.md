@@ -1345,9 +1345,9 @@ Az alábbiakban címszavakban összegyűjtöttem a különböző zenetörténeti
 ## Könyvek
 
 * Apagyi Mária: ZongorÁlom
+* Callahan, Michael: [Teaching Baroque Counterpoint Through Improvisation: An Introductory Curriculum in Stylistic Fluency](https://drive.google.com/file/d/0B0ZI8di-pEDvdDBDTllObGtNZmM/view)
 * Gonda János: A rögtönzés világa
 * Grayson, Richard: [Improvising at the Keyboard](http://faculty.oxy.edu/rgrayson//Richard%20Grayson%20improvisation%20handbook.pdf)
-* Callahan, Michael: [Teaching Baroque Counterpoint Through Improvisation: An Introductory Curriculum in Stylistic Fluency](https://drive.google.com/file/d/0B0ZI8di-pEDvdDBDTllObGtNZmM/view)
 
 ## Honlapok
 
