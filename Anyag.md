@@ -322,18 +322,6 @@ Hallgatóidat bevonhatod az alkotói folyamatba, ha kérsz tőlük egy témát, 
 
 ### Bővítés
 
-#### Akkordok beszúrása
-* Hangszerelés
-    * akkordikus hangszer
-* Szabályok
-    * Válassz egy akkordsort.
-    * A súlyos helyekre játssz késleltetéseket.
-    * A súlytalan helyeken, ahol nem változik a harmónia, játssz új akkordokat.
-* Példa  
-![](Képek/Akkordok beszúrása-1.svg)
-
-\newpage
-
 #### Echo
 * Hangszerelés
     * énekhang vagy bármilyen hangszer
@@ -345,6 +333,18 @@ Hallgatóidat bevonhatod az alkotói folyamatba, ha kérsz tőlük egy témát, 
 * Példák
     * [Sietze de Vries: Wer nur den lieben Gott läßt walten](https://www.youtube.com/watch?v=DHdAR4aV9Aw)
     * [Sietze de Vries: Ein feste Burg ist unser Gott](https://www.youtube.com/watch?v=Bk75PrwcTNU)
+
+\newpage
+
+#### Akkordok beszúrása
+* Hangszerelés
+    * akkordikus hangszer
+* Szabályok
+    * Válassz egy akkordsort.
+    * A súlyos helyekre játssz késleltetéseket.
+    * A súlytalan helyeken, ahol nem változik a harmónia, játssz új akkordokat.
+* Példa  
+![](Képek/Akkordok beszúrása-1.svg)
 
 \newpage
 
