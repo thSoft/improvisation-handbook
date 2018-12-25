@@ -34,17 +34,6 @@ A dúrban és mollban is értelmezhető harmóniasorok fokszámmal vannak jelöl
 
 A gyakorlatokat nem szükséges a könyv elejétől a végéig szigorúan a leírt sorrendben végezni. Az 1-2., valamint a 3-4. gyakorlatsort nagyjából párhuzamosan érdemes feldolgozni, egy fejezeten belül pedig általában nehézség szerint növekednek, ill. egymásra épülnek a feladatok, de a saját képességeid és a gyakorlatok előfeltételeinek figyelembevételével azt javaslom, hogy személyre szabott tanmenet szerint haladj, időnként visszatérve egy-egy gyakorlat nehezített változatára – legjobb, ha van egy tanárod, aki segít ebben.
 
-## Licenc
-
-Ez a Mű a [Creative Commons Nevezd meg! 4.0 Nemzetközi Licenc](https://creativecommons.org/licenses/by/4.0/deed.hu) feltételeinek megfelelően felhasználható.
-
-## Online elérhetőség
-
-A könyv legfrissebb verziója online elérhető a következő formátumokban:
-
-* [HTML](https://thsoft.github.io/improvisation-handbook/)
-* [PDF](https://thsoft.github.io/improvisation-handbook/Nyomtat%C3%A1s.pdf)
-
 # Gyakorlatok
 
 ## Dallam
@@ -1353,3 +1342,16 @@ Az alábbiakban címszavakban összegyűjtöttem a különböző zenetörténeti
 
 * [John Mortensen](http://johnmortensen.com)
 * [Organ Improvisation](http://www.organimprovisation.com)
+
+# Függelék
+
+## Licenc
+
+Ez a Mű a [Creative Commons Nevezd meg! 4.0 Nemzetközi Licenc](https://creativecommons.org/licenses/by/4.0/deed.hu) feltételeinek megfelelően felhasználható.
+
+## Online elérhetőség
+
+A könyv legfrissebb verziója online elérhető a következő formátumokban:
+
+* [HTML](https://thsoft.github.io/improvisation-handbook/)
+* [PDF](https://thsoft.github.io/improvisation-handbook/Szólalj%20meg%20bátran%20a%20zene%20nyelvén!.pdf)
