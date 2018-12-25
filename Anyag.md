@@ -462,10 +462,10 @@ Hallgatóidat bevonhatod az alkotói folyamatba, ha kérsz tőlük egy témát, 
 * Szabályok
     * Válassz egy dúr vagy moll dallamot.
     * Játszd el a hangsorának főbb hangjairól kezdve:
-        * V. fok
-        * IV. fok
-        * III. fok
-        * VI. fok
+        * V\. fok
+        * IV\. fok
+        * III\. fok
+        * VI\. fok
 * Variációk
     * [Harmonizációs][Harmonizáció] gyakorlat birtokában harmonizáld meg mindegyik hangról kezdődő változatot.
 * Példa: [Liszt: Ad nos, ad salutarem undam](https://imslp.org/wiki/Special:ImagefromIndex/512323/uhoh)
