@@ -143,7 +143,7 @@ Egy szép dallamra mindenki rezonál, így ez a hallgatóság megszólításána
 * Szabályok
     * Partnered váltogasson két akkordot az alábbi séma szerint:  
     ![](Képek/Dallam akkordinga fölé/Alap-1.svg)
-    * Improvizálj fölé dallamot.
+    * Improvizálj fölé dallamot, elsődlegesen az éppen hangzó harmónia hangjaiból.
     * Az akkordinga addig ismétlődjön, amíg nem jelzel.
 * Variációk
     * Ha az akkordok hangjai még nem mennek gondolkodás nélkül, először partnered vagy egy harmadik játékos játsszon elő dallamokat, Te pedig ismételd őket.  
@@ -284,7 +284,7 @@ Hallgatóidat bevonhatod az alkotói folyamatba, ha kérsz tőlük egy témát, 
     * akkordikus hangszer
 * Szabályok
     * Válassz egy akkordsort vagy egyszerű akkordkíséretes tételt.
-    * Figuráld a kíséretét különféle módokon. Pár ötlet:  
+    * Figuráld a kíséretét különféle hangszerszerű módokon. Pár ötlet:  
     ![](Képek/Figuráció-1.svg)
 
 \newpage
@@ -529,7 +529,7 @@ Eljutottál oda, hogy olyan zenei anyagot rögtönözz, melynek minden paraméte
 Most pedig fokozatosan, építőelemenként felépítünk zenei struktúrákat, mintha épületek lennének. A gyakorlatok végrehajtása során mindig az alábbi lépéseket kövesd:
 
 * Először írd fel a kompozíció harmóniai és formai vázát. Végy egy akkordsort, 1 ütemben 1 vagy legfeljebb 2 akkordot véve. Írd le vázlatos lejegyzésmóddal (fokszámok vagy kottázott/szolmizált számozott basszus), és játszd le, mintha continuóznál – nem kell a négyszólamú szerkesztés szabályaival törődni. (A formai vázról később esik szó.) Épületed ezennel szerkezetkész: szilárd alappal és stabil struktúrával rendelkezik.
-* Adj hozzá karaktert. Végy egy tánctételt, mely meghatározza a metrumot és a jellemző ritmusképletet; válassz egy figurációt, és alkalmazd (ld. [Variáció]). Így berendezted és kifestetted az épületedet, már el tudja látni funkcióját, de még kissé sivár.
+* Adj hozzá karaktert. Végy egy tánctételt, mely meghatározza a metrumot és a jellemző ritmusképletet; válassz egy figurációt, és alkalmazd (ld. [Variáció]). Így kifestetted és berendezted az épületedet, már el tudja látni funkcióját, de még kissé sivár.
 * Adj hozzá dallamot (ld. [Dallam]). A harmóniák expresszivitását növelheted késleltetések bevezetésével. Épületed most már ki van díszítve képekkel, növényekkel stb.
 
 Összefoglalva:
@@ -537,7 +537,7 @@ Most pedig fokozatosan, építőelemenként felépítünk zenei struktúrákat, 
 | Zene                                                   | Architektúra         |
 | ------------------------------------------------------ | -------------------- |
 | struktúra (akkordsor, *lassú harmóniaritmus*)          | szerkezet            |
-| karakter (lüktetés, ritmusképlet, figuráció, szünetek) | berendezés, kifestés |
+| karakter (lüktetés, ritmusképlet, figuráció, szünetek) | kifestés, berendezés |
 | dallam (motívumok, késleltetések)                      | díszítés             |
 
 A folyamatra példákat a [Téma] c. alfejezetben találsz.
