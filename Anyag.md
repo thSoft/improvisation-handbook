@@ -1201,7 +1201,14 @@ Az alábbiakban címszavakban összegyűjtöttem a különböző zenetörténeti
 	* mollbeli
 	* V^7^ 6-5 késleltetéssel
 
+#### Chopin
+
+* keringő-figuráció
+* trillák és doppelschlagok
+* [How to Sound Like Chopin](https://www.youtube.com/watch?v=u_hhE9Bjbfw)
+
 #### Liszt
+
 * dallam-basszus komplementer
 * unisono
 * recitativo
