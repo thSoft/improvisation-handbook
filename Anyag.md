@@ -1379,4 +1379,4 @@ Ez a Mű a [Creative Commons Nevezd meg! 4.0 Nemzetközi Licenc](https://creativ
 A könyv legfrissebb verziója online elérhető a következő formátumokban:
 
 * [HTML](https://thsoft.github.io/improvisation-handbook/)
-* [PDF](https://thsoft.github.io/improvisation-handbook/Szólalj%20meg%20bátran%20a%20zene%20nyelvén!.pdf)
+* [PDF](https://thsoft.github.io/improvisation-handbook/Stílusimprovizációs%20gyakorlatgyűjtemény.pdf)
