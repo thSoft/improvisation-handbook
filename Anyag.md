@@ -1,7 +1,6 @@
 ---
 author: Harmath Dénes
-title: Szólalj meg bátran a zene nyelvén!
-subtitle: Játékos gyakorlatok a stílusimprovizációs készség fejlesztésére
+title: Játékos gyakorlatok a stílusimprovizációs készség fejlesztésére
 documentclass: scrbook
 rights: Creative Commons Attribution 4.0 International
 ---
@@ -276,6 +275,20 @@ Hallgatóidat bevonhatod az alkotói folyamatba, ha kérsz tőlük egy témát, 
 * Példák  
 ![](Képek/Basszusdíszítés/Canon-1.svg)  
 ![](Képek/Basszusdíszítés/Walking bass-1.svg)
+
+\newpage
+
+### Motivikus variáció
+* Hangszerelés
+    * énekhang vagy bármilyen hangszer
+* Szabályok
+    * Válassz egy dallamot, melynek jellegzetes ritmikája van.
+    * A ritmika megtartásával változtasd meg a dallam hangközeit.
+* Variációk
+    * Válassz egy akkordsort (akár a dallam eredeti akkordsorát), és a dallam hangjait úgy válaszd meg, hogy az akkordsorra illeszkedjenek.
+* Példák
+    * Happy Birthday
+    * Mahler: VIII. szimfónia
 
 \newpage
 
@@ -1214,6 +1227,11 @@ Az alábbiakban címszavakban összegyűjtöttem a különböző zenetörténeti
 * recitativo
 * motívumtranszformáció
 * cantilena
+
+#### Franck
+
+* motívum ismétlése mollban
+* témák egyidejű megjelenése
 
 ### Műfajok
 
