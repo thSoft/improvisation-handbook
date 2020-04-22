@@ -9,7 +9,7 @@ rights: Creative Commons Attribution 4.0 International
 
 Kedves muzsikus barátom!
 
-Ennek a tankönyvnek az a célja, hogy elindítson azon az úton, hogy a zene nyelvén ki tudd fejezni saját gondolataidat és érzéseidet a pillanatnyi helyzetnek megfelelően. Ez azért csodálatos dolog, mert egyrészt saját belső világodhoz jobban tudsz kapcsolódni, másrészt még mélyebb kapcsolatot tudsz teremteni a Téged hallgatókkal azáltal, hogy aktuális igényeikre reagálva zenei párbeszédet folytathatsz velük.
+Ennek a gyakorlatgyűjteménynek az a célja, hogy elindítson azon az úton, hogy a zene nyelvén ki tudd fejezni saját gondolataidat és érzéseidet a pillanatnyi helyzetnek megfelelően. Ez azért csodálatos dolog, mert egyrészt saját belső világodhoz jobban tudsz kapcsolódni, másrészt még mélyebb kapcsolatot tudsz teremteni a Téged hallgatókkal azáltal, hogy aktuális igényeikre reagálva zenei párbeszédet folytathatsz velük.
 
 Ha eddig még nem kóstoltál bele a rögtönzés világába, abban bízom, hogy ezek a gyakorlatok biztonságérzetet adnak és felszabadítanak. Ha pedig úgy érzed, hogy jön Belőled az improvizáció, reményeim szerint abban tudnak segíteni, hogy zenei gondolataidat még strukturáltabban tud megfogalmazni, és így a közönség azt gondolhassa, hogy rögtönzésed voltaképpen egy leírt kompozíció előadása.
 
